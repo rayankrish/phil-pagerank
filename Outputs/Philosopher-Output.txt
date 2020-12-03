@@ -1,0 +1,1113 @@
+Made the Markov Matrix!!
+Error 0: 0.200347
+Doing matrix multiplication! This takes time. Your multiplication will produce 1699 rows.
+We will print one . for each 50 rows calculated and you can expect 33 .s
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+Error 1: 0.0761909
+1 - Aristotle     0.00207228
+2 - Edward N. Zalta     0.00177306
+3 - Immanuel Kant     0.00176469
+4 - Plato     0.00130979
+5 - John Locke     0.00102867
+6 - Thomas Aquinas     0.000980971
+7 - Friedrich Nietzsche     0.000941129
+8 - Bertrand Russell     0.000938032
+9 - David Hume     0.00090188
+10 - Georg Wilhelm Friedrich Hegel     0.000895299
+11 - René Descartes     0.000860988
+12 - Edmund Husserl     0.000813659
+13 - Karl Marx     0.000785526
+14 - Augustine of Hippo     0.000642099
+15 - Albert Einstein     0.000598394
+16 - Ludwig Wittgenstein     0.000593264
+17 - Maimonides     0.00059107
+18 - Baruch Spinoza     0.00058438
+19 - Isaac Newton     0.000578804
+20 - Voltaire     0.000575551
+21 - Charles Darwin     0.000543018
+22 - John Stuart Mill     0.000513119
+23 - Søren Kierkegaard     0.000507327
+24 - Arthur Schopenhauer     0.000506166
+25 - Mencius     0.000500732
+26 - William James     0.000494203
+27 - Zhuang Zhou     0.000487673
+28 - Sigmund Freud     0.000470924
+29 - Martin Heidegger     0.000470266
+30 - Blaise Pascal     0.000467619
+31 - Cicero     0.000461387
+32 - Averroes     0.000460454
+33 - Confucius     0.000459965
+34 - Charles Sanders Peirce     0.000450545
+35 - Henri Bergson     0.000433657
+36 - Zhu Xi     0.000417658
+37 - William of Ockham     0.000412708
+38 - Thomas Hobbes     0.000408506
+39 - Jean-Paul Sartre     0.000403447
+40 - Auguste Comte     0.00040017
+41 - Gautama Buddha     0.000399584
+42 - John Rawls     0.000393042
+43 - Socrates     0.000384109
+44 - Jürgen Habermas     0.00038251
+45 - Karl Popper     0.00037465
+46 - Adam Smith     0.000373631
+47 - Christian Wolff (philosopher)     0.000365072
+48 - Jeremy Bentham     0.000361195
+49 - Avicenna     0.000359316
+50 - Martin Luther     0.000359038
+51 - Gottlob Frege     0.0003488
+52 - Nicolas Malebranche     0.000346223
+53 - Giambattista Vico     0.00034537
+54 - Émile Durkheim     0.000342439
+55 - Dante Alighieri     0.000331207
+56 - Herbert Spencer     0.000329464
+57 - Duns Scotus     0.000328759
+58 - Kurt Gödel     0.000328139
+59 - Peter Lombard     0.000328002
+60 - Noam Chomsky     0.000327368
+61 - Gottfried Leibniz     0.000321309
+62 - Benedetto Croce     0.000318666
+63 - Pierre Gassendi     0.000310949
+64 - Francis Bacon     0.000308511
+65 - Ralph Waldo Emerson     0.000308223
+66 - Hugo Grotius     0.000296165
+67 - Max Weber     0.000294185
+68 - John Dewey     0.000290136
+69 - Edmund Burke     0.000287629
+70 - Karl Barth     0.000283598
+71 - John Milton     0.000281853
+72 - G. E. Moore     0.000274592
+73 - Thomas Reid     0.000272984
+74 - Benjamin Franklin     0.000272369
+75 - Johann Gottfried Herder     0.000272227
+76 - Albertus Magnus     0.000269116
+77 - Moses Mendelssohn     0.000268693
+78 - Leslie Stephen     0.000268352
+79 - Leo Tolstoy     0.000265576
+80 - Bernard of Clairvaux     0.000263551
+81 - George Berkeley     0.000260849
+82 - Thomas Nagel     0.000253155
+83 - Sun Yat-sen     0.000252807
+84 - Pythagoras     0.000252251
+85 - Vladimir Solovyov (philosopher)     0.000251794
+86 - Jacques Derrida     0.000248119
+87 - Plotinus     0.000248086
+88 - Roger Bacon     0.000247299
+89 - Homer     0.000247083
+90 - Josiah Royce     0.000245281
+91 - Shang Yang     0.000244934
+92 - Bonaventure     0.000244084
+93 - Simone de Beauvoir     0.000243923
+94 - Friedrich Schiller     0.000242932
+95 - Alfred North Whitehead     0.000241968
+96 - Friedrich Engels     0.000241613
+97 - Derek Parfit     0.000239961
+98 - Wilfrid Sellars     0.000239573
+99 - B. R. Ambedkar     0.000238936
+100 - Rudolf Carnap     0.000238085
+Doing matrix multiplication! This takes time. Your multiplication will produce 1699 rows.
+We will print one . for each 50 rows calculated and you can expect 33 .s
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+Error 2: 0.0354819
+1 - Aristotle     0.00126919
+2 - Immanuel Kant     0.00113982
+3 - Plato     0.000914531
+4 - Edward N. Zalta     0.000849526
+5 - Bertrand Russell     0.000810208
+6 - David Hume     0.000775117
+7 - Georg Wilhelm Friedrich Hegel     0.000757886
+8 - Thomas Aquinas     0.000719162
+9 - Friedrich Nietzsche     0.000696725
+10 - John Locke     0.000665613
+11 - Karl Marx     0.000649965
+12 - Augustine of Hippo     0.000636332
+13 - René Descartes     0.000630856
+14 - Baruch Spinoza     0.000558554
+15 - John Stuart Mill     0.000547705
+16 - Søren Kierkegaard     0.000542604
+17 - Averroes     0.000539868
+18 - Isaac Newton     0.000496849
+19 - Maimonides     0.000467545
+20 - Arthur Schopenhauer     0.00046624
+21 - Karl Popper     0.000466229
+22 - Cicero     0.000458198
+23 - Blaise Pascal     0.000453109
+24 - Edmund Husserl     0.000449922
+25 - Martin Heidegger     0.000448531
+26 - Ludwig Wittgenstein     0.000435891
+27 - Confucius     0.000434871
+28 - Jürgen Habermas     0.000431989
+29 - Jean-Paul Sartre     0.000431163
+30 - Socrates     0.000428867
+31 - Noam Chomsky     0.000427784
+32 - Voltaire     0.000425981
+33 - Thomas Hobbes     0.000424108
+34 - Adam Smith     0.000420371
+35 - William of Ockham     0.000416768
+36 - Jeremy Bentham     0.000416066
+37 - Nicolas Malebranche     0.000415684
+38 - Edmund Burke     0.000414839
+39 - Mencius     0.000408953
+40 - Herbert Spencer     0.000403535
+41 - Albert Einstein     0.000395123
+42 - Johann Gottfried Herder     0.000391647
+43 - John Rawls     0.000387818
+44 - William James     0.000382739
+45 - Charles Darwin     0.0003757
+46 - Auguste Comte     0.000373284
+47 - Gottlob Frege     0.000363721
+48 - Charles Sanders Peirce     0.00036341
+49 - Henri Bergson     0.000362312
+50 - Ralph Waldo Emerson     0.000349379
+51 - Avicenna     0.000348312
+52 - Dante Alighieri     0.000345648
+53 - Francisco Suárez     0.000342119
+54 - Giambattista Vico     0.000336787
+55 - Charles Taylor (philosopher)     0.000333265
+56 - Albert Camus     0.000332167
+57 - Rudolf Carnap     0.000329852
+58 - Simone de Beauvoir     0.00032447
+59 - Carl Schmitt     0.000323241
+60 - John Dewey     0.000319294
+61 - Max Weber     0.000318289
+62 - Leo Strauss     0.000317893
+63 - Friedrich Schiller     0.000316038
+64 - Friedrich Engels     0.000313383
+65 - John Milton     0.000312588
+66 - Josiah Royce     0.000310851
+67 - Sigmund Freud     0.000307988
+68 - Hugo Grotius     0.000304097
+69 - Herbert Marcuse     0.000304014
+70 - Thomas More     0.000302791
+71 - José Ortega y Gasset     0.000302761
+72 - Anselm of Canterbury     0.000302065
+73 - Martin Luther     0.000301871
+74 - G. E. Moore     0.000301067
+75 - Tertullian     0.00029882
+76 - George Santayana     0.000297852
+77 - Benjamin Franklin     0.000297826
+78 - Shang Yang     0.000297807
+79 - Ibn Khaldun     0.000297277
+80 - Alfred North Whitehead     0.000295781
+81 - Émile Durkheim     0.000295576
+82 - Jacques Maritain     0.0002936
+83 - Michael Dummett     0.000292556
+84 - Michel Foucault     0.000290627
+85 - Duns Scotus     0.000289768
+86 - Slavoj Žižek     0.00028909
+87 - B. R. Ambedkar     0.000289044
+88 - Gabriel Marcel     0.000288272
+89 - Michael Walzer     0.000286792
+90 - Thomas Jefferson     0.000286426
+91 - John Searle     0.000284926
+92 - Robert Nozick     0.00028369
+93 - Alvin Plantinga     0.000283665
+94 - Roger Bacon     0.000282541
+95 - Antonio Gramsci     0.000282232
+96 - Thomas Paine     0.000281451
+97 - Antonio Negri     0.000280805
+98 - Paul Tillich     0.000280055
+99 - William Whewell     0.000277579
+100 - Daniel Dennett     0.000276991
+Doing matrix multiplication! This takes time. Your multiplication will produce 1699 rows.
+We will print one . for each 50 rows calculated and you can expect 33 .s
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+Error 3: 0.0307786
+1 - Aristotle     0.00118591
+2 - Immanuel Kant     0.00107799
+3 - Plato     0.0008879
+4 - Bertrand Russell     0.000767784
+5 - Edward N. Zalta     0.000746165
+6 - David Hume     0.00074289
+7 - Georg Wilhelm Friedrich Hegel     0.000733829
+8 - Thomas Aquinas     0.000696199
+9 - Friedrich Nietzsche     0.000685804
+10 - Karl Marx     0.000668893
+11 - John Locke     0.000633795
+12 - Augustine of Hippo     0.000612697
+13 - René Descartes     0.000606323
+14 - Baruch Spinoza     0.000538149
+15 - John Stuart Mill     0.000535652
+16 - Søren Kierkegaard     0.000533012
+17 - Averroes     0.000512208
+18 - Karl Popper     0.000459469
+19 - Isaac Newton     0.000454433
+20 - Martin Heidegger     0.000450237
+21 - Arthur Schopenhauer     0.00044775
+22 - Jean-Paul Sartre     0.000440808
+23 - Maimonides     0.000437255
+24 - Cicero     0.000433234
+25 - Jürgen Habermas     0.000433162
+26 - Blaise Pascal     0.000428389
+27 - Noam Chomsky     0.000425779
+28 - Edmund Husserl     0.000425401
+29 - Socrates     0.000422167
+30 - Adam Smith     0.00042158
+31 - Nicolas Malebranche     0.000418837
+32 - Voltaire     0.000417108
+33 - Ludwig Wittgenstein     0.000416414
+34 - Jeremy Bentham     0.000414436
+35 - Thomas Hobbes     0.000412451
+36 - William of Ockham     0.000411384
+37 - Edmund Burke     0.000410869
+38 - Confucius     0.000391332
+39 - John Rawls     0.000388454
+40 - Herbert Spencer     0.000387668
+41 - Johann Gottfried Herder     0.000380583
+42 - Auguste Comte     0.000370949
+43 - William James     0.000361676
+44 - Mencius     0.000355966
+45 - Albert Einstein     0.000354812
+46 - Henri Bergson     0.000348826
+47 - Albert Camus     0.000343685
+48 - Francisco Suárez     0.000342123
+49 - Dante Alighieri     0.000342093
+50 - Charles Sanders Peirce     0.000341041
+51 - Giambattista Vico     0.000339417
+52 - Ralph Waldo Emerson     0.000339328
+53 - Carl Schmitt     0.00033852
+54 - Simone de Beauvoir     0.000336187
+55 - Charles Taylor (philosopher)     0.00033169
+56 - Gottlob Frege     0.000331559
+57 - Charles Darwin     0.000331075
+58 - Friedrich Engels     0.000328321
+59 - Max Weber     0.000327275
+60 - Leo Strauss     0.000323996
+61 - Herbert Marcuse     0.000323992
+62 - Avicenna     0.000322241
+63 - Rudolf Carnap     0.000319287
+64 - Friedrich Schiller     0.00031398
+65 - John Dewey     0.000311507
+66 - Thomas More     0.000308582
+67 - José Ortega y Gasset     0.000307895
+68 - Slavoj Žižek     0.00030712
+69 - George Santayana     0.00030499
+70 - Josiah Royce     0.000303558
+71 - Tertullian     0.000302823
+72 - John Milton     0.000302648
+73 - Michel Foucault     0.000300986
+74 - Antonio Negri     0.000300898
+75 - Hugo Grotius     0.000299784
+76 - Martin Luther     0.000298442
+77 - Émile Durkheim     0.000298166
+78 - Jacques Maritain     0.000297533
+79 - Antonio Gramsci     0.000294555
+80 - Benjamin Franklin     0.000293254
+81 - Sigmund Freud     0.0002917
+82 - Gabriel Marcel     0.000290339
+83 - Michael Walzer     0.0002899
+84 - Guy Debord     0.000289251
+85 - John Searle     0.000287829
+86 - Robert Nozick     0.00028737
+87 - Anselm of Canterbury     0.000287033
+88 - Peter Kropotkin     0.000286803
+89 - Ibn Khaldun     0.000286236
+90 - Thomas Jefferson     0.000285755
+91 - Thomas Paine     0.000282504
+92 - G. E. Moore     0.000281057
+93 - Alfred North Whitehead     0.000280847
+94 - Hannah Arendt     0.000279844
+95 - Jacques-Bénigne Bossuet     0.000277395
+96 - Paul Tillich     0.000277312
+97 - Shang Yang     0.000273867
+98 - William Godwin     0.000273315
+99 - Duns Scotus     0.0002725
+100 - Alvin Plantinga     0.000272142
+Doing matrix multiplication! This takes time. Your multiplication will produce 1699 rows.
+We will print one . for each 50 rows calculated and you can expect 33 .s
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+Error 4: 0.0283447
+1 - Aristotle     0.00108674
+2 - Immanuel Kant     0.000991455
+3 - Plato     0.000815597
+4 - Bertrand Russell     0.000705128
+5 - David Hume     0.000683962
+6 - Edward N. Zalta     0.00068295
+7 - Georg Wilhelm Friedrich Hegel     0.000676263
+8 - Thomas Aquinas     0.000640849
+9 - Friedrich Nietzsche     0.000632941
+10 - Karl Marx     0.00061929
+11 - John Locke     0.000583811
+12 - Augustine of Hippo     0.000563307
+13 - René Descartes     0.000557993
+14 - Baruch Spinoza     0.000495204
+15 - John Stuart Mill     0.000493175
+16 - Søren Kierkegaard     0.000491537
+17 - Averroes     0.000469962
+18 - Karl Popper     0.00042303
+19 - Isaac Newton     0.000416589
+20 - Martin Heidegger     0.000416201
+21 - Arthur Schopenhauer     0.000412658
+22 - Jean-Paul Sartre     0.000408225
+23 - Maimonides     0.000400695
+24 - Jürgen Habermas     0.000400285
+25 - Cicero     0.000397686
+26 - Blaise Pascal     0.000393904
+27 - Noam Chomsky     0.000392876
+28 - Edmund Husserl     0.000391368
+29 - Adam Smith     0.000389322
+30 - Socrates     0.000387723
+31 - Nicolas Malebranche     0.000386183
+32 - Voltaire     0.000384986
+33 - Ludwig Wittgenstein     0.000382282
+34 - Jeremy Bentham     0.000382272
+35 - Thomas Hobbes     0.000379794
+36 - Edmund Burke     0.000379431
+37 - William of Ockham     0.000378841
+38 - John Rawls     0.000357967
+39 - Herbert Spencer     0.000356856
+40 - Confucius     0.000356792
+41 - Johann Gottfried Herder     0.000350876
+42 - Auguste Comte     0.000341976
+43 - William James     0.000332533
+44 - Albert Einstein     0.000325203
+45 - Mencius     0.000321771
+46 - Henri Bergson     0.000321629
+47 - Albert Camus     0.000318407
+48 - Francisco Suárez     0.000315588
+49 - Dante Alighieri     0.000315344
+50 - Carl Schmitt     0.000313577
+51 - Giambattista Vico     0.000313326
+52 - Charles Sanders Peirce     0.000313226
+53 - Ralph Waldo Emerson     0.000312582
+54 - Simone de Beauvoir     0.000311586
+55 - Charles Taylor (philosopher)     0.000305237
+56 - Friedrich Engels     0.000304432
+57 - Gottlob Frege     0.000303729
+58 - Charles Darwin     0.000302667
+59 - Max Weber     0.000302655
+60 - Herbert Marcuse     0.000300771
+61 - Leo Strauss     0.000299427
+62 - Avicenna     0.000295218
+63 - Rudolf Carnap     0.000293141
+64 - Friedrich Schiller     0.000290015
+65 - John Dewey     0.000287026
+66 - Thomas More     0.000285001
+67 - Slavoj Žižek     0.000284934
+68 - José Ortega y Gasset     0.000284884
+69 - George Santayana     0.000281472
+70 - Josiah Royce     0.000279328
+71 - Tertullian     0.000279248
+72 - Antonio Negri     0.000279221
+73 - John Milton     0.000278793
+74 - Michel Foucault     0.000278686
+75 - Hugo Grotius     0.000276641
+76 - Émile Durkheim     0.000275464
+77 - Martin Luther     0.000275245
+78 - Jacques Maritain     0.000274656
+79 - Antonio Gramsci     0.000272983
+80 - Benjamin Franklin     0.000270535
+81 - Sigmund Freud     0.000269576
+82 - Gabriel Marcel     0.000268353
+83 - Guy Debord     0.000268223
+84 - Michael Walzer     0.000267323
+85 - Peter Kropotkin     0.000265405
+86 - John Searle     0.000265331
+87 - Robert Nozick     0.000264979
+88 - Thomas Jefferson     0.000263717
+89 - Anselm of Canterbury     0.00026369
+90 - Ibn Khaldun     0.000263117
+91 - Thomas Paine     0.000260758
+92 - Hannah Arendt     0.00025915
+93 - Alfred North Whitehead     0.000257846
+94 - G. E. Moore     0.000257711
+95 - Jacques-Bénigne Bossuet     0.000256095
+96 - Paul Tillich     0.00025547
+97 - William Godwin     0.000252994
+98 - Vladimir Lenin     0.000250733
+99 - Duns Scotus     0.000250277
+100 - Shang Yang     0.000250167
+Doing matrix multiplication! This takes time. Your multiplication will produce 1699 rows.
+We will print one . for each 50 rows calculated and you can expect 33 .s
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+Error 5: 0.023957
+1 - Aristotle     0.000918569
+2 - Immanuel Kant     0.000838077
+3 - Plato     0.000689391
+4 - Bertrand Russell     0.000596033
+5 - David Hume     0.000578159
+6 - Edward N. Zalta     0.000577262
+7 - Georg Wilhelm Friedrich Hegel     0.000571651
+8 - Thomas Aquinas     0.000541709
+9 - Friedrich Nietzsche     0.00053504
+10 - Karl Marx     0.000523515
+11 - John Locke     0.000493504
+12 - Augustine of Hippo     0.000476151
+13 - René Descartes     0.000471675
+14 - Baruch Spinoza     0.000418597
+15 - John Stuart Mill     0.000416882
+16 - Søren Kierkegaard     0.000415506
+17 - Averroes     0.00039725
+18 - Karl Popper     0.000357587
+19 - Isaac Newton     0.000352138
+20 - Martin Heidegger     0.000351831
+21 - Arthur Schopenhauer     0.000348827
+22 - Jean-Paul Sartre     0.000345093
+23 - Maimonides     0.000338698
+24 - Jürgen Habermas     0.000338376
+25 - Cicero     0.000336147
+26 - Blaise Pascal     0.000332967
+27 - Noam Chomsky     0.000332107
+28 - Edmund Husserl     0.000330824
+29 - Adam Smith     0.000329105
+30 - Socrates     0.000327718
+31 - Nicolas Malebranche     0.000326445
+32 - Voltaire     0.000325439
+33 - Jeremy Bentham     0.000323139
+34 - Ludwig Wittgenstein     0.000323135
+35 - Thomas Hobbes     0.000321041
+36 - Edmund Burke     0.000320747
+37 - William of Ockham     0.000320235
+38 - John Rawls     0.00030259
+39 - Herbert Spencer     0.000301653
+40 - Confucius     0.00030155
+41 - Johann Gottfried Herder     0.000296601
+42 - Auguste Comte     0.000289077
+43 - William James     0.000281094
+44 - Albert Einstein     0.000274889
+45 - Mencius     0.000271913
+46 - Henri Bergson     0.000271879
+47 - Albert Camus     0.000269165
+48 - Francisco Suárez     0.00026677
+49 - Dante Alighieri     0.000266561
+50 - Carl Schmitt     0.000265081
+51 - Giambattista Vico     0.000264861
+52 - Charles Sanders Peirce     0.000264767
+53 - Ralph Waldo Emerson     0.000264226
+54 - Simone de Beauvoir     0.000263402
+55 - Charles Taylor (philosopher)     0.000258013
+56 - Friedrich Engels     0.000257353
+57 - Gottlob Frege     0.000256731
+58 - Max Weber     0.000255844
+59 - Charles Darwin     0.000255836
+60 - Herbert Marcuse     0.000254263
+61 - Leo Strauss     0.000253114
+62 - Avicenna     0.00024954
+63 - Rudolf Carnap     0.000247787
+64 - Friedrich Schiller     0.000245159
+65 - John Dewey     0.000242626
+66 - Thomas More     0.000240916
+67 - Slavoj Žižek     0.000240873
+68 - José Ortega y Gasset     0.000240825
+69 - George Santayana     0.000237933
+70 - Josiah Royce     0.000236114
+71 - Tertullian     0.00023605
+72 - Antonio Negri     0.000236043
+73 - John Milton     0.000235667
+74 - Michel Foucault     0.000235586
+75 - Hugo Grotius     0.00023385
+76 - Émile Durkheim     0.000232857
+77 - Martin Luther     0.000232668
+78 - Jacques Maritain     0.000232171
+79 - Antonio Gramsci     0.000230767
+80 - Benjamin Franklin     0.00022869
+81 - Sigmund Freud     0.000227888
+82 - Gabriel Marcel     0.000226851
+83 - Guy Debord     0.000226744
+84 - Michael Walzer     0.00022597
+85 - Peter Kropotkin     0.000224357
+86 - John Searle     0.000224286
+87 - Robert Nozick     0.000223988
+88 - Thomas Jefferson     0.000222926
+89 - Anselm of Canterbury     0.000222893
+90 - Ibn Khaldun     0.00022241
+91 - Thomas Paine     0.000220426
+92 - Hannah Arendt     0.000219073
+93 - Alfred North Whitehead     0.000217951
+94 - G. E. Moore     0.000217834
+95 - Jacques-Bénigne Bossuet     0.000216481
+96 - Paul Tillich     0.00021595
+97 - William Godwin     0.000213865
+98 - Vladimir Lenin     0.000211953
+99 - Duns Scotus     0.000211556
+100 - Shang Yang     0.00021144
+Doing matrix multiplication! This takes time. Your multiplication will produce 1699 rows.
+We will print one . for each 50 rows calculated and you can expect 33 .s
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+Error 6: 0.0171173
+1 - Aristotle     0.000656326
+2 - Immanuel Kant     0.000598814
+3 - Plato     0.000492576
+4 - Bertrand Russell     0.000425871
+5 - David Hume     0.0004131
+6 - Edward N. Zalta     0.000412459
+7 - Georg Wilhelm Friedrich Hegel     0.00040845
+8 - Thomas Aquinas     0.000387056
+9 - Friedrich Nietzsche     0.000382291
+10 - Karl Marx     0.000374056
+11 - John Locke     0.000352614
+12 - Augustine of Hippo     0.000340215
+13 - René Descartes     0.000337016
+14 - Baruch Spinoza     0.000299091
+15 - John Stuart Mill     0.000297866
+16 - Søren Kierkegaard     0.000296883
+17 - Averroes     0.000283839
+18 - Karl Popper     0.0002555
+19 - Isaac Newton     0.000251606
+20 - Martin Heidegger     0.000251387
+21 - Arthur Schopenhauer     0.00024924
+22 - Jean-Paul Sartre     0.000246573
+23 - Maimonides     0.000242003
+24 - Jürgen Habermas     0.000241773
+25 - Cicero     0.00024018
+26 - Blaise Pascal     0.000237908
+27 - Noam Chomsky     0.000237293
+28 - Edmund Husserl     0.000236377
+29 - Adam Smith     0.000235148
+30 - Socrates     0.000234157
+31 - Nicolas Malebranche     0.000233248
+32 - Voltaire     0.000232529
+33 - Jeremy Bentham     0.000230886
+34 - Ludwig Wittgenstein     0.000230883
+35 - Thomas Hobbes     0.000229387
+36 - Edmund Burke     0.000229177
+37 - William of Ockham     0.000228811
+38 - John Rawls     0.000216204
+39 - Herbert Spencer     0.000215534
+40 - Confucius     0.000215461
+41 - Johann Gottfried Herder     0.000211924
+42 - Auguste Comte     0.000206548
+43 - William James     0.000200844
+44 - Albert Einstein     0.000196411
+45 - Mencius     0.000194285
+46 - Henri Bergson     0.00019426
+47 - Albert Camus     0.000192321
+48 - Francisco Suárez     0.00019061
+49 - Dante Alighieri     0.00019046
+50 - Carl Schmitt     0.000189403
+51 - Giambattista Vico     0.000189246
+52 - Charles Sanders Peirce     0.000189178
+53 - Ralph Waldo Emerson     0.000188792
+54 - Simone de Beauvoir     0.000188203
+55 - Charles Taylor (philosopher)     0.000184353
+56 - Friedrich Engels     0.000183881
+57 - Gottlob Frege     0.000183436
+58 - Max Weber     0.000182803
+59 - Charles Darwin     0.000182797
+60 - Herbert Marcuse     0.000181673
+61 - Leo Strauss     0.000180852
+62 - Avicenna     0.000178299
+63 - Rudolf Carnap     0.000177046
+64 - Friedrich Schiller     0.000175169
+65 - John Dewey     0.000173358
+66 - Thomas More     0.000172137
+67 - Slavoj Žižek     0.000172106
+68 - José Ortega y Gasset     0.000172072
+69 - George Santayana     0.000170006
+70 - Josiah Royce     0.000168706
+71 - Tertullian     0.00016866
+72 - Antonio Negri     0.000168655
+73 - John Milton     0.000168386
+74 - Michel Foucault     0.000168328
+75 - Hugo Grotius     0.000167088
+76 - Émile Durkheim     0.000166379
+77 - Martin Luther     0.000166243
+78 - Jacques Maritain     0.000165889
+79 - Antonio Gramsci     0.000164885
+80 - Benjamin Franklin     0.000163401
+81 - Sigmund Freud     0.000162828
+82 - Gabriel Marcel     0.000162087
+83 - Guy Debord     0.000162011
+84 - Michael Walzer     0.000161457
+85 - Peter Kropotkin     0.000160305
+86 - John Searle     0.000160254
+87 - Robert Nozick     0.000160042
+88 - Thomas Jefferson     0.000159283
+89 - Anselm of Canterbury     0.000159259
+90 - Ibn Khaldun     0.000158914
+91 - Thomas Paine     0.000157496
+92 - Hannah Arendt     0.00015653
+93 - Alfred North Whitehead     0.000155728
+94 - G. E. Moore     0.000155644
+95 - Jacques-Bénigne Bossuet     0.000154677
+96 - Paul Tillich     0.000154299
+97 - William Godwin     0.000152809
+98 - Vladimir Lenin     0.000151443
+99 - Duns Scotus     0.000151159
+100 - Shang Yang     0.000151076
+Doing matrix multiplication! This takes time. Your multiplication will produce 1699 rows.
+We will print one . for each 50 rows calculated and you can expect 33 .s
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+Error 7: 0.00873879
+1 - Aristotle     0.00033507
+2 - Immanuel Kant     0.000305709
+3 - Plato     0.000251472
+4 - Bertrand Russell     0.000217417
+5 - David Hume     0.000210898
+6 - Edward N. Zalta     0.00021057
+7 - Georg Wilhelm Friedrich Hegel     0.000208524
+8 - Thomas Aquinas     0.000197601
+9 - Friedrich Nietzsche     0.000195169
+10 - Karl Marx     0.000190965
+11 - John Locke     0.000180018
+12 - Augustine of Hippo     0.000173688
+13 - René Descartes     0.000172055
+14 - Baruch Spinoza     0.000152693
+15 - John Stuart Mill     0.000152068
+16 - Søren Kierkegaard     0.000151566
+17 - Averroes     0.000144907
+18 - Karl Popper     0.000130439
+19 - Isaac Newton     0.000128451
+20 - Martin Heidegger     0.000128339
+21 - Arthur Schopenhauer     0.000127243
+22 - Jean-Paul Sartre     0.000125881
+23 - Maimonides     0.000123548
+24 - Jürgen Habermas     0.000123431
+25 - Cicero     0.000122618
+26 - Blaise Pascal     0.000121458
+27 - Noam Chomsky     0.000121144
+28 - Edmund Husserl     0.000120676
+29 - Adam Smith     0.000120049
+30 - Socrates     0.000119543
+31 - Nicolas Malebranche     0.000119079
+32 - Voltaire     0.000118712
+33 - Jeremy Bentham     0.000117873
+34 - Ludwig Wittgenstein     0.000117871
+35 - Thomas Hobbes     0.000117108
+36 - Edmund Burke     0.000117
+37 - William of Ockham     0.000116814
+38 - John Rawls     0.000110377
+39 - Herbert Spencer     0.000110035
+40 - Confucius     0.000109998
+41 - Johann Gottfried Herder     0.000108192
+42 - Auguste Comte     0.000105448
+43 - William James     0.000102536
+44 - Albert Einstein     0.000100272
+45 - Mencius     9.91869e-005
+46 - Henri Bergson     9.91744e-005
+47 - Albert Camus     9.81846e-005
+48 - Francisco Suárez     9.73109e-005
+49 - Dante Alighieri     9.72346e-005
+50 - Carl Schmitt     9.66948e-005
+51 - Giambattista Vico     9.66146e-005
+52 - Charles Sanders Peirce     9.65801e-005
+53 - Ralph Waldo Emerson     9.63828e-005
+54 - Simone de Beauvoir     9.60821e-005
+55 - Charles Taylor (philosopher)     9.41165e-005
+56 - Friedrich Engels     9.38759e-005
+57 - Gottlob Frege     9.36487e-005
+58 - Max Weber     9.33254e-005
+59 - Charles Darwin     9.33224e-005
+60 - Herbert Marcuse     9.27484e-005
+61 - Leo Strauss     9.23294e-005
+62 - Avicenna     9.10259e-005
+63 - Rudolf Carnap     9.03863e-005
+64 - Friedrich Schiller     8.94278e-005
+65 - John Dewey     8.85036e-005
+66 - Thomas More     8.78799e-005
+67 - Slavoj Žižek     8.78642e-005
+68 - José Ortega y Gasset     8.78469e-005
+69 - George Santayana     8.67919e-005
+70 - Josiah Royce     8.61283e-005
+71 - Tertullian     8.61048e-005
+72 - Antonio Negri     8.61023e-005
+73 - John Milton     8.59651e-005
+74 - Michel Foucault     8.59357e-005
+75 - Hugo Grotius     8.53023e-005
+76 - Émile Durkheim     8.49403e-005
+77 - Martin Luther     8.48712e-005
+78 - Jacques Maritain     8.46901e-005
+79 - Antonio Gramsci     8.41778e-005
+80 - Benjamin Franklin     8.34201e-005
+81 - Sigmund Freud     8.31276e-005
+82 - Gabriel Marcel     8.27494e-005
+83 - Guy Debord     8.27103e-005
+84 - Michael Walzer     8.24279e-005
+85 - Peter Kropotkin     8.18396e-005
+86 - John Searle     8.18136e-005
+87 - Robert Nozick     8.17051e-005
+88 - Thomas Jefferson     8.13178e-005
+89 - Anselm of Canterbury     8.13056e-005
+90 - Ibn Khaldun     8.11294e-005
+91 - Thomas Paine     8.04056e-005
+92 - Hannah Arendt     7.99124e-005
+93 - Alfred North Whitehead     7.9503e-005
+94 - G. E. Moore     7.94601e-005
+95 - Jacques-Bénigne Bossuet     7.89665e-005
+96 - Paul Tillich     7.87731e-005
+97 - William Godwin     7.80126e-005
+98 - Vladimir Lenin     7.73151e-005
+99 - Duns Scotus     7.71701e-005
+100 - Shang Yang     7.71277e-005
+Doing matrix multiplication! This takes time. Your multiplication will produce 1699 rows.
+We will print one . for each 50 rows calculated and you can expect 33 .s
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+Error 8: 0.00227763
+1 - Aristotle     8.73309e-005
+2 - Immanuel Kant     7.96784e-005
+3 - Plato     6.55424e-005
+4 - Bertrand Russell     5.66665e-005
+5 - David Hume     5.49672e-005
+6 - Edward N. Zalta     5.4882e-005
+7 - Georg Wilhelm Friedrich Hegel     5.43485e-005
+8 - Thomas Aquinas     5.15018e-005
+9 - Friedrich Nietzsche     5.08678e-005
+10 - Karl Marx     4.9772e-005
+11 - John Locke     4.69189e-005
+12 - Augustine of Hippo     4.52691e-005
+13 - René Descartes     4.48434e-005
+14 - Baruch Spinoza     3.97972e-005
+15 - John Stuart Mill     3.96342e-005
+16 - Søren Kierkegaard     3.95033e-005
+17 - Averroes     3.77677e-005
+18 - Karl Popper     3.39968e-005
+19 - Isaac Newton     3.34788e-005
+20 - Martin Heidegger     3.34496e-005
+21 - Arthur Schopenhauer     3.31639e-005
+22 - Jean-Paul Sartre     3.2809e-005
+23 - Maimonides     3.2201e-005
+24 - Jürgen Habermas     3.21703e-005
+25 - Cicero     3.19584e-005
+26 - Blaise Pascal     3.16561e-005
+27 - Noam Chomsky     3.15743e-005
+28 - Edmund Husserl     3.14524e-005
+29 - Adam Smith     3.12889e-005
+30 - Socrates     3.11571e-005
+31 - Nicolas Malebranche     3.10361e-005
+32 - Voltaire     3.09404e-005
+33 - Jeremy Bentham     3.07217e-005
+34 - Ludwig Wittgenstein     3.07214e-005
+35 - Thomas Hobbes     3.05223e-005
+36 - Edmund Burke     3.04943e-005
+37 - William of Ockham     3.04457e-005
+38 - John Rawls     2.87681e-005
+39 - Herbert Spencer     2.8679e-005
+40 - Confucius     2.86692e-005
+41 - Johann Gottfried Herder     2.81987e-005
+42 - Auguste Comte     2.74833e-005
+43 - William James     2.67244e-005
+44 - Albert Einstein     2.61344e-005
+45 - Mencius     2.58516e-005
+46 - Henri Bergson     2.58483e-005
+47 - Albert Camus     2.55903e-005
+48 - Francisco Suárez     2.53626e-005
+49 - Dante Alighieri     2.53427e-005
+50 - Carl Schmitt     2.5202e-005
+51 - Giambattista Vico     2.51811e-005
+52 - Charles Sanders Peirce     2.51721e-005
+53 - Ralph Waldo Emerson     2.51207e-005
+54 - Simone de Beauvoir     2.50423e-005
+55 - Charles Taylor (philosopher)     2.453e-005
+56 - Friedrich Engels     2.44673e-005
+57 - Gottlob Frege     2.44081e-005
+58 - Max Weber     2.43238e-005
+59 - Charles Darwin     2.43231e-005
+60 - Herbert Marcuse     2.41735e-005
+61 - Leo Strauss     2.40642e-005
+62 - Avicenna     2.37245e-005
+63 - Rudolf Carnap     2.35578e-005
+64 - Friedrich Schiller     2.3308e-005
+65 - John Dewey     2.30671e-005
+66 - Thomas More     2.29046e-005
+67 - Slavoj Žižek     2.29004e-005
+68 - José Ortega y Gasset     2.28959e-005
+69 - George Santayana     2.2621e-005
+70 - Josiah Royce     2.2448e-005
+71 - Tertullian     2.24419e-005
+72 - Antonio Negri     2.24413e-005
+73 - John Milton     2.24055e-005
+74 - Michel Foucault     2.23978e-005
+75 - Hugo Grotius     2.22327e-005
+76 - Émile Durkheim     2.21384e-005
+77 - Martin Luther     2.21204e-005
+78 - Jacques Maritain     2.20732e-005
+79 - Antonio Gramsci     2.19397e-005
+80 - Benjamin Franklin     2.17422e-005
+81 - Sigmund Freud     2.1666e-005
+82 - Gabriel Marcel     2.15674e-005
+83 - Guy Debord     2.15572e-005
+84 - Michael Walzer     2.14836e-005
+85 - Peter Kropotkin     2.13302e-005
+86 - John Searle     2.13235e-005
+87 - Robert Nozick     2.12952e-005
+88 - Thomas Jefferson     2.11942e-005
+89 - Anselm of Canterbury     2.11911e-005
+90 - Ibn Khaldun     2.11451e-005
+91 - Thomas Paine     2.09565e-005
+92 - Hannah Arendt     2.08279e-005
+93 - Alfred North Whitehead     2.07213e-005
+94 - G. E. Moore     2.07101e-005
+95 - Jacques-Bénigne Bossuet     2.05814e-005
+96 - Paul Tillich     2.0531e-005
+97 - William Godwin     2.03328e-005
+98 - Vladimir Lenin     2.0151e-005
+99 - Duns Scotus     2

@@ -1,0 +1,956 @@
+22:47:18: Starting D:\DOCUMENTS\SCHOOL FILES\2019-2020\CS106 Final\11-graphs\build-graphs-Desktop_Qt_5_12_6_MinGW_64_bit-Debug\debug\graphs.exe ...
+Made the Markov Matrix!!
+Error 0: 0.219469
+Doing matrix multiplication! This takes time. Your multiplication will produce 694 rows.
+We will print one . for each 50 rows calculated and you can expect 13 .s
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+Error 1: 0.110484
+1 - C (programming language)     0.00730522
+2 - Java (programming language)     0.00487156
+3 - C++     0.00390455
+4 - Assembly language     0.00266485
+5 - Python (programming language)     0.00231764
+6 - Fortran     0.00231029
+7 - Pascal (programming language)     0.00230403
+8 - Lisp (programming language)     0.0020924
+9 - Haskell (programming language)     0.00204473
+10 - BASIC     0.00204006
+11 - Smalltalk     0.00199056
+12 - SQL     0.00170772
+13 - C Sharp (programming language)     0.00167768
+14 - JavaScript     0.00166682
+15 - Perl     0.00139344
+16 - COBOL     0.00138624
+17 - OCaml     0.00113057
+18 - Scheme (programming language)     0.00108954
+19 - PL/I     0.00108937
+20 - Ada (programming language)     0.00100269
+21 - PHP     0.000988073
+22 - Ruby (programming language)     0.000919863
+23 - Prolog     0.000910663
+24 - MATLAB     0.000879538
+25 - HyperTalk     0.000856252
+26 - ALGOL 60     0.000849997
+27 - ML (programming language)     0.000834111
+28 - Scala (programming language)     0.000824191
+29 - APL (programming language)     0.000769863
+30 - Objective-C     0.000737131
+31 - Scratch (programming language)     0.00071074
+32 - Modula-2     0.000709463
+33 - Lua (programming language)     0.000706181
+34 - Machine code     0.000698083
+35 - Occam (programming language)     0.000695131
+36 - Go (programming language)     0.000664814
+37 - R (programming language)     0.000660054
+38 - Visual Basic     0.00062424
+39 - ALGOL 68     0.000605395
+40 - PostScript     0.000558589
+41 - Visual Basic .NET     0.000552796
+42 - Shell script     0.0005328
+43 - TypeScript     0.000528984
+44 - Rust (programming language)     0.000527253
+45 - Verilog     0.0005244
+46 - REXX     0.000522312
+47 - BCPL     0.000519691
+48 - TeX     0.000516908
+49 - Tcl     0.000514762
+50 - Self (programming language)     0.000506205
+51 - MUMPS     0.000504259
+52 - Maple (software)     0.000495918
+53 - Timeline of programming languages     0.00049569
+54 - Julia (programming language)     0.000486761
+55 - ECMAScript     0.000467648
+56 - Logo (programming language)     0.000441586
+57 - List of programming languages by type     0.000435421
+58 - PL360     0.000427699
+59 - Swift (programming language)     0.00041587
+60 - LabVIEW     0.000415506
+61 - Kotlin (programming language)     0.000414637
+62 - Clojure     0.000412006
+63 - Non-English-based programming languages     0.00040838
+64 - Nial     0.000403608
+65 - JASS     0.000400976
+66 - Eiffel (programming language)     0.000390859
+67 - Forth (programming language)     0.000383647
+68 - Oberon (programming language)     0.000376301
+69 - F Sharp (programming language)     0.000375926
+70 - Modula-3     0.000372298
+71 - Esterel     0.000370356
+72 - Groovy (programming language)     0.000367442
+73 - SNOBOL     0.000362565
+74 - Common Lisp     0.000350943
+75 - Simulink     0.000350053
+76 - AWK     0.000347824
+77 - History of programming languages     0.000346775
+78 - PowerShell     0.000344445
+79 - POP-2     0.000340355
+80 - ALGOL 58     0.000338625
+81 - Elixir (programming language)     0.000337548
+82 - FLOW-MATIC     0.000324548
+83 - SISAL     0.000321087
+84 - G-code     0.000318733
+85 - Pure Data     0.000317936
+86 - JScript     0.000315295
+87 - Mathcad     0.000307739
+88 - Squeak     0.000304115
+89 - Processing (programming language)     0.000302899
+90 - Object Pascal     0.000302289
+91 - Bash (Unix shell)     0.000299147
+92 - WebAssembly     0.000297698
+93 - CLU (programming language)     0.000295639
+94 - Flavors (programming language)     0.000295223
+95 - Simula     0.000290681
+96 - DBase     0.000276865
+97 - Erlang (programming language)     0.000276197
+98 - Common Intermediate Language     0.000275478
+99 - Apache Groovy     0.000275263
+100 - Batch file     0.000272997
+Doing matrix multiplication! This takes time. Your multiplication will produce 694 rows.
+We will print one . for each 50 rows calculated and you can expect 13 .s
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+Error 2: 0.0694931
+1 - C (programming language)     0.00378789
+2 - Java (programming language)     0.00268784
+3 - C++     0.00261994
+4 - Pascal (programming language)     0.0019747
+5 - Python (programming language)     0.00192647
+6 - Lisp (programming language)     0.00183754
+7 - Fortran     0.00183383
+8 - Assembly language     0.00179815
+9 - JavaScript     0.00176101
+10 - C Sharp (programming language)     0.00175805
+11 - Smalltalk     0.00162211
+12 - Haskell (programming language)     0.00150415
+13 - COBOL     0.00146071
+14 - BASIC     0.00141996
+15 - Perl     0.0014118
+16 - Ruby (programming language)     0.0013748
+17 - Scala (programming language)     0.00127045
+18 - Lua (programming language)     0.00123447
+19 - Objective-C     0.00122359
+20 - Go (programming language)     0.00121982
+21 - APL (programming language)     0.00119808
+22 - MATLAB     0.00119725
+23 - R (programming language)     0.00117646
+24 - TypeScript     0.00115402
+25 - PHP     0.00114718
+26 - OCaml     0.00114212
+27 - Rust (programming language)     0.00112937
+28 - Visual Basic .NET     0.00112702
+29 - Julia (programming language)     0.00109315
+30 - Shell script     0.00106083
+31 - Non-English-based programming languages     0.00104892
+32 - List of programming languages by type     0.00103011
+33 - Timeline of programming languages     0.00102377
+34 - Kotlin (programming language)     0.00100787
+35 - Swift (programming language)     0.000981983
+36 - History of programming languages     0.000969024
+37 - Elixir (programming language)     0.000966004
+38 - Apache Groovy     0.000915814
+39 - SQL     0.00090366
+40 - Ada (programming language)     0.000829038
+41 - Scheme (programming language)     0.000755845
+42 - ALGOL 60     0.000724512
+43 - ECMAScript     0.000668256
+44 - Prolog     0.000659169
+45 - Clojure     0.000619941
+46 - PL/I     0.00061262
+47 - Modula-2     0.000581939
+48 - Machine code     0.000563813
+49 - ML (programming language)     0.000489203
+50 - HyperTalk     0.000469417
+51 - ALGOL 68     0.000459513
+52 - Oberon (programming language)     0.000452928
+53 - Tcl     0.000451735
+54 - Nial     0.000421219
+55 - F Sharp (programming language)     0.00041643
+56 - Object Pascal     0.000411891
+57 - Visual Basic     0.000396881
+58 - Logo (programming language)     0.000395674
+59 - JASS     0.000395462
+60 - Self (programming language)     0.000391825
+61 - JScript .NET     0.000383786
+62 - Common Lisp     0.00038369
+63 - D (programming language)     0.000382523
+64 - SISAL     0.000371887
+65 - Nim (programming language)     0.000370943
+66 - JScript     0.000370434
+67 - AWK     0.00036541
+68 - Simula     0.000363249
+69 - BCPL     0.000361217
+70 - ActionScript     0.000361173
+71 - TeX     0.000352524
+72 - PowerShell     0.000351418
+73 - Modula-3     0.00034552
+74 - Groovy (programming language)     0.000343735
+75 - Z notation     0.000340055
+76 - Eiffel (programming language)     0.000337934
+77 - VHDL     0.000337568
+78 - Verilog     0.000337369
+79 - WebAssembly     0.000333117
+80 - Dylan (programming language)     0.000332379
+81 - Occam (programming language)     0.000332325
+82 - Common Intermediate Language     0.000328383
+83 - Chapel (programming language)     0.000324926
+84 - Processing (programming language)     0.000322921
+85 - Racket (programming language)     0.000317192
+86 - Squeak     0.000309832
+87 - Mathematica     0.000309001
+88 - G-code     0.000305174
+89 - Dart (programming language)     0.000303801
+90 - Forth (programming language)     0.00030174
+91 - Erlang (programming language)     0.000287306
+92 - LabVIEW     0.000287152
+93 - Oxygene (programming language)     0.000282685
+94 - REXX     0.000279101
+95 - Vim (text editor)     0.00027723
+96 - Flavors (programming language)     0.000274385
+97 - Unix shell     0.000271219
+98 - RPL (programming language)     0.000269193
+99 - B (programming language)     0.000266031
+100 - Maple (software)     0.000264739
+Doing matrix multiplication! This takes time. Your multiplication will produce 694 rows.
+We will print one . for each 50 rows calculated and you can expect 13 .s
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+Error 3: 0.0603743
+1 - C (programming language)     0.00317376
+2 - Java (programming language)     0.00236982
+3 - C++     0.00225743
+4 - Pascal (programming language)     0.00175425
+5 - Python (programming language)     0.0017517
+6 - Lisp (programming language)     0.00167154
+7 - C Sharp (programming language)     0.00162621
+8 - Fortran     0.00160049
+9 - JavaScript     0.00158375
+10 - Assembly language     0.00157192
+11 - Smalltalk     0.00146045
+12 - Haskell (programming language)     0.0013313
+13 - BASIC     0.00128483
+14 - COBOL     0.00128183
+15 - Perl     0.00127205
+16 - Ruby (programming language)     0.00126348
+17 - Scala (programming language)     0.00120051
+18 - Lua (programming language)     0.00112114
+19 - Objective-C     0.00111502
+20 - Go (programming language)     0.00111409
+21 - MATLAB     0.00109276
+22 - APL (programming language)     0.00109128
+23 - R (programming language)     0.00109053
+24 - TypeScript     0.00105652
+25 - OCaml     0.00104421
+26 - Visual Basic .NET     0.00104062
+27 - PHP     0.00103645
+28 - Rust (programming language)     0.00102706
+29 - Julia (programming language)     0.0010135
+30 - Shell script     0.000959945
+31 - Non-English-based programming languages     0.00094399
+32 - List of programming languages by type     0.000933212
+33 - Kotlin (programming language)     0.000925985
+34 - Timeline of programming languages     0.000923604
+35 - Swift (programming language)     0.000897587
+36 - Elixir (programming language)     0.000879909
+37 - History of programming languages     0.000875266
+38 - Apache Groovy     0.000831536
+39 - SQL     0.00075607
+40 - Ada (programming language)     0.000730058
+41 - Scheme (programming language)     0.000709581
+42 - ALGOL 60     0.000620059
+43 - ECMAScript     0.000615252
+44 - Clojure     0.00059576
+45 - Prolog     0.000578169
+46 - Modula-2     0.000547131
+47 - Machine code     0.000481857
+48 - PL/I     0.000475671
+49 - ML (programming language)     0.000442372
+50 - Nial     0.000431487
+51 - Oberon (programming language)     0.000430027
+52 - SISAL     0.000414103
+53 - F Sharp (programming language)     0.000408691
+54 - Tcl     0.000400694
+55 - ALGOL 68     0.00038682
+56 - JScript .NET     0.00037397
+57 - JASS     0.000371713
+58 - Common Lisp     0.000369393
+59 - Logo (programming language)     0.000366507
+60 - Object Pascal     0.000364837
+61 - Self (programming language)     0.000356578
+62 - PowerShell     0.000347581
+63 - D (programming language)     0.000338771
+64 - Nim (programming language)     0.000336586
+65 - ActionScript     0.00033515
+66 - Simula     0.000332326
+67 - Visual Basic     0.000330608
+68 - HyperTalk     0.000330513
+69 - JScript     0.00033028
+70 - Groovy (programming language)     0.000326071
+71 - Eiffel (programming language)     0.000325182
+72 - Dylan (programming language)     0.000321134
+73 - Common Intermediate Language     0.000317769
+74 - AWK     0.000315849
+75 - Modula-3     0.000311418
+76 - Z notation     0.000311218
+77 - Racket (programming language)     0.000310783
+78 - WebAssembly     0.000306585
+79 - Chapel (programming language)     0.000305477
+80 - G-code     0.00030192
+81 - BCPL     0.000298652
+82 - Processing (programming language)     0.000289953
+83 - Dart (programming language)     0.000282958
+84 - Forth (programming language)     0.000281998
+85 - TeX     0.000281743
+86 - Oxygene (programming language)     0.000281259
+87 - Mathematica     0.00027719
+88 - Squeak     0.000275501
+89 - Flavors (programming language)     0.000267473
+90 - Erlang (programming language)     0.000265468
+91 - RPL (programming language)     0.000260746
+92 - LabVIEW     0.000258324
+93 - VHDL     0.000254804
+94 - Verilog     0.00025348
+95 - Maple (software)     0.000250873
+96 - Boo (programming language)     0.000247507
+97 - Emacs Lisp     0.000247423
+98 - Vim (text editor)     0.000245161
+99 - Unix shell     0.000245023
+100 - Bash (Unix shell)     0.000243364
+Doing matrix multiplication! This takes time. Your multiplication will produce 694 rows.
+We will print one . for each 50 rows calculated and you can expect 13 .s
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+Error 4: 0.0480771
+1 - C (programming language)     0.00253044
+2 - Java (programming language)     0.0018927
+3 - C++     0.00180039
+4 - Python (programming language)     0.00140096
+5 - Pascal (programming language)     0.00139964
+6 - Lisp (programming language)     0.00134123
+7 - C Sharp (programming language)     0.00130114
+8 - Fortran     0.00127674
+9 - JavaScript     0.00126608
+10 - Assembly language     0.00125602
+11 - Smalltalk     0.00116778
+12 - Haskell (programming language)     0.00106429
+13 - BASIC     0.00102598
+14 - COBOL     0.00102176
+15 - Perl     0.00101568
+16 - Ruby (programming language)     0.00100945
+17 - Scala (programming language)     0.000961571
+18 - Lua (programming language)     0.000895316
+19 - Objective-C     0.000891402
+20 - Go (programming language)     0.000889873
+21 - MATLAB     0.0008737
+22 - APL (programming language)     0.000872574
+23 - R (programming language)     0.000872438
+24 - TypeScript     0.000844206
+25 - OCaml     0.000834583
+26 - Visual Basic .NET     0.000832273
+27 - PHP     0.000827821
+28 - Rust (programming language)     0.00082043
+29 - Julia (programming language)     0.000810506
+30 - Shell script     0.000766545
+31 - Non-English-based programming languages     0.000753825
+32 - List of programming languages by type     0.000745114
+33 - Kotlin (programming language)     0.000739999
+34 - Timeline of programming languages     0.000737146
+35 - Swift (programming language)     0.000716893
+36 - Elixir (programming language)     0.000702881
+37 - History of programming languages     0.000698806
+38 - Apache Groovy     0.000663984
+39 - SQL     0.000601476
+40 - Ada (programming language)     0.000581852
+41 - Scheme (programming language)     0.000570686
+42 - ALGOL 60     0.000494006
+43 - ECMAScript     0.00049177
+44 - Clojure     0.000479694
+45 - Prolog     0.000462811
+46 - Modula-2     0.000437405
+47 - SISAL     0.000392061
+48 - Nial     0.000386152
+49 - Machine code     0.000385204
+50 - PL/I     0.000375744
+51 - ML (programming language)     0.000354375
+52 - Oberon (programming language)     0.00034377
+53 - F Sharp (programming language)     0.000328262
+54 - Tcl     0.000319457
+55 - JASS     0.000310763
+56 - ALGOL 68     0.000308918
+57 - JScript .NET     0.000300264
+58 - Common Lisp     0.000298756
+59 - Logo (programming language)     0.000296314
+60 - Object Pascal     0.000291355
+61 - Self (programming language)     0.0002859
+62 - PowerShell     0.000279206
+63 - D (programming language)     0.000270461
+64 - Nim (programming language)     0.000268915
+65 - ActionScript     0.000267883
+66 - Simula     0.000265786
+67 - G-code     0.000265118
+68 - JScript     0.000263174
+69 - Visual Basic     0.000262623
+70 - Groovy (programming language)     0.000261384
+71 - Eiffel (programming language)     0.000260916
+72 - HyperTalk     0.000260128
+73 - Dylan (programming language)     0.00025978
+74 - Common Intermediate Language     0.000255387
+75 - AWK     0.00025171
+76 - Racket (programming language)     0.000251298
+77 - Modula-3     0.000249017
+78 - Z notation     0.000248486
+79 - WebAssembly     0.000244782
+80 - Chapel (programming language)     0.000244637
+81 - BCPL     0.000237929
+82 - Processing (programming language)     0.000232286
+83 - Forth (programming language)     0.00022729
+84 - Dart (programming language)     0.000226374
+85 - Oxygene (programming language)     0.000226187
+86 - TeX     0.000222993
+87 - Mathematica     0.00022141
+88 - Squeak     0.00022098
+89 - Flavors (programming language)     0.000217013
+90 - Erlang (programming language)     0.000212581
+91 - RPL (programming language)     0.000211813
+92 - LabVIEW     0.000207027
+93 - Maple (software)     0.0002016
+94 - Emacs Lisp     0.000200674
+95 - VHDL     0.00019952
+96 - Boo (programming language)     0.00019936
+97 - Verilog     0.000198555
+98 - Unix shell     0.000196418
+99 - Cobra (programming language)     0.000195659
+100 - Vim (text editor)     0.000195493
+Doing matrix multiplication! This takes time. Your multiplication will produce 694 rows.
+We will print one . for each 50 rows calculated and you can expect 13 .s
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+Error 5: 0.0307418
+1 - C (programming language)     0.00161977
+2 - Java (programming language)     0.0012115
+3 - C++     0.00115237
+4 - Python (programming language)     0.000896688
+5 - Pascal (programming language)     0.000895842
+6 - Lisp (programming language)     0.000858499
+7 - C Sharp (programming language)     0.00083273
+8 - Fortran     0.00081719
+9 - JavaScript     0.000810322
+10 - Assembly language     0.000803971
+11 - Smalltalk     0.000747447
+12 - Haskell (programming language)     0.000681221
+13 - BASIC     0.000656693
+14 - COBOL     0.00065395
+15 - Perl     0.000650059
+16 - Ruby (programming language)     0.00064604
+17 - Scala (programming language)     0.000615389
+18 - Lua (programming language)     0.000572989
+19 - Objective-C     0.000570479
+20 - Go (programming language)     0.0005695
+21 - MATLAB     0.000559172
+22 - APL (programming language)     0.000558447
+23 - R (programming language)     0.000558344
+24 - TypeScript     0.000540258
+25 - OCaml     0.000534152
+26 - Visual Basic .NET     0.000532625
+27 - PHP     0.00052981
+28 - Rust (programming language)     0.000525055
+29 - Julia (programming language)     0.000518703
+30 - Shell script     0.000490576
+31 - Non-English-based programming languages     0.000482425
+32 - List of programming languages by type     0.000476854
+33 - Kotlin (programming language)     0.000473576
+34 - Timeline of programming languages     0.000471755
+35 - Swift (programming language)     0.000458788
+36 - Elixir (programming language)     0.000449819
+37 - History of programming languages     0.000447211
+38 - Apache Groovy     0.000424923
+39 - SQL     0.000384988
+40 - Ada (programming language)     0.000372416
+41 - Scheme (programming language)     0.000365312
+42 - ALGOL 60     0.000316197
+43 - ECMAScript     0.000314737
+44 - Clojure     0.000307039
+45 - Prolog     0.000296248
+46 - Modula-2     0.000279945
+47 - SISAL     0.000268741
+48 - Nial     0.000259209
+49 - Machine code     0.000246571
+50 - PL/I     0.00024053
+51 - ML (programming language)     0.000226845
+52 - Oberon (programming language)     0.000220011
+53 - F Sharp (programming language)     0.000210084
+54 - Tcl     0.000204475
+55 - JASS     0.000202927
+56 - ALGOL 68     0.000197745
+57 - JScript .NET     0.000192161
+58 - Common Lisp     0.000191249
+59 - Logo (programming language)     0.000189701
+60 - Object Pascal     0.000186474
+61 - Self (programming language)     0.000183011
+62 - PowerShell     0.000178692
+63 - G-code     0.000176677
+64 - D (programming language)     0.0001731
+65 - Nim (programming language)     0.00017211
+66 - ActionScript     0.000171463
+67 - Simula     0.00017012
+68 - JScript     0.000168431
+69 - Visual Basic     0.0001681
+70 - Groovy (programming language)     0.000167299
+71 - Eiffel (programming language)     0.000166997
+72 - HyperTalk     0.000166529
+73 - Dylan (programming language)     0.000166301
+74 - Common Intermediate Language     0.000163446
+75 - AWK     0.000161113
+76 - Racket (programming language)     0.000160872
+77 - Modula-3     0.000159382
+78 - Z notation     0.000159035
+79 - WebAssembly     0.000156669
+80 - Chapel (programming language)     0.000156576
+81 - BCPL     0.000152307
+82 - Processing (programming language)     0.00014868
+83 - Forth (programming language)     0.000145513
+84 - Dart (programming language)     0.000144884
+85 - Oxygene (programming language)     0.000144758
+86 - TeX     0.000142752
+87 - Mathematica     0.000141719
+88 - Squeak     0.000141461
+89 - Flavors (programming language)     0.000138938
+90 - Erlang (programming language)     0.000136065
+91 - RPL (programming language)     0.00013561
+92 - LabVIEW     0.000132519
+93 - Maple (software)     0.000129053
+94 - Emacs Lisp     0.000128473
+95 - VHDL     0.000127715
+96 - Boo (programming language)     0.000127594
+97 - Verilog     0.000127114
+98 - Unix shell     0.000125727
+99 - Cobra (programming language)     0.00012522
+100 - Vim (text editor)     0.000125127
+Doing matrix multiplication! This takes time. Your multiplication will produce 694 rows.
+We will print one . for each 50 rows calculated and you can expect 13 .s
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+Error 6: 0.0126149
+1 - C (programming language)     0.000664756
+2 - Java (programming language)     0.000497198
+3 - C++     0.000472929
+4 - Python (programming language)     0.000367995
+5 - Pascal (programming language)     0.000367649
+6 - Lisp (programming language)     0.000352321
+7 - C Sharp (programming language)     0.000341744
+8 - Fortran     0.000335371
+9 - JavaScript     0.000332549
+10 - Assembly language     0.000329947
+11 - Smalltalk     0.000306747
+12 - Haskell (programming language)     0.00027957
+13 - BASIC     0.000269504
+14 - COBOL     0.000268376
+15 - Perl     0.000266779
+16 - Ruby (programming language)     0.000265128
+17 - Scala (programming language)     0.000252548
+18 - Lua (programming language)     0.000235149
+19 - Objective-C     0.000234118
+20 - Go (programming language)     0.000233716
+21 - MATLAB     0.000229479
+22 - APL (programming language)     0.000229181
+23 - R (programming language)     0.000229138
+24 - TypeScript     0.000221715
+25 - OCaml     0.000219212
+26 - Visual Basic .NET     0.000218583
+27 - PHP     0.000217429
+28 - Rust (programming language)     0.000215476
+29 - Julia (programming language)     0.000212869
+30 - Shell script     0.000201327
+31 - Non-English-based programming languages     0.000197981
+32 - List of programming languages by type     0.000195695
+33 - Kotlin (programming language)     0.00019435
+34 - Timeline of programming languages     0.000193603
+35 - Swift (programming language)     0.000188281
+36 - Elixir (programming language)     0.0001846
+37 - History of programming languages     0.00018353
+38 - Apache Groovy     0.000174383
+39 - SQL     0.000158
+40 - Ada (programming language)     0.000152838
+41 - Scheme (programming language)     0.000149921
+42 - ALGOL 60     0.000129766
+43 - ECMAScript     0.000129165
+44 - Clojure     0.000126005
+45 - Prolog     0.000121579
+46 - Modula-2     0.000114887
+47 - SISAL     0.000111218
+48 - Nial     0.000107006
+49 - Machine code     0.000101192
+50 - PL/I     9.87151e-005
+51 - ML (programming language)     9.30969e-005
+52 - Oberon (programming language)     9.02904e-005
+53 - F Sharp (programming language)     8.62161e-005
+54 - Tcl     8.39158e-005
+55 - JASS     8.34899e-005
+56 - ALGOL 68     8.11544e-005
+57 - JScript .NET     7.88605e-005
+58 - Common Lisp     7.84866e-005
+59 - Logo (programming language)     7.78519e-005
+60 - Object Pascal     7.65275e-005
+61 - Self (programming language)     7.51067e-005
+62 - PowerShell     7.33337e-005
+63 - G-code     7.28714e-005
+64 - D (programming language)     7.10389e-005
+65 - Nim (programming language)     7.06325e-005
+66 - ActionScript     7.03674e-005
+67 - Simula     6.9816e-005
+68 - JScript     6.91231e-005
+69 - Visual Basic     6.8989e-005
+70 - Groovy (programming language)     6.86581e-005
+71 - Eiffel (programming language)     6.85343e-005
+72 - HyperTalk     6.83449e-005
+73 - Dylan (programming language)     6.8248e-005
+74 - Common Intermediate Language     6.70766e-005
+75 - AWK     6.61205e-005
+76 - Racket (programming language)     6.60203e-005
+77 - Modula-3     6.54093e-005
+78 - Z notation     6.52665e-005
+79 - WebAssembly     6.42957e-005
+80 - Chapel (programming language)     6.42576e-005
+81 - BCPL     6.2507e-005
+82 - Processing (programming language)     6.10173e-005
+83 - Forth (programming language)     5.9718e-005
+84 - Dart (programming language)     5.94593e-005
+85 - Oxygene (programming language)     5.94071e-005
+86 - TeX     5.85865e-005
+87 - Mathematica     5.81607e-005
+88 - Squeak     5.8055e-005
+89 - Flavors (programming language)     5.70191e-005
+90 - Erlang (programming language)     5.58402e-005
+91 - RPL (programming language)     5.56527e-005
+92 - LabVIEW     5.43856e-005
+93 - Maple (software)     5.29633e-005
+94 - Emacs Lisp     5.27239e-005
+95 - VHDL     5.24148e-005
+96 - Boo (programming language)     5.23632e-005
+97 - Verilog     5.21692e-005
+98 - Unix shell     5.15974e-005
+99 - Cobra (programming language)     5.13887e-005
+100 - Vim (text editor)     5.13516e-005
+Doing matrix multiplication! This takes time. Your multiplication will produce 694 rows.
+We will print one . for each 50 rows calculated and you can expect 13 .s
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+Error 7: 0.00212516
+1 - C (programming language)     0.000111988
+2 - Java (programming language)     8.37603e-005
+3 - C++     7.96718e-005
+4 - Python (programming language)     6.19941e-005
+5 - Pascal (programming language)     6.19358e-005
+6 - Lisp (programming language)     5.93535e-005
+7 - C Sharp (programming language)     5.75718e-005
+8 - Fortran     5.64982e-005
+9 - JavaScript     5.60227e-005
+10 - Assembly language     5.55845e-005
+11 - Smalltalk     5.1676e-005
+12 - Haskell (programming language)     4.70976e-005
+13 - BASIC     4.54019e-005
+14 - COBOL     4.52119e-005
+15 - Perl     4.49428e-005
+16 - Ruby (programming language)     4.46646e-005
+17 - Scala (programming language)     4.25454e-005
+18 - Lua (programming language)     3.96142e-005
+19 - Objective-C     3.94406e-005
+20 - Go (programming language)     3.93729e-005
+21 - MATLAB     3.8659e-005
+22 - APL (programming language)     3.86088e-005
+23 - R (programming language)     3.86016e-005
+24 - TypeScript     3.73511e-005
+25 - OCaml     3.69294e-005
+26 - Visual Basic .NET     3.68234e-005
+27 - PHP     3.66291e-005
+28 - Rust (programming language)     3.63001e-005
+29 - Julia (programming language)     3.58609e-005
+30 - Shell script     3.39164e-005
+31 - Non-English-based programming languages     3.33528e-005
+32 - List of programming languages by type     3.29677e-005
+33 - Kotlin (programming language)     3.2741e-005
+34 - Timeline of programming languages     3.26152e-005
+35 - Swift (programming language)     3.17187e-005
+36 - Elixir (programming language)     3.10985e-005
+37 - History of programming languages     3.09182e-005
+38 - Apache Groovy     2.93773e-005
+39 - SQL     2.66174e-005
+40 - Ada (programming language)     2.57478e-005
+41 - Scheme (programming language)     2.52564e-005
+42 - ALGOL 60     2.1861e-005
+43 - ECMAScript     2.17598e-005
+44 - Clojure     2.12274e-005
+45 - Prolog     2.04817e-005
+46 - Modula-2     1.93544e-005
+47 - SISAL     1.87383e-005
+48 - Nial     1.80282e-005
+49 - Machine code     1.70473e-005
+50 - PL/I     1.663e-005
+51 - ML (programming language)     1.56835e-005
+52 - Oberon (programming language)     1.52107e-005
+53 - F Sharp (programming language)     1.45244e-005
+54 - Tcl     1.41368e-005
+55 - JASS     1.40656e-005
+56 - ALGOL 68     1.36717e-005
+57 - JScript .NET     1.32852e-005
+58 - Common Lisp     1.32222e-005
+59 - Logo (programming language)     1.31153e-005
+60 - Object Pascal     1.28922e-005
+61 - Self (programming language)     1.26528e-005
+62 - PowerShell     1.23541e-005
+63 - G-code     1.22771e-005
+64 - D (programming language)     1.19675e-005
+65 - Nim (programming language)     1.18991e-005
+66 - ActionScript     1.18544e-005
+67 - Simula     1.17615e-005
+68 - JScript     1.16448e-005
+69 - Visual Basic     1.16222e-005
+70 - Groovy (programming language)     1.15665e-005
+71 - Eiffel (programming language)     1.15456e-005
+72 - HyperTalk     1.15137e-005
+73 - Dylan (programming language)     1.14974e-005
+74 - Common Intermediate Language     1.13e-005
+75 - AWK     1.1139e-005
+76 - Racket (programming language)     1.11221e-005
+77 - Modula-3     1.10191e-005
+78 - Z notation     1.09951e-005
+79 - WebAssembly     1.08316e-005
+80 - Chapel (programming language)     1.08251e-005
+81 - BCPL     1.05302e-005
+82 - Processing (programming language)     1.02792e-005
+83 - Forth (programming language)     1.00604e-005
+84 - Dart (programming language)     1.00168e-005
+85 - Oxygene (programming language)     1.0008e-005
+86 - TeX     9.86975e-006
+87 - Mathematica     9.79801e-006
+88 - Squeak     9.78021e-006
+89 - Flavors (programming language)     9.60569e-006
+90 - Erlang (programming language)     9.40709e-006
+91 - RPL (programming language)     9.37551e-006
+92 - LabVIEW     9.16205e-006
+93 - Maple (software)     8.92244e-006
+94 - Emacs Lisp     8.8821e-006
+95 - VHDL     8.83003e-006
+96 - Boo (programming language)     8.82134e-006
+97 - Verilog     8.78867e-006
+98 - Unix shell     8.69234e-006
+99 - Cobra (programming language)     8.65717e-006
+100 - Vim (text editor)     8.65093e-006
+Doing matrix multiplication! This takes time. Your multiplication will produce 694 rows.
+We will print one . for each 50 rows calculated and you can expect 13 .s
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+Error 8: 6.0313e-005
+1 - C (programming language)     3.17826e-006
+2 - Java (programming language)     2.37715e-006
+3 - C++     2.26112e-006
+4 - Python (programming language)     1.75942e-006
+5 - Pascal (programming language)     1.75776e-006
+6 - Lisp (programming language)     1.68448e-006
+7 - C Sharp (programming language)     1.63391e-006
+8 - Fortran     1.60344e-006
+9 - JavaScript     1.58995e-006
+10 - Assembly language     1.57751e-006
+11 - Smalltalk     1.46659e-006
+12 - Haskell (programming language)     1.33665e-006
+13 - BASIC     1.28852e-006
+14 - COBOL     1.28313e-006
+15 - Perl     1.27549e-006
+16 - Ruby (programming language)     1.2676e-006
+17 - Scala (programming language)     1.20746e-006
+18 - Lua (programming language)     1.12427e-006
+19 - Objective-C     1.11934e-006
+20 - Go (programming language)     1.11742e-006
+21 - MATLAB     1.09716e-006
+22 - APL (programming language)     1.09573e-006
+23 - R (programming language)     1.09553e-006
+24 - TypeScript     1.06004e-006
+25 - OCaml     1.04807e-006
+26 - Visual Basic .NET     1.04506e-006
+27 - PHP     1.03955e-006
+28 - Rust (programming language)     1.03021e-006
+29 - Julia (programming language)     1.01775e-006
+30 - Shell script     9.62562e-007
+31 - Non-English-based programming languages     9.46567e-007
+32 - List of programming languages by type     9.35636e-007
+33 - Kotlin (programming language)     9.29203e-007
+34 - Timeline of programming languages     9.25633e-007
+35 - Swift (programming language)     9.0019e-007
+36 - Elixir (programming language)     8.82589e-007
+37 - History of programming languages     8.77472e-007
+38 - Apache Groovy     8.33741e-007
+39 - SQL     7.55413e-007
+40 - Ada (programming language)     7.30732e-007
+41 - Scheme (programming language)     7.16788e-007
+42 - ALGOL 60     6.20423e-007
+43 - ECMAScript     6.17551e-007
+44 - Clojure     6.02441e-007
+45 - Prolog     5.8128e-007
+46 - Modula-2     5.49287e-007
+47 - SISAL     5.31802e-007
+48 - Nial     5.11647e-007
+49 - Machine code     4.83809e-007
+50 - PL/I     4.71966e-007
+51 - ML (programming language)     4.45105e-007
+52 - Oberon (programming language)     4.31687e-007
+53 - F Sharp (programming language)     4.12207e-007
+54 - Tcl     4.01209e-007
+55 - JASS     3.99186e-007
+56 - ALGOL 68     3.88007e-007
+57 - JScript .NET     3.77039e-007
+58 - Common Lisp     3.75251e-007
+59 - Logo (programming language)     3.72217e-007
+60 - Object Pascal     3.65885e-007
+61 - Self (programming language)     3.59092e-007
+62 - PowerShell     3.50615e-007
+63 - G-code     3.48428e-007
+64 - D (programming language)     3.39644e-007
+65 - Nim (programming language)     3.377e-007
+66 - ActionScript     3.36433e-007
+67 - Simula     3.33797e-007
+68 - JScript     3.30484e-007
+69 - Visual Basic     3.29843e-007
+70 - Groovy (programming language)     3.28261e-007
+71 - Eiffel (programming language)     3.27669e-007
+72 - HyperTalk     3.26763e-007
+73 - Dylan (programming language)     3.263e-007
+74 - Common Intermediate Language     3.20699e-007
+75 - AWK     3.16128e-007
+76 - Racket (programming language)     3.15649e-007
+77 - Modula-3     3.12728e-007
+78 - Z notation     3.12045e-007
+79 - WebAssembly     3.07404e-007
+80 - Chapel (programming language)     3.07221e-007
+81 - BCPL     2.98852e-007
+82 - Processing (programming language)     2.91729e-007
+83 - Forth (programming language)     2.85517e-007
+84 - Dart (programming language)     2.8428e-007
+85 - Oxygene (programming language)     2.84031e-007
+86 - TeX     2.80107e-007
+87 - Mathematica     2.78072e-007
+88 - Squeak     2.77566e-007
+89 - Flavors (programming language)     2.72613e-007
+90 - Erlang (programming language)     2.66977e-007
+91 - RPL (programming language)     2.66081e-007
+92 - LabVIEW     2.60023e-007
+93 - Maple (software)     2.53223e-007
+94 - Emacs Lisp     2.52078e-007
+95 - VHDL     2.506e-007
+96 - Boo (programming language)     2.50353e-007
+97 - Verilog     2.49426e-007
+98 - Unix shell     2.46692e-007
+99 - Cobra (programming language)     2.45694e-007
+100 - Vim (text editor)     2.45517e-007
+Finished Iteration!!

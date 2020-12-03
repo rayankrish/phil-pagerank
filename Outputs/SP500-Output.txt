@@ -1,0 +1,1011 @@
+Made the Markov Matrix!!
+Error 0: 0.407646
+Doing matrix multiplication! This takes time. Your multiplication will produce 1049 rows.
+We will print one . for each 50 rows calculated and you can expect 20 .s
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+Error 1: 0.142289
+1 - DirecTV     0.0656116
+2 - Comcast     0.0536841
+3 - Time Warner Cable     0.0474646
+4 - The Walt Disney Company     0.0369443
+5 - Time Warner     0.0315474
+6 - ViacomCBS     0.0290889
+7 - 21st Century Fox     0.0280173
+8 - Apple Inc.     0.0270909
+9 - Facebook     0.021113
+10 - NASDAQ-100     0.0207602
+11 - Cablevision     0.0204322
+12 - T-Mobile US     0.0188721
+13 - Charter Communications     0.0187086
+14 - Marketwatch     0.0186511
+15 - Dish Network     0.0186343
+16 - Monster Worldwide     0.018222
+17 - Scripps Networks Interactive     0.0163482
+18 - General Electric     0.011449
+19 - Cisco Systems     0.0105404
+20 - Verizon Communications     0.0104767
+21 - Walgreens Boots Alliance     0.0104669
+22 - Johnson & Johnson     0.0104323
+23 - IBM     0.00934746
+24 - Walmart     0.00912219
+25 - Procter & Gamble     0.00861469
+26 - Twitter     0.00858139
+27 - Merck & Co.     0.00836075
+28 - 3M     0.00830451
+29 - Visa Inc.     0.00818389
+30 - Caterpillar Inc.     0.00802795
+31 - United Technologies     0.00800657
+32 - Dow Inc.     0.0079175
+33 - Hilton Worldwide     0.00789163
+34 - Associated Press     0.00371114
+35 - PR Newswire     0.0030163
+36 - Kraft Heinz     0.00281974
+37 - Mondelez International     0.0028021
+38 - United Airlines Holdings     0.00273782
+39 - PayPal     0.00272221
+40 - Automatic Data Processing     0.00266914
+41 - Expedia Group     0.00264472
+42 - FMC Corporation     0.00259959
+43 - Ulta Beauty     0.00259248
+44 - Electronic Arts     0.00257604
+45 - Advanced Micro Devices     0.00257458
+46 - Lam Research     0.00257428
+47 - Dollar Tree     0.00257151
+48 - Regeneron Pharmaceuticals     0.0025671
+49 - Texas Instruments     0.00256482
+50 - American Airlines Group     0.00256477
+51 - NetApp     0.00255797
+52 - Gilead Sciences     0.002557
+53 - J. B. Hunt     0.00254688
+54 - Western Digital     0.00252909
+55 - Alexion Pharmaceuticals     0.00252662
+56 - Frontier Communications     0.00252606
+57 - Vertex Pharmaceuticals     0.00252466
+58 - Monster Beverage     0.00251027
+59 - Henry Schein     0.00250474
+60 - Broadcom Inc.     0.00250313
+61 - Synopsys     0.00250167
+62 - Intuit     0.0024995
+63 - Micron Technology     0.00249659
+64 - Alphabet Inc.     0.00249583
+65 - NortonLifeLock     0.00248704
+66 - Xilinx     0.00248395
+67 - Universal Health Services     0.00248258
+68 - Microchip Technology     0.00245733
+69 - Activision Blizzard     0.00244397
+70 - Ametek     0.00244206
+71 - Cadence Design Systems     0.00244149
+72 - Cerner     0.00243717
+73 - Verisk Analytics     0.0024238
+74 - Ross Stores     0.00241933
+75 - Citrix Systems     0.00241868
+76 - KLA Corporation     0.00241455
+77 - Willis Towers Watson     0.00241358
+78 - DuPont     0.00240311
+79 - Skyworks Solutions     0.00240103
+80 - Incyte     0.00239839
+81 - Maxim Integrated     0.00238844
+82 - Take-Two Interactive     0.00238429
+83 - Align Technology     0.00238425
+84 - Idexx Laboratories     0.00238425
+85 - Teva Pharmaceutical Industries     0.00233091
+86 - Urban Outfitters     0.00230786
+87 - Sherwin-Williams     0.0022665
+88 - SLM Corporation     0.00225974
+89 - Crown Holdings     0.00224759
+90 - General Motors     0.00131463
+91 - BlackRock     0.0011684
+92 - Morgan Stanley     0.00109678
+93 - United Parcel Service     0.00103674
+94 - Delta Air Lines     0.00103574
+95 - Berkshire Hathaway     0.00101145
+96 - Eaton Corporation     0.000864763
+97 - General Dynamics     0.000792243
+98 - Duke Energy     0.000775457
+99 - Kohlberg Kravis Roberts     0.000770585
+100 - Wells Fargo     0.000758543
+Doing matrix multiplication! This takes time. Your multiplication will produce 1049 rows.
+We will print one . for each 50 rows calculated and you can expect 20 .s
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+Error 2: 0.0377295
+1 - Apple Inc.     0.0198239
+2 - Comcast     0.0164427
+3 - The Walt Disney Company     0.0163808
+4 - DirecTV     0.0125624
+5 - T-Mobile US     0.0121014
+6 - Cisco Systems     0.0115948
+7 - Associated Press     0.0113382
+8 - Facebook     0.0106388
+9 - Verizon Communications     0.0103926
+10 - Twitter     0.0102569
+11 - IBM     0.00972525
+12 - Time Warner Cable     0.00961349
+13 - Walgreens Boots Alliance     0.00956013
+14 - Cablevision     0.00947107
+15 - Charter Communications     0.00883385
+16 - Walmart     0.00801601
+17 - Dish Network     0.00747567
+18 - Time Warner     0.00740005
+19 - Johnson & Johnson     0.0071876
+20 - Procter & Gamble     0.00694757
+21 - Visa Inc.     0.00664612
+22 - PR Newswire     0.00659743
+23 - Merck & Co.     0.00653092
+24 - 3M     0.00652208
+25 - NASDAQ-100     0.00632072
+26 - News Corporation (1980–2013)     0.00627634
+27 - PayPal     0.00600546
+28 - Kraft Heinz     0.00592205
+29 - United Airlines Holdings     0.00578702
+30 - Regeneron Pharmaceuticals     0.00570024
+31 - Gilead Sciences     0.0056915
+32 - Alexion Pharmaceuticals     0.00566223
+33 - Vertex Pharmaceuticals     0.00565937
+34 - United Technologies     0.00564401
+35 - 21st Century Fox     0.00548302
+36 - NetApp     0.00545429
+37 - Expedia Group     0.00543347
+38 - General Electric     0.00543185
+39 - Mondelez International     0.00541989
+40 - Yahoo!     0.00538517
+41 - Alphabet Inc.     0.00537698
+42 - J. B. Hunt     0.00536476
+43 - Caterpillar Inc.     0.00536391
+44 - Advanced Micro Devices     0.00530903
+45 - American Airlines Group     0.00523796
+46 - Broadcom Inc.     0.00522178
+47 - Western Digital     0.00517657
+48 - Lam Research     0.00512724
+49 - Texas Instruments     0.00511584
+50 - Micron Technology     0.00501259
+51 - Dow Inc.     0.00494826
+52 - Intuit     0.00482076
+53 - Xilinx     0.00480655
+54 - Cadence Design Systems     0.00479549
+55 - Synopsys     0.00479058
+56 - Microchip Technology     0.00475527
+57 - Automatic Data Processing     0.00472778
+58 - Dollar Tree     0.00467138
+59 - Citrix Systems     0.00462843
+60 - KLA Corporation     0.00461069
+61 - Electronic Arts     0.00455429
+62 - Ulta Beauty     0.00455003
+63 - NortonLifeLock     0.00450592
+64 - Monster Beverage     0.00449204
+65 - Henry Schein     0.00446701
+66 - Activision Blizzard     0.00440865
+67 - Willis Towers Watson     0.00440786
+68 - Cerner     0.00440095
+69 - Verisk Analytics     0.00439149
+70 - Ross Stores     0.00438382
+71 - Skyworks Solutions     0.00436625
+72 - Incyte     0.00436489
+73 - General Motors     0.00435886
+74 - Maxim Integrated     0.00435417
+75 - Take-Two Interactive     0.00435362
+76 - Align Technology     0.00435242
+77 - Idexx Laboratories     0.00435242
+78 - ViacomCBS     0.0039899
+79 - BlackRock     0.00384096
+80 - Delta Air Lines     0.00357965
+81 - Morgan Stanley     0.00346252
+82 - Samsung Electronics     0.00345482
+83 - Frontier Communications     0.00327129
+84 - Marketwatch     0.0032244
+85 - Kohlberg Kravis Roberts     0.00287804
+86 - Hewlett Packard Enterprise     0.00277359
+87 - Berkshire Hathaway     0.00272313
+88 - Eaton Corporation     0.00265204
+89 - Abbott Laboratories     0.00263156
+90 - FMC Corporation     0.00253588
+91 - Scripps Networks Interactive     0.00239896
+92 - Hilton Worldwide     0.00234328
+93 - United Parcel Service     0.00223204
+94 - PPG Industries     0.00213206
+95 - ConocoPhillips     0.00209825
+96 - Wells Fargo     0.00205444
+97 - HP Inc.     0.00200577
+98 - PNC Financial Services     0.00200276
+99 - Perrigo     0.00198396
+100 - Nielsen Holdings     0.00188917
+Doing matrix multiplication! This takes time. Your multiplication will produce 1049 rows.
+We will print one . for each 50 rows calculated and you can expect 20 .s
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+Error 3: 0.00667281
+1 - Apple Inc.     0.0125249
+2 - Associated Press     0.0100195
+3 - Facebook     0.00911427
+4 - Twitter     0.00892957
+5 - Cisco Systems     0.00852946
+6 - The Walt Disney Company     0.00799102
+7 - IBM     0.00791792
+8 - Walgreens Boots Alliance     0.00735808
+9 - Comcast     0.00728379
+10 - PR Newswire     0.00651105
+11 - T-Mobile US     0.00625212
+12 - Walmart     0.00612778
+13 - Verizon Communications     0.00610313
+14 - PayPal     0.00605418
+15 - Kraft Heinz     0.00594492
+16 - United Airlines Holdings     0.0054068
+17 - Yahoo!     0.0053224
+18 - Regeneron Pharmaceuticals     0.0052279
+19 - Gilead Sciences     0.00522129
+20 - Alexion Pharmaceuticals     0.005198
+21 - Vertex Pharmaceuticals     0.00519539
+22 - NetApp     0.00510388
+23 - Charter Communications     0.00503209
+24 - 3M     0.0050055
+25 - J. B. Hunt     0.00498544
+26 - Procter & Gamble     0.00493225
+27 - Mondelez International     0.00490711
+28 - American Airlines Group     0.00490366
+29 - Johnson & Johnson     0.00489579
+30 - Advanced Micro Devices     0.004875
+31 - Alphabet Inc.     0.00487176
+32 - Expedia Group     0.00482175
+33 - NASDAQ-100     0.00481384
+34 - Broadcom Inc.     0.0047985
+35 - Western Digital     0.00477873
+36 - Visa Inc.     0.00474856
+37 - Lam Research     0.00468
+38 - Merck & Co.     0.00465354
+39 - Texas Instruments     0.00463511
+40 - Micron Technology     0.00454798
+41 - Intuit     0.00445165
+42 - Xilinx     0.00444845
+43 - Cadence Design Systems     0.00444448
+44 - Synopsys     0.00441844
+45 - Microchip Technology     0.00439286
+46 - General Motors     0.00437434
+47 - Automatic Data Processing     0.00431691
+48 - Dollar Tree     0.00431304
+49 - Citrix Systems     0.00421515
+50 - General Electric     0.00415739
+51 - Electronic Arts     0.00414671
+52 - KLA Corporation     0.004122
+53 - Ulta Beauty     0.00411971
+54 - NortonLifeLock     0.00411839
+55 - Monster Beverage     0.0040908
+56 - Henry Schein     0.00405403
+57 - Willis Towers Watson     0.00400947
+58 - Activision Blizzard     0.00400762
+59 - Cerner     0.00400113
+60 - Verisk Analytics     0.00399465
+61 - Ross Stores     0.0039875
+62 - DirecTV     0.00398092
+63 - Skyworks Solutions     0.00397353
+64 - Incyte     0.0039728
+65 - Take-Two Interactive     0.00396423
+66 - Maxim Integrated     0.00396392
+67 - Align Technology     0.00396291
+68 - Idexx Laboratories     0.00396291
+69 - Morgan Stanley     0.00380522
+70 - Caterpillar Inc.     0.00373236
+71 - United Technologies     0.00361695
+72 - BlackRock     0.00341147
+73 - Eaton Corporation     0.00315945
+74 - Berkshire Hathaway     0.00315111
+75 - Delta Air Lines     0.00301313
+76 - Dow Inc.     0.00298939
+77 - Schaffhausen     0.00288324
+78 - Kohlberg Kravis Roberts     0.00278725
+79 - PNC Financial Services     0.00254924
+80 - Samsung Electronics     0.00251676
+81 - Abbott Laboratories     0.00245811
+82 - Cablevision     0.00243766
+83 - United Parcel Service     0.00240392
+84 - Hewlett Packard Enterprise     0.00240201
+85 - Time Warner Cable     0.00239352
+86 - American International Group     0.00238857
+87 - Dish Network     0.00233805
+88 - ConocoPhillips     0.00225419
+89 - U.S. Bancorp     0.0022114
+90 - News Corporation (1980–2013)     0.00220463
+91 - Curaçao     0.00216041
+92 - FMC Corporation     0.00210728
+93 - Wells Fargo     0.00207512
+94 - General Mills     0.00204186
+95 - HP Inc.     0.00193846
+96 - PPG Industries     0.0019322
+97 - AT&T Inc.     0.00190611
+98 - Harley-Davidson     0.00185369
+99 - Intercontinental Exchange     0.00180445
+100 - Duke Energy     0.00179782
+Doing matrix multiplication! This takes time. Your multiplication will produce 1049 rows.
+We will print one . for each 50 rows calculated and you can expect 20 .s
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+Error 4: 0.000878365
+1 - Apple Inc.     0.00805353
+2 - Associated Press     0.00698124
+3 - Twitter     0.00610471
+4 - Facebook     0.00601295
+5 - Cisco Systems     0.00552996
+6 - IBM     0.00525306
+7 - The Walt Disney Company     0.00524423
+8 - Walgreens Boots Alliance     0.00478015
+9 - PR Newswire     0.00458471
+10 - Comcast     0.00457284
+11 - Walmart     0.00411494
+12 - Kraft Heinz     0.00404087
+13 - Verizon Communications     0.00399417
+14 - PayPal     0.00397227
+15 - T-Mobile US     0.00390919
+16 - Yahoo!     0.00368432
+17 - United Airlines Holdings     0.00354865
+18 - Regeneron Pharmaceuticals     0.00338311
+19 - Gilead Sciences     0.00337857
+20 - 3M     0.00336351
+21 - Alexion Pharmaceuticals     0.00336274
+22 - Vertex Pharmaceuticals     0.003361
+23 - NetApp     0.00331341
+24 - J. B. Hunt     0.00326654
+25 - Procter & Gamble     0.00324234
+26 - American Airlines Group     0.00321343
+27 - Mondelez International     0.00319802
+28 - Johnson & Johnson     0.00318886
+29 - Alphabet Inc.     0.00318598
+30 - Charter Communications     0.00317175
+31 - Advanced Micro Devices     0.0031606
+32 - Expedia Group     0.00313735
+33 - General Motors     0.00311487
+34 - NASDAQ-100     0.00311317
+35 - Visa Inc.     0.0031104
+36 - Broadcom Inc.     0.00310811
+37 - Western Digital     0.00310093
+38 - Merck & Co.     0.00304166
+39 - Lam Research     0.00303259
+40 - Texas Instruments     0.00300341
+41 - Micron Technology     0.0029446
+42 - Intuit     0.00288842
+43 - Xilinx     0.00288163
+44 - Cadence Design Systems     0.00287834
+45 - Synopsys     0.00286299
+46 - Microchip Technology     0.00284533
+47 - Schaffhausen     0.00284287
+48 - General Electric     0.00283952
+49 - Dollar Tree     0.00280162
+50 - Automatic Data Processing     0.00279984
+51 - Citrix Systems     0.00272847
+52 - Electronic Arts     0.00269483
+53 - Ulta Beauty     0.00266953
+54 - Morgan Stanley     0.00266943
+55 - NortonLifeLock     0.00266581
+56 - KLA Corporation     0.00266455
+57 - Monster Beverage     0.00264906
+58 - Henry Schein     0.00262483
+59 - Willis Towers Watson     0.00259453
+60 - Activision Blizzard     0.00259328
+61 - Cerner     0.00258891
+62 - Verisk Analytics     0.00258438
+63 - Ross Stores     0.00257965
+64 - Skyworks Solutions     0.00257015
+65 - Incyte     0.00256961
+66 - Take-Two Interactive     0.00256378
+67 - Maxim Integrated     0.00256361
+68 - Align Technology     0.00256293
+69 - Idexx Laboratories     0.00256293
+70 - DirecTV     0.00249171
+71 - Caterpillar Inc.     0.00249038
+72 - BlackRock     0.00238283
+73 - Eaton Corporation     0.00236293
+74 - United Technologies     0.00234401
+75 - Berkshire Hathaway     0.00230668
+76 - Curaçao     0.00214698
+77 - Delta Air Lines     0.00206341
+78 - Dow Inc.     0.00193524
+79 - Kohlberg Kravis Roberts     0.00192827
+80 - PNC Financial Services     0.00188839
+81 - American International Group     0.00175892
+82 - ConocoPhillips     0.00171939
+83 - United Parcel Service     0.00166053
+84 - Samsung Electronics     0.00161995
+85 - Hewlett Packard Enterprise     0.00161546
+86 - Abbott Laboratories     0.00161061
+87 - U.S. Bancorp     0.00160603
+88 - FMC Corporation     0.00150637
+89 - General Mills     0.00147691
+90 - Wells Fargo     0.00147519
+91 - Duke Energy     0.00144694
+92 - PPG Industries     0.00142573
+93 - Life Technologies (Thermo Fisher Scientific)     0.00141351
+94 - Cablevision     0.00141218
+95 - Thermo Fisher Scientific     0.00141138
+96 - Dish Network     0.00139586
+97 - News Corporation (1980–2013)     0.00139284
+98 - Time Warner Cable     0.00139187
+99 - Harley-Davidson     0.00135081
+100 - Dominion Energy     0.00133193
+Doing matrix multiplication! This takes time. Your multiplication will produce 1049 rows.
+We will print one . for each 50 rows calculated and you can expect 20 .s
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+Error 5: 0.000375864
+1 - Apple Inc.     0.00369031
+2 - Associated Press     0.00323051
+3 - Twitter     0.00282073
+4 - Facebook     0.00275325
+5 - Cisco Systems     0.00253036
+6 - The Walt Disney Company     0.00241998
+7 - IBM     0.0024154
+8 - Walgreens Boots Alliance     0.00218594
+9 - PR Newswire     0.00212615
+10 - Comcast     0.00209235
+11 - Walmart     0.00189846
+12 - Kraft Heinz     0.00185207
+13 - Verizon Communications     0.00184087
+14 - PayPal     0.00181225
+15 - T-Mobile US     0.00178482
+16 - Yahoo!     0.00170343
+17 - United Airlines Holdings     0.00161876
+18 - 3M     0.00154762
+19 - Regeneron Pharmaceuticals     0.00154103
+20 - Gilead Sciences     0.00153893
+21 - Schaffhausen     0.00153785
+22 - Alexion Pharmaceuticals     0.00153161
+23 - Vertex Pharmaceuticals     0.00153081
+24 - NetApp     0.00150864
+25 - Procter & Gamble     0.00149121
+26 - J. B. Hunt     0.00148902
+27 - Johnson & Johnson     0.00146616
+28 - American Airlines Group     0.00146454
+29 - Mondelez International     0.00145737
+30 - Alphabet Inc.     0.00145269
+31 - General Motors     0.00144659
+32 - Charter Communications     0.00144509
+33 - Advanced Micro Devices     0.00143867
+34 - Visa Inc.     0.00142931
+35 - Expedia Group     0.00142875
+36 - NASDAQ-100     0.00141819
+37 - Broadcom Inc.     0.00141438
+38 - Western Digital     0.00141172
+39 - Merck & Co.     0.00139801
+40 - Lam Research     0.00137997
+41 - Texas Instruments     0.00136687
+42 - Micron Technology     0.00133977
+43 - Intuit     0.00131448
+44 - Xilinx     0.00131093
+45 - General Electric     0.0013109
+46 - Cadence Design Systems     0.00130924
+47 - Synopsys     0.00130256
+48 - Microchip Technology     0.00129435
+49 - Dollar Tree     0.00127527
+50 - Automatic Data Processing     0.00127366
+51 - Citrix Systems     0.00124084
+52 - Morgan Stanley     0.00123604
+53 - Electronic Arts     0.00122617
+54 - Ulta Beauty     0.0012143
+55 - NortonLifeLock     0.00121222
+56 - KLA Corporation     0.00121148
+57 - Monster Beverage     0.00120462
+58 - Henry Schein     0.00119364
+59 - Willis Towers Watson     0.00117964
+60 - Activision Blizzard     0.00117906
+61 - Cerner     0.00117705
+62 - Verisk Analytics     0.00117493
+63 - Ross Stores     0.00117277
+64 - Skyworks Solutions     0.00116838
+65 - Curaçao     0.00116828
+66 - Incyte     0.00116812
+67 - Take-Two Interactive     0.00116543
+68 - Maxim Integrated     0.00116536
+69 - Align Technology     0.00116504
+70 - Idexx Laboratories     0.00116504
+71 - DirecTV     0.00115184
+72 - Caterpillar Inc.     0.00114865
+73 - BlackRock     0.00110485
+74 - Eaton Corporation     0.00110085
+75 - United Technologies     0.00107914
+76 - Berkshire Hathaway     0.00106871
+77 - Delta Air Lines     0.000952157
+78 - Kohlberg Kravis Roberts     0.000893356
+79 - Dow Inc.     0.000890378
+80 - PNC Financial Services     0.000878522
+81 - American International Group     0.0008167
+82 - ConocoPhillips     0.000806112
+83 - Life Technologies (Thermo Fisher Scientific)     0.000771805
+84 - Thermo Fisher Scientific     0.000769507
+85 - United Parcel Service     0.00076528
+86 - Hewlett Packard Enterprise     0.000743222
+87 - U.S. Bancorp     0.000742504
+88 - Samsung Electronics     0.000741316
+89 - Abbott Laboratories     0.000738605
+90 - FMC Corporation     0.000699785
+91 - Duke Energy     0.000689067
+92 - Wells Fargo     0.000682734
+93 - General Mills     0.000682197
+94 - PPG Industries     0.000663801
+95 - Cablevision     0.000649771
+96 - News Corporation (1980–2013)     0.0006432
+97 - Dish Network     0.000642102
+98 - Time Warner Cable     0.000640574
+99 - Dominion Energy     0.00063588
+100 - Chesapeake Energy     0.000629204
+Doing matrix multiplication! This takes time. Your multiplication will produce 1049 rows.
+We will print one . for each 50 rows calculated and you can expect 20 .s
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+Error 6: 8.01319e-005
+1 - Apple Inc.     0.000787243
+2 - Associated Press     0.000689531
+3 - Twitter     0.00060197
+4 - Facebook     0.000587318
+5 - Cisco Systems     0.000539754
+6 - The Walt Disney Company     0.000516418
+7 - IBM     0.000515397
+8 - Walgreens Boots Alliance     0.000466278
+9 - PR Newswire     0.000453845
+10 - Comcast     0.000446335
+11 - Walmart     0.000405166
+12 - Kraft Heinz     0.000395077
+13 - Verizon Communications     0.00039282
+14 - PayPal     0.000386512
+15 - T-Mobile US     0.00038069
+16 - Yahoo!     0.000363547
+17 - United Airlines Holdings     0.00034526
+18 - Schaffhausen     0.000337126
+19 - 3M     0.000330218
+20 - Regeneron Pharmaceuticals     0.000328648
+21 - Gilead Sciences     0.000328199
+22 - Alexion Pharmaceuticals     0.000326638
+23 - Vertex Pharmaceuticals     0.000326467
+24 - NetApp     0.000321738
+25 - Procter & Gamble     0.000318187
+26 - J. B. Hunt     0.00031757
+27 - Johnson & Johnson     0.000312833
+28 - American Airlines Group     0.000312349
+29 - Mondelez International     0.000310827
+30 - Alphabet Inc.     0.00030982
+31 - General Motors     0.000308796
+32 - Charter Communications     0.000308193
+33 - Advanced Micro Devices     0.000306808
+34 - Visa Inc.     0.000304955
+35 - Expedia Group     0.00030471
+36 - NASDAQ-100     0.000302458
+37 - Broadcom Inc.     0.000301624
+38 - Western Digital     0.000301065
+39 - Merck & Co.     0.000298287
+40 - Lam Research     0.000294287
+41 - Texas Instruments     0.000291497
+42 - Micron Technology     0.000285711
+43 - Intuit     0.000280321
+44 - General Electric     0.000279787
+45 - Xilinx     0.000279558
+46 - Cadence Design Systems     0.000279193
+47 - Synopsys     0.000277774
+48 - Microchip Technology     0.000276021
+49 - Dollar Tree     0.000271964
+50 - Automatic Data Processing     0.000271614
+51 - Citrix Systems     0.000264605
+52 - Morgan Stanley     0.000263837
+53 - Electronic Arts     0.000261482
+54 - Ulta Beauty     0.000258952
+55 - NortonLifeLock     0.000258502
+56 - KLA Corporation     0.000258341
+57 - Monster Beverage     0.000256882
+58 - Curaçao     0.000256459
+59 - Henry Schein     0.00025454
+60 - Willis Towers Watson     0.000251551
+61 - Activision Blizzard     0.000251427
+62 - Cerner     0.000250998
+63 - Verisk Analytics     0.000250546
+64 - Ross Stores     0.000250084
+65 - Skyworks Solutions     0.000249147
+66 - Incyte     0.000249092
+67 - Take-Two Interactive     0.000248516
+68 - Maxim Integrated     0.000248502
+69 - Align Technology     0.000248434
+70 - Idexx Laboratories     0.000248434
+71 - DirecTV     0.000245812
+72 - Caterpillar Inc.     0.000245105
+73 - BlackRock     0.000235854
+74 - Eaton Corporation     0.000234989
+75 - United Technologies     0.000230265
+76 - Berkshire Hathaway     0.000228099
+77 - Delta Air Lines     0.000203214
+78 - Kohlberg Kravis Roberts     0.000190693
+79 - Dow Inc.     0.000189978
+80 - PNC Financial Services     0.00018753
+81 - American International Group     0.000174323
+82 - ConocoPhillips     0.000172127
+83 - Life Technologies (Thermo Fisher Scientific)     0.000169427
+84 - Thermo Fisher Scientific     0.000168878
+85 - United Parcel Service     0.000163332
+86 - Hewlett Packard Enterprise     0.000158602
+87 - U.S. Bancorp     0.000158467
+88 - Samsung Electronics     0.000158144
+89 - Abbott Laboratories     0.000157592
+90 - FMC Corporation     0.000149372
+91 - Duke Energy     0.000147237
+92 - Wells Fargo     0.00014573
+93 - General Mills     0.000145596
+94 - PPG Industries     0.000141692
+95 - Cablevision     0.000138644
+96 - News Corporation (1980–2013)     0.000137265
+97 - Dish Network     0.000137014
+98 - Time Warner Cable     0.000136693
+99 - Dominion Energy     0.000135881
+100 - Chesapeake Energy     0.000134384
+Doing matrix multiplication! This takes time. Your multiplication will produce 1049 rows.
+We will print one . for each 50 rows calculated and you can expect 20 .s
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+Error 7: 3.65432e-006
+1 - Apple Inc.     3.59014e-005
+2 - Associated Press     3.14457e-005
+3 - Twitter     2.74524e-005
+4 - Facebook     2.6784e-005
+5 - Cisco Systems     2.46149e-005
+6 - The Walt Disney Company     2.35509e-005
+7 - IBM     2.35043e-005
+8 - Walgreens Boots Alliance     2.12641e-005
+9 - PR Newswire     2.06974e-005
+10 - Comcast     2.03546e-005
+11 - Walmart     1.84774e-005
+12 - Kraft Heinz     1.80171e-005
+13 - Verizon Communications     1.79143e-005
+14 - PayPal     1.76264e-005
+15 - T-Mobile US     1.73609e-005
+16 - Yahoo!     1.65793e-005
+17 - United Airlines Holdings     1.57452e-005
+18 - Schaffhausen     1.53847e-005
+19 - 3M     1.50593e-005
+20 - Regeneron Pharmaceuticals     1.49876e-005
+21 - Gilead Sciences     1.49671e-005
+22 - Alexion Pharmaceuticals     1.48959e-005
+23 - Vertex Pharmaceuticals     1.48881e-005
+24 - NetApp     1.46725e-005
+25 - Procter & Gamble     1.45106e-005
+26 - J. B. Hunt     1.44824e-005
+27 - Johnson & Johnson     1.42665e-005
+28 - American Airlines Group     1.42443e-005
+29 - Mondelez International     1.41749e-005
+30 - Alphabet Inc.     1.4129e-005
+31 - General Motors     1.40825e-005
+32 - Charter Communications     1.40548e-005
+33 - Advanced Micro Devices     1.39916e-005
+34 - Visa Inc.     1.39072e-005
+35 - Expedia Group     1.38959e-005
+36 - NASDAQ-100     1.37932e-005
+37 - Broadcom Inc.     1.37552e-005
+38 - Western Digital     1.37297e-005
+39 - Merck & Co.     1.36031e-005
+40 - Lam Research     1.34206e-005
+41 - Texas Instruments     1.32933e-005
+42 - Micron Technology     1.30295e-005
+43 - Intuit     1.27837e-005
+44 - General Electric     1.27595e-005
+45 - Xilinx     1.27489e-005
+46 - Cadence Design Systems     1.27322e-005
+47 - Synopsys     1.26675e-005
+48 - Microchip Technology     1.25876e-005
+49 - Dollar Tree     1.24026e-005
+50 - Automatic Data Processing     1.23866e-005
+51 - Citrix Systems     1.2067e-005
+52 - Morgan Stanley     1.20322e-005
+53 - Electronic Arts     1.19246e-005
+54 - Ulta Beauty     1.18092e-005
+55 - NortonLifeLock     1.17887e-005
+56 - KLA Corporation     1.17813e-005
+57 - Monster Beverage     1.17148e-005
+58 - Curaçao     1.17042e-005
+59 - Henry Schein     1.1608e-005
+60 - Willis Towers Watson     1.14717e-005
+61 - Activision Blizzard     1.1466e-005
+62 - Cerner     1.14464e-005
+63 - Verisk Analytics     1.14258e-005
+64 - Ross Stores     1.14048e-005
+65 - Skyworks Solutions     1.1362e-005
+66 - Incyte     1.13595e-005
+67 - Take-Two Interactive     1.13333e-005
+68 - Maxim Integrated     1.13326e-005
+69 - Align Technology     1.13295e-005
+70 - Idexx Laboratories     1.13295e-005
+71 - DirecTV     1.12101e-005
+72 - Caterpillar Inc.     1.11778e-005
+73 - BlackRock     1.0756e-005
+74 - Eaton Corporation     1.07165e-005
+75 - United Technologies     1.05011e-005
+76 - Berkshire Hathaway     1.04023e-005
+77 - Delta Air Lines     9.26746e-006
+78 - Kohlberg Kravis Roberts     8.69644e-006
+79 - Dow Inc.     8.66377e-006
+80 - PNC Financial Services     8.55218e-006
+81 - American International Group     7.9499e-006
+82 - ConocoPhillips     7.84983e-006
+83 - Life Technologies (Thermo Fisher Scientific)     7.73208e-006
+84 - Thermo Fisher Scientific     7.70699e-006
+85 - United Parcel Service     7.44866e-006
+86 - Hewlett Packard Enterprise     7.23295e-006
+87 - U.S. Bancorp     7.22678e-006
+88 - Samsung Electronics     7.21201e-006
+89 - Abbott Laboratories     7.18688e-006
+90 - FMC Corporation     6.81201e-006
+91 - Duke Energy     6.7147e-006
+92 - Wells Fargo     6.64593e-006
+93 - General Mills     6.63981e-006
+94 - PPG Industries     6.46178e-006
+95 - Cablevision     6.32274e-006
+96 - News Corporation (1980–2013)     6.25986e-006
+97 - Dish Network     6.24842e-006
+98 - Time Warner Cable     6.23377e-006
+99 - Dominion Energy     6.19679e-006
+100 - Chesapeake Energy     6.12852e-006
+Doing matrix multiplication! This takes time. Your multiplication will produce 1049 rows.
+We will print one . for each 50 rows calculated and you can expect 20 .s
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+Error 8: 7.60038e-009
+1 - Apple Inc.     7.4669e-008
+2 - Associated Press     6.54019e-008
+3 - Twitter     5.70964e-008
+4 - Facebook     5.57063e-008
+5 - Cisco Systems     5.1195e-008
+6 - The Walt Disney Company     4.89819e-008
+7 - IBM     4.8885e-008
+8 - Walgreens Boots Alliance     4.42258e-008
+9 - PR Newswire     4.30471e-008
+10 - Comcast     4.23342e-008
+11 - Walmart     3.84298e-008
+12 - Kraft Heinz     3.74725e-008
+13 - Verizon Communications     3.72587e-008
+14 - PayPal     3.666e-008
+15 - T-Mobile US     3.61079e-008
+16 - Yahoo!     3.44823e-008
+17 - United Airlines Holdings     3.27474e-008
+18 - Schaffhausen     3.19977e-008
+19 - 3M     3.13209e-008
+20 - Regeneron Pharmaceuticals     3.11717e-008
+21 - Gilead Sciences     3.11291e-008
+22 - Alexion Pharmaceuticals     3.0981e-008
+23 - Vertex Pharmaceuticals     3.09649e-008
+24 - NetApp     3.05163e-008
+25 - Procter & Gamble     3.01797e-008
+26 - J. B. Hunt     3.0121e-008
+27 - Johnson & Johnson     2.96719e-008
+28 - American Airlines Group     2.96258e-008
+29 - Mondelez International     2.94815e-008
+30 - Alphabet Inc.     2.93859e-008
+31 - General Motors     2.92893e-008
+32 - Charter Communications     2.92316e-008
+33 - Advanced Micro Devices     2.91002e-008
+34 - Visa Inc.     2.89247e-008
+35 - Expedia Group     2.89012e-008
+36 - NASDAQ-100     2.86876e-008
+37 - Broadcom Inc.     2.86085e-008
+38 - Western Digital     2.85554e-008
+39 - Merck & Co.     2.82922e-008
+40 - Lam Research     2.79126e-008
+41 - Texas Instruments     2.76479e-008
+42 - Micron Technology     2.70992e-008
+43 - Intuit     2.65879e-008
+44 - General Electric     2.65377e-008
+45 - Xilinx     2.65156e-008
+46 - Cadence Design Systems     2.64809e-008
+47 - Synopsys     2.63463e-008
+48 - Microchip Technology     2.618e-008
+49 - Dollar Tree     2.57953e-008
+50 - Automatic Data Processing     2.57621e-008
+51 - Citrix Systems     2.50973e-008
+52 - Morgan Stanley     2.50249e-008
+53 - Electronic Arts     2.48011e-008
+54 - Ulta Beauty     2.45611e-008
+55 - NortonLifeLock     2.45184e-008
+56 - KLA Corporation     2.45032e-008
+57 - Monster Beverage     2.43648e-008
+58 - Curaçao     2.43427e-008
+59 - Henry Schein     2.41427e-008
+60 - Willis Towers Watson     2.38592e-008
+61 - Activision Blizzard     2.38474e-008
+62 - Cerner     2.38067e-008
+63 - Verisk Analytics     2.37638e-008
+64 - Ross Stores     2.372e-008
+65 - Skyworks Solutions     2.36311e-008
+66 - Incyte     2.36259e-008
+67 - Take-Two Interactive     2.35713e-008
+68 - Maxim Integrated     2.35699e-008
+69 - Align Technology     2.35635e-008
+70 - Idexx Laboratories     2.35635e-008
+71 - DirecTV     2.33151e-008
+72 - Caterpillar Inc.     2.3248e-008
+73 - BlackRock     2.23707e-008
+74 - Eaton Corporation     2.22886e-008
+75 - United Technologies     2.18404e-008
+76 - Berkshire Hathaway     2.16351e-008
+77 - Delta Air Lines     1.92748e-008
+78 - Kohlberg Kravis Roberts     1.80871e-008
+79 - Dow Inc.     1.80192e-008
+80 - PNC Financial Services     1.77871e-008
+81 - American International Group     1.65345e-008
+82 - ConocoPhillips     1.63263e-008
+83 - Life Technologies (Thermo Fisher Scientific)     1.60814e-008
+84 - Thermo Fisher Scientific     1.60293e-008
+85 - United Parcel Service     1.5492e-008
+86 - Hewlett Packard Enterprise     1.50433e-008
+87 - U.S. Bancorp     1.50305e-008
+88 - Samsung Electronics     1.49998e-008
+89 - Abbott Laboratories     1.49475e-008
+90 - FMC Corporation     1.41678e-008
+91 - Duke Energy     1.39655e-008
+92 - Wells Fargo     1.38224e-008
+93 - General Mills     1.38097e-008
+94 - PPG Industries     1.34394e-008
+95 - Cablevision     1.31503e-008
+96 - News Corporation (1980–2013)     1.30195e-008
+97 - Dish Network     1.29957e-008
+98 - Time Warner Cable     1.29652e-008
+99 - Dominion Energy     1.28883e-008
+100 - Chesapeake Energy     1.27463e-008
+Finished Iteration!!

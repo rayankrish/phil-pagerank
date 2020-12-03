@@ -1,0 +1,8445 @@
+19:36:28: Starting D:\DOCUMENTS\SCHOOL FILES\2019-2020\CS106 Final\11-graphs\build-graphs-Desktop_Qt_5_12_6_MinGW_64_bit-Debug\debug\graphs.exe ...
+{"Zeno (programming language)", "YUI Library", "XSharp", "XQuery", "XPath", "XPL", "XOD (programming language)", "XL (programming language)", "XCore XS1", "XC Programming Language", "XBL", "X10 (programming language)", "Winbatch", "WATFIV (programming language)", "Visual Prolog", "Visual FoxPro", "Visual Fortran", "Visual DialogScript", "Verilog", "Vala (programming language)", "Unicon (programming language)", "Ubercode", "Visual DataFlex", "Tynker", "Turing (programming language)", "Transcript (programming language)", "Transact-SQL", "Toi (programming language)", "XHarbour", "Timeline of programming languages", "Text Processing Utility", "Text Editor and Corrector", "Tea (programming language)", "TeX", "Tcl", "TUTOR (programming language)", "TTCN", "TOM (object-oriented programming language)", "WebDNA", "TELCOMP", "Uniface (programming language)", "TACPOL (programming language)", "SystemVerilog", "Swift (programming language)", "Strand (programming language)", "Starlogo", "Standard ML", "Squirrel (programming language)", "Strongtalk", "Speedcoding", "Snap! (programming language)", "Singularity (operating system)", "Simula", "Self (programming language)", "Seed7", "Scilab", "Scheme (programming language)", "Scala (programming language)", "Sawzall (programming language)", "SabreTalk", "SQR", "SQL", "SPITBOL compiler", "SR (programming language)", "SPARK (programming language)", "SOPHAEROS", "SNOBOL", "SLIP (programming language)", "SISAL", "SIMSCRIPT", "SIGNAL (programming language)", "Umple", "SETL", "TXL (programming language)", "S-PLUS", "Text Executive Programming Language", "S-Lang (programming language)", "Scratch (programming language)", "Rust (programming language)", "Ruby (programming language)", "Superbase database", "Rlab", "Rc", "SuperTalk", "Ratfor", "Ratfiv", "Raku (programming language)", "Racket (programming language)", "RTL/2", "Quantum programming", "QuakeC", "TMG (language)", "QtScript", "Q (programming language from Kx Systems)", "P\342\200\262\342\200\262", "ProvideX", "Protel", "Promela", "Prolog", "Prograph", "Visual Basic", "Programming language for Computable Functions", "R++", "Rapira", "Programming Language for Business", "Stateflow", "PowerBuilder", "Pony (programming language)", "Picolisp", "Pico (programming language)", "Solidity", "Perl", "PeopleCode", "Parallax Propeller", "SiMPLE", "ParaSail (programming language)", "P (programming language)", "PROSE modeling language", "POP-2", "POP-11", "PLEXIL", "PL360", "PL/SQL", "ZPL (programming language)", "TempleOS", "SMALL", "PL/M", "Visual Objects", "PL/I", "PL/C", "PHP", "PARI/GP", "Oz (programming language)", "Open Programming Language", "Processing.js", "OpenEdge Advanced Business Language", "OpenCL", "Opal (programming language)", "Onyx (programming language)", "XBase++", "OmniMark", "Occam-\317\200", "XPL0", "Processing (programming language)", "Objective-J", "Objective-C", "Pict (programming language)", "Object REXX", "PostScript", "Object Lisp", "Oberon (programming language)", "Visual Basic .NET", "Oak (programming language)", "ZettaCode", "ORCA/Modula-2", "Orwell (programming language)", "OBJ2", "Nu (programming language)", "Non-English-based programming languages", "PowerShell", "Nice (programming language)", "Nial", "Netwide Assembler", "S2 (programming language)", "Net.Data", "Nemerle", "Neko (programming language)", "NORD Programming Language", "Plankalk\303\274l", "NEWP", "NESL", "Wolfram Language", "M\303\241ni", "Speakeasy (computational environment)", "Sed", "POV-Ray", "Mystic BBS", "PL/0", "Mouse (programming language)", "Mohol programming languages", "Modula-3", "Secure Operations Language", "Modula-2", "Modula", "Modelica", "Model 204", "S/SL programming language", "Mirah (programming language)", "Mesa (programming language)", "Powerhouse (programming language)", "Mercury (programming language)", "Maya Embedded Language", "Unix shell", "SAS System", "Max (software)", "Maude system", "Mary (programming language)", "Maxima (software)", "Markup language", "Maple (software)", "Pure Data", "Pizza (programming language)", "Opa (programming language)", "Macsyma", "Machine code", "Reason (programming language)", "MOO (programming language)", "ML (programming language)", "MIVA Script", "XOTcl", "MIRC scripting language", "MIMIC", "MIIS (programming language)", "Xtend", "MATH-MATIC", "MARK IV (software)", "M4 (computer language)", "M2001", "Oriel (scripting language)", "Lucid (programming language)", "Lua (programming language)", "VSXu", "TADS", "MAPPER", "Easytrieve", "Hume (language)", "LilyPond", "List of BASIC dialects", "Easy Programming Language", "Visual J++", "DIGITAL Command Language", "ABC ALGOL", "ROOP (programming language)", "Dylan (programming language)", "Formula language", "G-code", "Java (programming language)", "REBOL", "Pharo", "CoffeeScript", "Cayenne (programming language)", "Squeak", "Harbour (software)", "Z shell", "Dink Smallwood", "C++", "Not Quite C", "NWScript", "Fj\303\266lnir (programming language)", "TypeScript", "Sather", "DataFlex", "C Shell", "Dc (computer program)", "S3 (programming language)", "App Inventor for Android (programming language)", "Citrine (programming language)", "Python (programming language)", "LIS (programming language)", "MuPAD", "Dart (programming language)", "Occam (programming language)", "D (programming language)", "Julia (programming language)", "Bc (programming language)", "Nickle (programming language)", "Cyclone (programming language)", "OpenVera", "Data analysis expressions", "Idris (programming language)", "ELAN (programming language)", "Cybil (programming language)", "AppleScript", "Lite-C", "P4 (programming language)", "Crystal (programming language)", "Logtalk", "Cool (programming language)", "Pascal (programming language)", "ObjectLOGO", "Constraint Handling Rules", "MDL (programming language)", "Component Pascal", "VHDL", "NXT-G", "APL (programming language)", "Epigram (programming language)", "Eltron Programming Language", "ColdFusion", "Amiga E", "Halide (programming language)", "Smalltalk", "S (programming language)", "Chomski", "ECMAScript", "Clean (programming language)", "PROIV", "ChucK", "YQL (programming language)", "Agora (programming language)", "Klerer-May System", "Charm (language)", "Yoix", "GNU Octave", "G\303\266del (programming language)", "Charity (programming language)", "Dog (programming language)", "Chapel (programming language)", "Cecil (programming language)", "Eiffel (programming language)", "PCASTL", "Nim (programming language)", "Clarion (programming language)", "Common Lisp", "Janus (time-reversible computing programming language)", "OPS5", "Nullsoft Scriptable Install System", "C\303\251u (programming language)", "Ceylon (programming language)", "C (programming language)", "EC (programming language)", "Clojure", "CPL (programming language)", "Csound", "Coq", "Alice (programming language)", "COMIT", "C--", "COBOL", "Robot Battle", "Darwin (programming language)", "OptimJ", "FOCUS", "CMS EXEC", "AMOS (programming language)", "Elixir (programming language)", "CHIP-8", "Ada (programming language)", "Polymorphic Programming Language", "1C:Enterprise programming language", "COMPASS", "Blockly", "SenseTalk", "Datalog", "FAUST (programming language)", "Algebraic Logic Functional programming language", "Adenine (programming language)", "Lustre (programming language)", "HyperTalk", "APT (programming language)", "Tom (pattern matching language)", "PLANC", "Actor (programming language)", "Qalb (programming language)", "Grasshopper 3D", "Agilent VEE", "Cryptol", "XSL Transformations", "BCPL", "Core War", "ActionScript", "Hack (programming language)", "GNU E", "Red (programming language)", "Coral 66", "Accent (programming language)", "T (programming language)", "CorVision", "DATATRIEVE", "Pike (programming language)", "BlooP and FlooP", "Z notation", "AWK", "A-0 System", "Apache Groovy", "IBM Informix-4GL", "Hartmann pipeline", "A++", "GRASS (programming language)", "MUMPS", "CDuce", "ALGOL 58", "Boomerang (programming language)", "PLEX (programming language)", "FOIL (programming language)", "CLIST", "ACC (programming language)", "XSB", "OCaml", "BETA (programming language)", "TRAC (programming language)", "IDL (programming language)", "Cython", "Datapoint's Advanced Systems Language", "Object Pascal", "Ch (computer programming)", "EXEC 2", "AMPL", "X++", "Autodesk 3ds Max", "R (programming language)", "Mathcad", "Ease (programming language)", "Babbage (programming language)", "DIBOL", "ZetaLisp", "IBM HAScript", "Fortress (programming language)", "High Level Shader Language", "Agda (theorem prover)", "A Sharp (.NET)", "Napier88", "J (programming language)", "Aldor", "Stata", "M Sharp (programming language)", "ARexx", "ALGOL W", "Bertrand (programming language)", "SAIL (programming language)", "JOVIAL", "Argus (programming language)", "EusLisp Robot Programming Language", "PL/P", "Cesil", "BLISS (programming language)", "AmbientTalk", "DRAKON", "KRL (programming language)", "DBase", "Claire (programming language)", "A+ (programming language)", "AngelScript", "Distributed Application Specification Language", "ABC (programming language)", "Batch file", "Common Intermediate Language", "LabVIEW", "Miranda (programming language)", "MAD (programming language)", "Cobra (programming language)", "UNITY (programming language)", "COMAL", "Arc (programming language)", "Snowball programming language", "SASL (programming language)", "History of programming languages", "Assembly language", "Cilk", "Computer Sciences Corporation", "Game Oriented Assembly Lisp", "ZOPL", "Ballerina (programming language)", "RAPID", "Not eXactly C", "Golo (programming language)", "O:XML", "AutoHotkey", "Executable UML", "Pig (programming tool)", "ALGOL 68", "AutoLISP", "XBase", "TACL", "Orc (programming language)", "Cuneiform (programming language)", "Perl Data Language", "FORMAC (programming language)", "CobolScript", "Axum (programming language)", "Swift (parallel scripting language)", "Averest", "Clipper (programming language)", "B (programming language)", "Bash (Unix shell)", "Haxe", "Subtext (programming language)", "Action! (programming language)", "Qbasic", "BeanShell", "Bootstrap (programming language)", "Combined Programming Language", "Bourne shell", "C*", "Es (Unix shell)", "Karel (programming language)", "C/AL", "BASIC", "LotusScript", "IBM 1401 Symbolic Programming System", "Curl (programming language)", "CFEngine", "E (programming language)", "Ethereum", "Xojo", "ALGOL 60", "ABAP", "CHILL", "SP/k", "Edinburgh IMP", "Plus (programming language)", "Elm (programming language)", "NetLogo", "Emerald (programming language)", "Erlang (programming language)", "List of BASIC dialects by platform", "Escher (programming language)", "Microassembler", "GameMonkey Script", "Esoteric programming language", "Google Apps Script", "Shell script", "PL-11", "PILOT", "Etoys (programming language)", "Pascal Script", "Metafont", "Lasso (programming language)", "Euler (programming language)", "Haskell (programming language)", "JASS", "Euphoria (programming language)", "REFAL", "Oxygene (programming language)", "Executive Systems Problem Oriented Language", "Ezhil (programming language)", "Script.NET", "F* (programming language)", "Gosu (programming language)", "FFP (programming language)", "TTM (programming language)", "AS/400 Control Language", "LANSA (development environment)", "FL (programming language)", "FOCAL (programming language)", "FP (programming language)", "F (programming language)", "Lynx (programming language)", "F Sharp (programming language)", "WebAssembly", "NetRexx", "Cach\303\251 ObjectScript", "Factor (programming language)", "Fantom (programming language)", "Whiley (programming language)", "Flavors (programming language)", "Newspeak (programming language)", "MicroScript (programming language)", "Hop (software)", "REXX", "FLOW-MATIC", "Flex (language)", "JAL (compiler)", "RPL (programming language)", "Apex (programming language)", "LINQ", "Forth (programming language)", "SYMPL", "Fortran", "Franz Lisp", "Zebra (programming language)", "GAP computer algebra system", "Draco (programming language)", "HAL/S", "NewLISP", "Groovy (programming language)", "GDScript", "Planner (programming language)", "MPD (programming language)", "F-Script (programming language)", "GEORGE (programming language)", "SequenceL", "Emacs Lisp", "Job Control Language", "GPSS", "Hamilton C shell", "Game Maker Language", "Pro*C", "General Algebraic Modeling System", "Geometric Description Language", "High Level Assembly", "SuperCollider", "CMS-2 (programming language)", "Genie (programming language)", "Next Generation Shell", "Go! (programming language)", "Obliq", "Alma-0", "Active Server Pages", "Curry (programming language)", "Go (programming language)", "Transaction Application Language", "HAGGIS", "Cg (programming language)", "Hermes (programming language)", "Hollywood (programming language)", "JScript .NET", "Hope (programming language)", "PEARL (programming language)", "Hopscotch (programming language)", "Hugo (programming language)", "UCSD Pascal", "IBM 1620", "IBM Basic assembly language", "LSE (programming language)", "Tensilica Instruction Extension", "IBM RPG", "Inform (programming language)", "MATLAB", "Kaleidoscope (programming language)", "C Sharp (programming language)", "Io (programming language)", "CLIPS (programming language)", "Alef (programming language)", "JADE (programming language)", "JEAN", "JOSS", "Vim (text editor)", "JScript", "J Sharp", "Pinecone (programming language)", "Janus (concurrent constraint programming language)", "Pure (programming language)", "Lisp (programming language)", "EGL (programming language)", "JavaFX Script", "Magma computer algebra system", "IntelliCorp (Software)", "Join Java", "Mortran", "Kodu Game Lab", "Mathematica", "Limnor", "SA-C (programming language)", "DYNAMO (programming language)", "Joy (programming language)", "UnrealScript", "PROMAL", "Knowledge Interchange Format", "Jython", "Wyvern (programming language)", "GLSL", "Kotlin (programming language)", "PureScript", "NewtonScript", "Joule (programming language)", "LiveCode", "KRYPTON", "K (programming language)", "KUKA Robot Language", "Magik (programming language)", "Kent Recursive Calculator", "MHEG-5", "Icon (programming language)", "KiXtart", "JavaScript", "Kivy (framework)", "Simulink", "Euclid (programming language)", "Kojo (programming language)", "Boo (programming language)", "Lava (programming language)", "Korn shell", "Esterel", "LINC 4GL", "Lingo (programming language)", "Q Sharp", "LPC (programming language)", "LYaPAS", "Yorick (programming language)", "Caml", "Ladder logic", "COMTRAN", "Language for Instruction Set Architecture", "SAM76", "Legoscript", "Limbo (programming language)", "Milk (programming language)", "Linden Scripting Language", "List of markup languages", "Little b (programming language)", "List of programming languages by type", "List of stylesheet languages", "Lists of programming languages", "Z++", "Lithe (programming language)", "Microsoft Macro Assembler", "CLU (programming language)", "Little Computer 3", "COWSEL", "Logo (programming language)", "Little Implementation Language", "AIMMS", "LiveScript"}
+adding set to graph
+start while readline
+line: 1C:Enterprise programming language
+node: 1C:Enterprise programming language
+1
+line: A++
+node: A++
+2
+line: A+ (programming language)
+node: A+ (programming language)
+3
+line: A-0 System
+node: A-0 System
+4
+line: ABAP
+node: ABAP
+5
+line: ABC (programming language)
+node: ABC (programming language)
+6
+line: ABC ALGOL
+node: ABC ALGOL
+7
+line: ACC (programming language)
+node: ACC (programming language)
+8
+line: AIMMS
+node: AIMMS
+9
+line: ALGOL 58
+node: ALGOL 58
+10
+line: ALGOL 60
+node: ALGOL 60
+11
+line: ALGOL 68
+node: ALGOL 68
+12
+line: ALGOL W
+node: ALGOL W
+13
+line: AMOS (programming language)
+node: AMOS (programming language)
+14
+line: AMPL
+node: AMPL
+15
+line: APL (programming language)
+node: APL (programming language)
+16
+line: APT (programming language)
+node: APT (programming language)
+17
+line: ARexx
+node: ARexx
+18
+line: AS/400 Control Language
+node: AS/400 Control Language
+19
+line: AWK
+node: AWK
+20
+line: A Sharp (.NET)
+node: A Sharp (.NET)
+21
+line: Accent (programming language)
+node: Accent (programming language)
+22
+line: Action! (programming language)
+node: Action! (programming language)
+23
+line: ActionScript
+node: ActionScript
+24
+line: Active Server Pages
+node: Active Server Pages
+25
+line: Actor (programming language)
+node: Actor (programming language)
+26
+line: Ada (programming language)
+node: Ada (programming language)
+27
+line: Adenine (programming language)
+node: Adenine (programming language)
+28
+line: Agda (theorem prover)
+node: Agda (theorem prover)
+29
+line: Agilent VEE
+node: Agilent VEE
+30
+line: Agora (programming language)
+node: Agora (programming language)
+31
+line: Aldor
+node: Aldor
+32
+line: Alef (programming language)
+node: Alef (programming language)
+33
+line: Algebraic Logic Functional programming language
+node: Algebraic Logic Functional programming language
+34
+line: Alice (programming language)
+node: Alice (programming language)
+35
+line: Alma-0
+node: Alma-0
+36
+line: AmbientTalk
+node: AmbientTalk
+37
+line: Amiga E
+node: Amiga E
+38
+line: AngelScript
+node: AngelScript
+39
+line: Apache Groovy
+node: Apache Groovy
+40
+line: Apex (programming language)
+node: Apex (programming language)
+41
+line: App Inventor for Android (programming language)
+node: App Inventor for Android (programming language)
+42
+line: AppleScript
+node: AppleScript
+43
+line: Arc (programming language)
+node: Arc (programming language)
+44
+line: Argus (programming language)
+node: Argus (programming language)
+45
+line: Assembly language
+node: Assembly language
+46
+line: AutoHotkey
+node: AutoHotkey
+47
+line: AutoLISP
+node: AutoLISP
+48
+line: Autodesk 3ds Max
+node: Autodesk 3ds Max
+49
+line: Averest
+node: Averest
+50
+line: Axum (programming language)
+node: Axum (programming language)
+51
+line: BASIC
+node: BASIC
+52
+line: BCPL
+node: BCPL
+53
+line: BETA (programming language)
+node: BETA (programming language)
+54
+line: BLISS (programming language)
+node: BLISS (programming language)
+55
+line: B (programming language)
+node: B (programming language)
+56
+line: Babbage (programming language)
+node: Babbage (programming language)
+57
+line: Ballerina (programming language)
+node: Ballerina (programming language)
+58
+line: Bash (Unix shell)
+node: Bash (Unix shell)
+59
+line: Batch file
+node: Batch file
+60
+line: Bc (programming language)
+node: Bc (programming language)
+61
+line: BeanShell
+node: BeanShell
+62
+line: Bertrand (programming language)
+node: Bertrand (programming language)
+63
+line: Blockly
+node: Blockly
+64
+line: BlooP and FlooP
+node: BlooP and FlooP
+65
+line: Boo (programming language)
+node: Boo (programming language)
+66
+line: Boomerang (programming language)
+node: Boomerang (programming language)
+67
+line: Bootstrap (programming language)
+node: Bootstrap (programming language)
+68
+line: Bourne shell
+node: Bourne shell
+69
+line: C*
+node: C*
+70
+line: C++
+node: C++
+71
+line: C--
+node: C--
+72
+line: C/AL
+node: C/AL
+73
+line: CDuce
+node: CDuce
+74
+line: CFEngine
+node: CFEngine
+75
+line: CHILL
+node: CHILL
+76
+line: CHIP-8
+node: CHIP-8
+77
+line: CLIPS (programming language)
+node: CLIPS (programming language)
+78
+line: CLIST
+node: CLIST
+79
+line: CLU (programming language)
+node: CLU (programming language)
+80
+line: CMS-2 (programming language)
+node: CMS-2 (programming language)
+81
+line: CMS EXEC
+node: CMS EXEC
+82
+line: COBOL
+node: COBOL
+83
+line: COMAL
+node: COMAL
+84
+line: COMIT
+node: COMIT
+85
+line: COMPASS
+node: COMPASS
+86
+line: COMTRAN
+node: COMTRAN
+87
+line: COWSEL
+node: COWSEL
+88
+line: CPL (programming language)
+node: CPL (programming language)
+89
+line: C (programming language)
+node: C (programming language)
+90
+line: C Sharp (programming language)
+node: C Sharp (programming language)
+91
+line: C Shell
+node: C Shell
+92
+line: CachÃ© ObjectScript
+node: CachÃ© ObjectScript
+93
+line: Caml
+node: Caml
+94
+line: Cayenne (programming language)
+node: Cayenne (programming language)
+95
+line: Cecil (programming language)
+node: Cecil (programming language)
+96
+line: Cesil
+node: Cesil
+97
+line: Ceylon (programming language)
+node: Ceylon (programming language)
+98
+line: Cg (programming language)
+node: Cg (programming language)
+99
+line: Ch (computer programming)
+node: Ch (computer programming)
+100
+line: Chapel (programming language)
+node: Chapel (programming language)
+101
+line: Charity (programming language)
+node: Charity (programming language)
+102
+line: Charm (language)
+node: Charm (language)
+103
+line: Chomski
+node: Chomski
+104
+line: ChucK
+node: ChucK
+105
+line: Cilk
+node: Cilk
+106
+line: Citrine (programming language)
+node: Citrine (programming language)
+107
+line: Claire (programming language)
+node: Claire (programming language)
+108
+line: Clarion (programming language)
+node: Clarion (programming language)
+109
+line: Clean (programming language)
+node: Clean (programming language)
+110
+line: Clipper (programming language)
+node: Clipper (programming language)
+111
+line: Clojure
+node: Clojure
+112
+line: CobolScript
+node: CobolScript
+113
+line: Cobra (programming language)
+node: Cobra (programming language)
+114
+line: CoffeeScript
+node: CoffeeScript
+115
+line: ColdFusion
+node: ColdFusion
+116
+line: Combined Programming Language
+node: Combined Programming Language
+117
+line: Common Intermediate Language
+node: Common Intermediate Language
+118
+line: Common Lisp
+node: Common Lisp
+119
+line: Comparison of programming languages
+line: Component Pascal
+node: Component Pascal
+120
+line: Computer Sciences Corporation
+node: Computer Sciences Corporation
+121
+line: Constraint Handling Rules
+node: Constraint Handling Rules
+122
+line: Cool (programming language)
+node: Cool (programming language)
+123
+line: Coq
+node: Coq
+124
+line: CorVision
+node: CorVision
+125
+line: Coral 66
+node: Coral 66
+126
+line: Core War
+node: Core War
+127
+line: Cryptol
+node: Cryptol
+128
+line: Crystal (programming language)
+node: Crystal (programming language)
+129
+line: Csound
+node: Csound
+130
+line: Cuneiform (programming language)
+node: Cuneiform (programming language)
+131
+line: Curl (programming language)
+node: Curl (programming language)
+132
+line: Curry (programming language)
+node: Curry (programming language)
+133
+line: Cybil (programming language)
+node: Cybil (programming language)
+134
+line: Cyclone (programming language)
+node: Cyclone (programming language)
+135
+line: Cython
+node: Cython
+136
+line: CÃ©u (programming language)
+node: CÃ©u (programming language)
+137
+line: DATATRIEVE
+node: DATATRIEVE
+138
+line: DBase
+node: DBase
+139
+line: DIBOL
+node: DIBOL
+140
+line: DIGITAL Command Language
+node: DIGITAL Command Language
+141
+line: DRAKON
+node: DRAKON
+142
+line: DYNAMO (programming language)
+node: DYNAMO (programming language)
+143
+line: D (programming language)
+node: D (programming language)
+144
+line: Dart (programming language)
+node: Dart (programming language)
+145
+line: Darwin (programming language)
+node: Darwin (programming language)
+146
+line: DataFlex
+node: DataFlex
+147
+line: Data analysis expressions
+node: Data analysis expressions
+148
+line: Datalog
+node: Datalog
+149
+line: Datapoint's Advanced Systems Language
+node: Datapoint's Advanced Systems Language
+150
+line: Dc (computer program)
+node: Dc (computer program)
+151
+line: Dink Smallwood
+node: Dink Smallwood
+152
+line: Distributed Application Specification Language
+node: Distributed Application Specification Language
+153
+line: Dog (programming language)
+node: Dog (programming language)
+154
+line: Draco (programming language)
+node: Draco (programming language)
+155
+line: Dylan (programming language)
+node: Dylan (programming language)
+156
+line: ECMAScript
+node: ECMAScript
+157
+line: EC (programming language)
+node: EC (programming language)
+158
+line: EGL (programming language)
+node: EGL (programming language)
+159
+line: ELAN (programming language)
+node: ELAN (programming language)
+160
+line: EXEC 2
+node: EXEC 2
+161
+line: E (programming language)
+node: E (programming language)
+162
+line: Ease (programming language)
+node: Ease (programming language)
+163
+line: Easy Programming Language
+node: Easy Programming Language
+164
+line: Easytrieve
+node: Easytrieve
+165
+line: Edinburgh IMP
+node: Edinburgh IMP
+166
+line: Eiffel (programming language)
+node: Eiffel (programming language)
+167
+line: Elixir (programming language)
+node: Elixir (programming language)
+168
+line: Elm (programming language)
+node: Elm (programming language)
+169
+line: Eltron Programming Language
+node: Eltron Programming Language
+170
+line: Emacs Lisp
+node: Emacs Lisp
+171
+line: Emerald (programming language)
+node: Emerald (programming language)
+172
+line: Epigram (programming language)
+node: Epigram (programming language)
+173
+line: Erlang (programming language)
+node: Erlang (programming language)
+174
+line: Es (Unix shell)
+node: Es (Unix shell)
+175
+line: Escher (programming language)
+node: Escher (programming language)
+176
+line: Esoteric programming language
+node: Esoteric programming language
+177
+line: Esterel
+node: Esterel
+178
+line: Ethereum
+node: Ethereum
+179
+line: Etoys (programming language)
+node: Etoys (programming language)
+180
+line: Euclid (programming language)
+node: Euclid (programming language)
+181
+line: Euler (programming language)
+node: Euler (programming language)
+182
+line: Euphoria (programming language)
+node: Euphoria (programming language)
+183
+line: EusLisp Robot Programming Language
+node: EusLisp Robot Programming Language
+184
+line: Executable UML
+node: Executable UML
+185
+line: Executive Systems Problem Oriented Language
+node: Executive Systems Problem Oriented Language
+186
+line: Ezhil (programming language)
+node: Ezhil (programming language)
+187
+line: F* (programming language)
+node: F* (programming language)
+188
+line: F-Script (programming language)
+node: F-Script (programming language)
+189
+line: FAUST (programming language)
+node: FAUST (programming language)
+190
+line: FFP (programming language)
+node: FFP (programming language)
+191
+line: FLOW-MATIC
+node: FLOW-MATIC
+192
+line: FL (programming language)
+node: FL (programming language)
+193
+line: FOCAL (programming language)
+node: FOCAL (programming language)
+194
+line: FOCUS
+node: FOCUS
+195
+line: FOIL (programming language)
+node: FOIL (programming language)
+196
+line: FORMAC (programming language)
+node: FORMAC (programming language)
+197
+line: FP (programming language)
+node: FP (programming language)
+198
+line: F (programming language)
+node: F (programming language)
+199
+line: F Sharp (programming language)
+node: F Sharp (programming language)
+200
+line: Factor (programming language)
+node: Factor (programming language)
+201
+line: Fantom (programming language)
+node: Fantom (programming language)
+202
+line: FjÃ¶lnir (programming language)
+node: FjÃ¶lnir (programming language)
+203
+line: Flavors (programming language)
+node: Flavors (programming language)
+204
+line: Flex (language)
+node: Flex (language)
+205
+line: Formula language
+node: Formula language
+206
+line: Forth (programming language)
+node: Forth (programming language)
+207
+line: Fortran
+node: Fortran
+208
+line: Fortress (programming language)
+node: Fortress (programming language)
+209
+line: Franz Lisp
+node: Franz Lisp
+210
+line: G-code
+node: G-code
+211
+line: GAP computer algebra system
+node: GAP computer algebra system
+212
+line: GDScript
+node: GDScript
+213
+line: GEORGE (programming language)
+node: GEORGE (programming language)
+214
+line: GLSL
+node: GLSL
+215
+line: GNU E
+node: GNU E
+216
+line: GNU Octave
+node: GNU Octave
+217
+line: GPSS
+node: GPSS
+218
+line: GRASS (programming language)
+node: GRASS (programming language)
+219
+line: GameMonkey Script
+node: GameMonkey Script
+220
+line: Game Maker Language
+node: Game Maker Language
+221
+line: Game Oriented Assembly Lisp
+node: Game Oriented Assembly Lisp
+222
+line: General Algebraic Modeling System
+node: General Algebraic Modeling System
+223
+line: Generational list of programming languages
+line: Genie (programming language)
+node: Genie (programming language)
+224
+line: Geometric Description Language
+node: Geometric Description Language
+225
+line: Go! (programming language)
+node: Go! (programming language)
+226
+line: Go (programming language)
+node: Go (programming language)
+227
+line: Golo (programming language)
+node: Golo (programming language)
+228
+line: Google Apps Script
+node: Google Apps Script
+229
+line: Gosu (programming language)
+node: Gosu (programming language)
+230
+line: Grasshopper 3D
+node: Grasshopper 3D
+231
+line: Groovy (programming language)
+node: Groovy (programming language)
+232
+line: GÃ¶del (programming language)
+node: GÃ¶del (programming language)
+233
+line: HAGGIS
+node: HAGGIS
+234
+line: HAL/S
+node: HAL/S
+235
+line: Hack (programming language)
+node: Hack (programming language)
+236
+line: Halide (programming language)
+node: Halide (programming language)
+237
+line: Hamilton C shell
+node: Hamilton C shell
+238
+line: Harbour (software)
+node: Harbour (software)
+239
+line: Hartmann pipeline
+node: Hartmann pipeline
+240
+line: Haskell (programming language)
+node: Haskell (programming language)
+241
+line: Haxe
+node: Haxe
+242
+line: Hermes (programming language)
+node: Hermes (programming language)
+243
+line: High Level Assembly
+node: High Level Assembly
+244
+line: High Level Shader Language
+node: High Level Shader Language
+245
+line: History of programming languages
+node: History of programming languages
+246
+line: Hollywood (programming language)
+node: Hollywood (programming language)
+247
+line: Hop (software)
+node: Hop (software)
+248
+line: Hope (programming language)
+node: Hope (programming language)
+249
+line: Hopscotch (programming language)
+node: Hopscotch (programming language)
+250
+line: Hugo (programming language)
+node: Hugo (programming language)
+251
+line: Hume (language)
+node: Hume (language)
+252
+line: HyperTalk
+node: HyperTalk
+253
+line: IBM 1401 Symbolic Programming System
+node: IBM 1401 Symbolic Programming System
+254
+line: IBM 1620
+node: IBM 1620
+255
+line: IBM Basic assembly language
+node: IBM Basic assembly language
+256
+line: IBM HAScript
+node: IBM HAScript
+257
+line: IBM Informix-4GL
+node: IBM Informix-4GL
+258
+line: IBM RPG
+node: IBM RPG
+259
+line: IDL (programming language)
+node: IDL (programming language)
+260
+line: Icon (programming language)
+node: Icon (programming language)
+261
+line: Idris (programming language)
+node: Idris (programming language)
+262
+line: Inform (programming language)
+node: Inform (programming language)
+263
+line: IntelliCorp (Software)
+node: IntelliCorp (Software)
+264
+line: Io (programming language)
+node: Io (programming language)
+265
+line: JADE (programming language)
+node: JADE (programming language)
+266
+line: JAL (compiler)
+node: JAL (compiler)
+267
+line: JASS
+node: JASS
+268
+line: JEAN
+node: JEAN
+269
+line: JOSS
+node: JOSS
+270
+line: JOVIAL
+node: JOVIAL
+271
+line: JScript
+node: JScript
+272
+line: JScript .NET
+node: JScript .NET
+273
+line: J (programming language)
+node: J (programming language)
+274
+line: J Sharp
+node: J Sharp
+275
+line: Janus (concurrent constraint programming language)
+node: Janus (concurrent constraint programming language)
+276
+line: Janus (time-reversible computing programming language)
+node: Janus (time-reversible computing programming language)
+277
+line: JavaFX Script
+node: JavaFX Script
+278
+line: JavaScript
+node: JavaScript
+279
+line: Java (programming language)
+node: Java (programming language)
+280
+line: Job Control Language
+node: Job Control Language
+281
+line: Join Java
+node: Join Java
+282
+line: Joule (programming language)
+node: Joule (programming language)
+283
+line: Joy (programming language)
+node: Joy (programming language)
+284
+line: Julia (programming language)
+node: Julia (programming language)
+285
+line: Jython
+node: Jython
+286
+line: KRL (programming language)
+node: KRL (programming language)
+287
+line: KRYPTON
+node: KRYPTON
+288
+line: KUKA Robot Language
+node: KUKA Robot Language
+289
+line: K (programming language)
+node: K (programming language)
+290
+line: Kaleidoscope (programming language)
+node: Kaleidoscope (programming language)
+291
+line: Karel (programming language)
+node: Karel (programming language)
+292
+line: Kent Recursive Calculator
+node: Kent Recursive Calculator
+293
+line: KiXtart
+node: KiXtart
+294
+line: Kivy (framework)
+node: Kivy (framework)
+295
+line: Klerer-May System
+node: Klerer-May System
+296
+line: Knowledge Interchange Format
+node: Knowledge Interchange Format
+297
+line: Kodu Game Lab
+node: Kodu Game Lab
+298
+line: Kojo (programming language)
+node: Kojo (programming language)
+299
+line: Korn shell
+node: Korn shell
+300
+line: Kotlin (programming language)
+node: Kotlin (programming language)
+301
+line: LANSA (development environment)
+node: LANSA (development environment)
+302
+line: LINC 4GL
+node: LINC 4GL
+303
+line: LINQ
+node: LINQ
+304
+line: LIS (programming language)
+node: LIS (programming language)
+305
+line: LPC (programming language)
+node: LPC (programming language)
+306
+line: LSE (programming language)
+node: LSE (programming language)
+307
+line: LYaPAS
+node: LYaPAS
+308
+line: LabVIEW
+node: LabVIEW
+309
+line: Ladder logic
+node: Ladder logic
+310
+line: Language for Instruction Set Architecture
+node: Language for Instruction Set Architecture
+311
+line: Lasso (programming language)
+node: Lasso (programming language)
+312
+line: Lava (programming language)
+node: Lava (programming language)
+313
+line: Legoscript
+node: Legoscript
+314
+line: LilyPond
+node: LilyPond
+315
+line: Limbo (programming language)
+node: Limbo (programming language)
+316
+line: Limnor
+node: Limnor
+317
+line: Linden Scripting Language
+node: Linden Scripting Language
+318
+line: Lingo (programming language)
+node: Lingo (programming language)
+319
+line: Lisp (programming language)
+node: Lisp (programming language)
+320
+line: List of BASIC dialects
+node: List of BASIC dialects
+321
+line: List of BASIC dialects by platform
+node: List of BASIC dialects by platform
+322
+line: List of markup languages
+node: List of markup languages
+323
+line: List of programming languages by type
+node: List of programming languages by type
+324
+line: List of stylesheet languages
+node: List of stylesheet languages
+325
+line: Lists of programming languages
+node: Lists of programming languages
+326
+line: Lite-C
+node: Lite-C
+327
+line: Lithe (programming language)
+node: Lithe (programming language)
+328
+line: Little Computer 3
+node: Little Computer 3
+329
+line: Little Implementation Language
+node: Little Implementation Language
+330
+line: Little b (programming language)
+node: Little b (programming language)
+331
+line: LiveCode
+node: LiveCode
+332
+line: LiveScript
+node: LiveScript
+333
+line: Logo (programming language)
+node: Logo (programming language)
+334
+line: Logtalk
+node: Logtalk
+335
+line: LotusScript
+node: LotusScript
+336
+line: Lua (programming language)
+node: Lua (programming language)
+337
+line: Lucid (programming language)
+node: Lucid (programming language)
+338
+line: Lustre (programming language)
+node: Lustre (programming language)
+339
+line: Lynx (programming language)
+node: Lynx (programming language)
+340
+line: M2001
+node: M2001
+341
+line: M4 (computer language)
+node: M4 (computer language)
+342
+line: MAD (programming language)
+node: MAD (programming language)
+343
+line: MAPPER
+node: MAPPER
+344
+line: MARK IV (software)
+node: MARK IV (software)
+345
+line: MATH-MATIC
+node: MATH-MATIC
+346
+line: MATLAB
+node: MATLAB
+347
+line: MDL (programming language)
+node: MDL (programming language)
+348
+line: MHEG-5
+node: MHEG-5
+349
+line: MIIS (programming language)
+node: MIIS (programming language)
+350
+line: MIMIC
+node: MIMIC
+351
+line: MIRC scripting language
+node: MIRC scripting language
+352
+line: MIVA Script
+node: MIVA Script
+353
+line: ML (programming language)
+node: ML (programming language)
+354
+line: MOO (programming language)
+node: MOO (programming language)
+355
+line: MPD (programming language)
+node: MPD (programming language)
+356
+line: MUMPS
+node: MUMPS
+357
+line: M Sharp (programming language)
+node: M Sharp (programming language)
+358
+line: Machine code
+node: Machine code
+359
+line: Macsyma
+node: Macsyma
+360
+line: Magik (programming language)
+node: Magik (programming language)
+361
+line: Magma computer algebra system
+node: Magma computer algebra system
+362
+line: Maple (software)
+node: Maple (software)
+363
+line: Markup language
+node: Markup language
+364
+line: Mary (programming language)
+node: Mary (programming language)
+365
+line: Mathcad
+node: Mathcad
+366
+line: Mathematica
+node: Mathematica
+367
+line: Maude system
+node: Maude system
+368
+line: Max (software)
+node: Max (software)
+369
+line: Maxima (software)
+node: Maxima (software)
+370
+line: Maya Embedded Language
+node: Maya Embedded Language
+371
+line: Mercury (programming language)
+node: Mercury (programming language)
+372
+line: Mesa (programming language)
+node: Mesa (programming language)
+373
+line: Metafont
+node: Metafont
+374
+line: MicroScript (programming language)
+node: MicroScript (programming language)
+375
+line: Microassembler
+node: Microassembler
+376
+line: Microsoft Macro Assembler
+node: Microsoft Macro Assembler
+377
+line: Milk (programming language)
+node: Milk (programming language)
+378
+line: Mirah (programming language)
+node: Mirah (programming language)
+379
+line: Miranda (programming language)
+node: Miranda (programming language)
+380
+line: Model 204
+node: Model 204
+381
+line: Modelica
+node: Modelica
+382
+line: Modula
+node: Modula
+383
+line: Modula-2
+node: Modula-2
+384
+line: Modula-3
+node: Modula-3
+385
+line: Mohol programming languages
+node: Mohol programming languages
+386
+line: Mortran
+node: Mortran
+387
+line: Mouse (programming language)
+node: Mouse (programming language)
+388
+line: MuPAD
+node: MuPAD
+389
+line: Mystic BBS
+node: Mystic BBS
+390
+line: MÃ¡ni
+node: MÃ¡ni
+391
+line: NESL
+node: NESL
+392
+line: NEWP
+node: NEWP
+393
+line: NORD Programming Language
+node: NORD Programming Language
+394
+line: NWScript
+node: NWScript
+395
+line: NXT-G
+node: NXT-G
+396
+line: Napier88
+node: Napier88
+397
+line: Neko (programming language)
+node: Neko (programming language)
+398
+line: Nemerle
+node: Nemerle
+399
+line: Net.Data
+node: Net.Data
+400
+line: NetLogo
+node: NetLogo
+401
+line: NetRexx
+node: NetRexx
+402
+line: Netwide Assembler
+node: Netwide Assembler
+403
+line: NewLISP
+node: NewLISP
+404
+line: Newspeak (programming language)
+node: Newspeak (programming language)
+405
+line: NewtonScript
+node: NewtonScript
+406
+line: Next Generation Shell
+node: Next Generation Shell
+407
+line: Nial
+node: Nial
+408
+line: Nice (programming language)
+node: Nice (programming language)
+409
+line: Nickle (programming language)
+node: Nickle (programming language)
+410
+line: Nim (programming language)
+node: Nim (programming language)
+411
+line: Non-English-based programming languages
+node: Non-English-based programming languages
+412
+line: Not Quite C
+node: Not Quite C
+413
+line: Not eXactly C
+node: Not eXactly C
+414
+line: Nu (programming language)
+node: Nu (programming language)
+415
+line: Nullsoft Scriptable Install System
+node: Nullsoft Scriptable Install System
+416
+line: O:XML
+node: O:XML
+417
+line: OBJ2
+node: OBJ2
+418
+line: OCaml
+node: OCaml
+419
+line: OPS5
+node: OPS5
+420
+line: ORCA/Modula-2
+node: ORCA/Modula-2
+421
+line: Oak (programming language)
+node: Oak (programming language)
+422
+line: Oberon (programming language)
+node: Oberon (programming language)
+423
+line: ObjectLOGO
+node: ObjectLOGO
+424
+line: Object Lisp
+node: Object Lisp
+425
+line: Object Pascal
+node: Object Pascal
+426
+line: Object REXX
+node: Object REXX
+427
+line: Objective-C
+node: Objective-C
+428
+line: Objective-J
+node: Objective-J
+429
+line: Obliq
+node: Obliq
+430
+line: Occam-Ï€
+node: Occam-Ï€
+431
+line: Occam (programming language)
+node: Occam (programming language)
+432
+line: OmniMark
+node: OmniMark
+433
+line: Onyx (programming language)
+node: Onyx (programming language)
+434
+line: Opa (programming language)
+node: Opa (programming language)
+435
+line: Opal (programming language)
+node: Opal (programming language)
+436
+line: OpenCL
+node: OpenCL
+437
+line: OpenEdge Advanced Business Language
+node: OpenEdge Advanced Business Language
+438
+line: OpenVera
+node: OpenVera
+439
+line: Open Programming Language
+node: Open Programming Language
+440
+line: OptimJ
+node: OptimJ
+441
+line: Orc (programming language)
+node: Orc (programming language)
+442
+line: Oriel (scripting language)
+node: Oriel (scripting language)
+443
+line: Orwell (programming language)
+node: Orwell (programming language)
+444
+line: Oxygene (programming language)
+node: Oxygene (programming language)
+445
+line: Oz (programming language)
+node: Oz (programming language)
+446
+line: P4 (programming language)
+node: P4 (programming language)
+447
+line: PARI/GP
+node: PARI/GP
+448
+line: PCASTL
+node: PCASTL
+449
+line: PEARL (programming language)
+node: PEARL (programming language)
+450
+line: PHP
+node: PHP
+451
+line: PILOT
+node: PILOT
+452
+line: PL-11
+node: PL-11
+453
+line: PL/0
+node: PL/0
+454
+line: PL/C
+node: PL/C
+455
+line: PL/I
+node: PL/I
+456
+line: PL/M
+node: PL/M
+457
+line: PL/P
+node: PL/P
+458
+line: PL/SQL
+node: PL/SQL
+459
+line: PL360
+node: PL360
+460
+line: PLANC
+node: PLANC
+461
+line: PLEXIL
+node: PLEXIL
+462
+line: PLEX (programming language)
+node: PLEX (programming language)
+463
+line: POP-11
+node: POP-11
+464
+line: POP-2
+node: POP-2
+465
+line: POV-Ray
+node: POV-Ray
+466
+line: PROIV
+node: PROIV
+467
+line: PROMAL
+node: PROMAL
+468
+line: PROSE modeling language
+node: PROSE modeling language
+469
+line: P (programming language)
+node: P (programming language)
+470
+line: ParaSail (programming language)
+node: ParaSail (programming language)
+471
+line: Parallax Propeller
+node: Parallax Propeller
+472
+line: Pascal (programming language)
+node: Pascal (programming language)
+473
+line: Pascal Script
+node: Pascal Script
+474
+line: PeopleCode
+node: PeopleCode
+475
+line: Perl
+node: Perl
+476
+line: Perl Data Language
+node: Perl Data Language
+477
+line: Pharo
+node: Pharo
+478
+line: Pico (programming language)
+node: Pico (programming language)
+479
+line: Picolisp
+node: Picolisp
+480
+line: Pict (programming language)
+node: Pict (programming language)
+481
+line: Pig (programming tool)
+node: Pig (programming tool)
+482
+line: Pike (programming language)
+node: Pike (programming language)
+483
+line: Pinecone (programming language)
+node: Pinecone (programming language)
+484
+line: Pizza (programming language)
+node: Pizza (programming language)
+485
+line: PlankalkÃ¼l
+node: PlankalkÃ¼l
+486
+line: Planner (programming language)
+node: Planner (programming language)
+487
+line: Plus (programming language)
+node: Plus (programming language)
+488
+line: Polymorphic Programming Language
+node: Polymorphic Programming Language
+489
+line: Pony (programming language)
+node: Pony (programming language)
+490
+line: PostScript
+node: PostScript
+491
+line: PowerBuilder
+node: PowerBuilder
+492
+line: PowerShell
+node: PowerShell
+493
+line: Powerhouse (programming language)
+node: Powerhouse (programming language)
+494
+line: Pro*C
+node: Pro*C
+495
+line: Processing.js
+node: Processing.js
+496
+line: Processing (programming language)
+node: Processing (programming language)
+497
+line: Programming Language for Business
+node: Programming Language for Business
+498
+line: Programming language
+line: Programming language for Computable Functions
+node: Programming language for Computable Functions
+499
+line: Prograph
+node: Prograph
+500
+line: Prolog
+node: Prolog
+501
+line: Promela
+node: Promela
+502
+line: Protel
+node: Protel
+503
+line: ProvideX
+node: ProvideX
+504
+line: PureScript
+node: PureScript
+505
+line: Pure (programming language)
+node: Pure (programming language)
+506
+line: Pure Data
+node: Pure Data
+507
+line: Python (programming language)
+node: Python (programming language)
+508
+line: Pâ€²â€²
+node: Pâ€²â€²
+509
+line: Q (programming language from Kx Systems)
+node: Q (programming language from Kx Systems)
+510
+line: Q Sharp
+node: Q Sharp
+511
+line: Qalb (programming language)
+node: Qalb (programming language)
+512
+line: Qbasic
+node: Qbasic
+513
+line: QtScript
+node: QtScript
+514
+line: QuakeC
+node: QuakeC
+515
+line: Quantum programming
+node: Quantum programming
+516
+line: R++
+node: R++
+517
+line: RAPID
+node: RAPID
+518
+line: REBOL
+node: REBOL
+519
+line: REFAL
+node: REFAL
+520
+line: REXX
+node: REXX
+521
+line: ROOP (programming language)
+node: ROOP (programming language)
+522
+line: RPL (programming language)
+node: RPL (programming language)
+523
+line: RTL/2
+node: RTL/2
+524
+line: R (programming language)
+node: R (programming language)
+525
+line: Racket (programming language)
+node: Racket (programming language)
+526
+line: Raku (programming language)
+node: Raku (programming language)
+527
+line: Rapira
+node: Rapira
+528
+line: Ratfiv
+node: Ratfiv
+529
+line: Ratfor
+node: Ratfor
+530
+line: Rc
+node: Rc
+531
+line: Reason (programming language)
+node: Reason (programming language)
+532
+line: Red (programming language)
+node: Red (programming language)
+533
+line: Rlab
+node: Rlab
+534
+line: Robot Battle
+node: Robot Battle
+535
+line: Ruby (programming language)
+node: Ruby (programming language)
+536
+line: Rust (programming language)
+node: Rust (programming language)
+537
+line: S-Lang (programming language)
+node: S-Lang (programming language)
+538
+line: S-PLUS
+node: S-PLUS
+539
+line: S/SL programming language
+node: S/SL programming language
+540
+line: S2 (programming language)
+node: S2 (programming language)
+541
+line: S3 (programming language)
+node: S3 (programming language)
+542
+line: SA-C (programming language)
+node: SA-C (programming language)
+543
+line: SAIL (programming language)
+node: SAIL (programming language)
+544
+line: SAM76
+node: SAM76
+545
+line: SASL (programming language)
+node: SASL (programming language)
+546
+line: SAS System
+node: SAS System
+547
+line: SETL
+node: SETL
+548
+line: SIGNAL (programming language)
+node: SIGNAL (programming language)
+549
+line: SIMSCRIPT
+node: SIMSCRIPT
+550
+line: SISAL
+node: SISAL
+551
+line: SLIP (programming language)
+node: SLIP (programming language)
+552
+line: SMALL
+node: SMALL
+553
+line: SNOBOL
+node: SNOBOL
+554
+line: SOPHAEROS
+node: SOPHAEROS
+555
+line: SP/k
+node: SP/k
+556
+line: SPARK (programming language)
+node: SPARK (programming language)
+557
+line: SPITBOL compiler
+node: SPITBOL compiler
+558
+line: SQL
+node: SQL
+559
+line: SQR
+node: SQR
+560
+line: SR (programming language)
+node: SR (programming language)
+561
+line: SYMPL
+node: SYMPL
+562
+line: S (programming language)
+node: S (programming language)
+563
+line: SabreTalk
+node: SabreTalk
+564
+line: Sather
+node: Sather
+565
+line: Sawzall (programming language)
+node: Sawzall (programming language)
+566
+line: Scala (programming language)
+node: Scala (programming language)
+567
+line: Scheme (programming language)
+node: Scheme (programming language)
+568
+line: Scilab
+node: Scilab
+569
+line: Scratch (programming language)
+node: Scratch (programming language)
+570
+line: Script.NET
+node: Script.NET
+571
+line: Secure Operations Language
+node: Secure Operations Language
+572
+line: Sed
+node: Sed
+573
+line: Seed7
+node: Seed7
+574
+line: Self (programming language)
+node: Self (programming language)
+575
+line: SenseTalk
+node: SenseTalk
+576
+line: SequenceL
+node: SequenceL
+577
+line: Shell script
+node: Shell script
+578
+line: SiMPLE
+node: SiMPLE
+579
+line: Simula
+node: Simula
+580
+line: Simulink
+node: Simulink
+581
+line: Singularity (operating system)
+node: Singularity (operating system)
+582
+line: Smalltalk
+node: Smalltalk
+583
+line: Snap! (programming language)
+node: Snap! (programming language)
+584
+line: Snowball programming language
+node: Snowball programming language
+585
+line: Solidity
+node: Solidity
+586
+line: Speakeasy (computational environment)
+node: Speakeasy (computational environment)
+587
+line: Speedcoding
+node: Speedcoding
+588
+line: Squeak
+node: Squeak
+589
+line: Squirrel (programming language)
+node: Squirrel (programming language)
+590
+line: Standard ML
+node: Standard ML
+591
+line: Starlogo
+node: Starlogo
+592
+line: Stata
+node: Stata
+593
+line: Stateflow
+node: Stateflow
+594
+line: Strand (programming language)
+node: Strand (programming language)
+595
+line: Strongtalk
+node: Strongtalk
+596
+line: Subtext (programming language)
+node: Subtext (programming language)
+597
+line: SuperCollider
+node: SuperCollider
+598
+line: SuperTalk
+node: SuperTalk
+599
+line: Superbase database
+node: Superbase database
+600
+line: Swift (parallel scripting language)
+node: Swift (parallel scripting language)
+601
+line: Swift (programming language)
+node: Swift (programming language)
+602
+line: SystemVerilog
+node: SystemVerilog
+603
+line: TACL
+node: TACL
+604
+line: TACPOL (programming language)
+node: TACPOL (programming language)
+605
+line: TADS
+node: TADS
+606
+line: TELCOMP
+node: TELCOMP
+607
+line: TMG (language)
+node: TMG (language)
+608
+line: TOM (object-oriented programming language)
+node: TOM (object-oriented programming language)
+609
+line: TRAC (programming language)
+node: TRAC (programming language)
+610
+line: TTCN
+node: TTCN
+611
+line: TTM (programming language)
+node: TTM (programming language)
+612
+line: TUTOR (programming language)
+node: TUTOR (programming language)
+613
+line: TXL (programming language)
+node: TXL (programming language)
+614
+line: T (programming language)
+node: T (programming language)
+615
+line: Tcl
+node: Tcl
+616
+line: TeX
+node: TeX
+617
+line: Tea (programming language)
+node: Tea (programming language)
+618
+line: TempleOS
+node: TempleOS
+619
+line: Tensilica Instruction Extension
+node: Tensilica Instruction Extension
+620
+line: Text Editor and Corrector
+node: Text Editor and Corrector
+621
+line: Text Executive Programming Language
+node: Text Executive Programming Language
+622
+line: Text Processing Utility
+node: Text Processing Utility
+623
+line: Timeline of programming languages
+node: Timeline of programming languages
+624
+line: Toi (programming language)
+node: Toi (programming language)
+625
+line: Tom (pattern matching language)
+node: Tom (pattern matching language)
+626
+line: Transact-SQL
+node: Transact-SQL
+627
+line: Transaction Application Language
+node: Transaction Application Language
+628
+line: Transcript (programming language)
+node: Transcript (programming language)
+629
+line: Turing (programming language)
+node: Turing (programming language)
+630
+line: Tynker
+node: Tynker
+631
+line: TypeScript
+node: TypeScript
+632
+line: UCSD Pascal
+node: UCSD Pascal
+633
+line: UNITY (programming language)
+node: UNITY (programming language)
+634
+line: Ubercode
+node: Ubercode
+635
+line: Umple
+node: Umple
+636
+line: Unicon (programming language)
+node: Unicon (programming language)
+637
+line: Uniface (programming language)
+node: Uniface (programming language)
+638
+line: Unix shell
+node: Unix shell
+639
+line: UnrealScript
+node: UnrealScript
+640
+line: VHDL
+node: VHDL
+641
+line: VSXu
+node: VSXu
+642
+line: Vala (programming language)
+node: Vala (programming language)
+643
+line: Verilog
+node: Verilog
+644
+line: Vim (text editor)
+node: Vim (text editor)
+645
+line: Visual Basic
+node: Visual Basic
+646
+line: Visual Basic .NET
+node: Visual Basic .NET
+647
+line: Visual DataFlex
+node: Visual DataFlex
+648
+line: Visual DialogScript
+node: Visual DialogScript
+649
+line: Visual Fortran
+node: Visual Fortran
+650
+line: Visual FoxPro
+node: Visual FoxPro
+651
+line: Visual J++
+node: Visual J++
+652
+line: Visual Objects
+node: Visual Objects
+653
+line: Visual Prolog
+node: Visual Prolog
+654
+line: WATFIV (programming language)
+node: WATFIV (programming language)
+655
+line: WebAssembly
+node: WebAssembly
+656
+line: WebDNA
+node: WebDNA
+657
+line: Whiley (programming language)
+node: Whiley (programming language)
+658
+line: Winbatch
+node: Winbatch
+659
+line: Wolfram Language
+node: Wolfram Language
+660
+line: Wyvern (programming language)
+node: Wyvern (programming language)
+661
+line: X++
+node: X++
+662
+line: X10 (programming language)
+node: X10 (programming language)
+663
+line: XBL
+node: XBL
+664
+line: XBase
+node: XBase
+665
+line: XBase++
+node: XBase++
+666
+line: XC Programming Language
+node: XC Programming Language
+667
+line: XCore XS1
+node: XCore XS1
+668
+line: XHarbour
+node: XHarbour
+669
+line: XL (programming language)
+node: XL (programming language)
+670
+line: XOD (programming language)
+node: XOD (programming language)
+671
+line: XOTcl
+node: XOTcl
+672
+line: XPL
+node: XPL
+673
+line: XPL0
+node: XPL0
+674
+line: XPath
+node: XPath
+675
+line: XQuery
+node: XQuery
+676
+line: XSB
+node: XSB
+677
+line: XSL Transformations
+node: XSL Transformations
+678
+line: XSharp
+node: XSharp
+679
+line: Xojo
+node: Xojo
+680
+line: Xtend
+node: Xtend
+681
+line: YQL (programming language)
+node: YQL (programming language)
+682
+line: YUI Library
+node: YUI Library
+683
+line: Yoix
+node: Yoix
+684
+line: Yorick (programming language)
+node: Yorick (programming language)
+685
+line: Z++
+node: Z++
+686
+line: ZOPL
+node: ZOPL
+687
+line: ZPL (programming language)
+node: ZPL (programming language)
+688
+line: Z notation
+node: Z notation
+689
+line: Z shell
+node: Z shell
+690
+line: Zebra (programming language)
+node: Zebra (programming language)
+691
+line: Zeno (programming language)
+node: Zeno (programming language)
+692
+line: ZetaLisp
+node: ZetaLisp
+693
+line: ZettaCode
+node: ZettaCode
+694
+end of method
+made markov!!
+0.219469
+finished row 0
+finished row 1
+finished row 2
+finished row 3
+finished row 4
+finished row 5
+finished row 6
+finished row 7
+finished row 8
+finished row 9
+finished row 10
+finished row 11
+finished row 12
+finished row 13
+finished row 14
+finished row 15
+finished row 16
+finished row 17
+finished row 18
+finished row 19
+finished row 20
+finished row 21
+finished row 22
+finished row 23
+finished row 24
+finished row 25
+finished row 26
+finished row 27
+finished row 28
+finished row 29
+finished row 30
+finished row 31
+finished row 32
+finished row 33
+finished row 34
+finished row 35
+finished row 36
+finished row 37
+finished row 38
+finished row 39
+finished row 40
+finished row 41
+finished row 42
+finished row 43
+finished row 44
+finished row 45
+finished row 46
+finished row 47
+finished row 48
+finished row 49
+finished row 50
+finished row 51
+finished row 52
+finished row 53
+finished row 54
+finished row 55
+finished row 56
+finished row 57
+finished row 58
+finished row 59
+finished row 60
+finished row 61
+finished row 62
+finished row 63
+finished row 64
+finished row 65
+finished row 66
+finished row 67
+finished row 68
+finished row 69
+finished row 70
+finished row 71
+finished row 72
+finished row 73
+finished row 74
+finished row 75
+finished row 76
+finished row 77
+finished row 78
+finished row 79
+finished row 80
+finished row 81
+finished row 82
+finished row 83
+finished row 84
+finished row 85
+finished row 86
+finished row 87
+finished row 88
+finished row 89
+finished row 90
+finished row 91
+finished row 92
+finished row 93
+finished row 94
+finished row 95
+finished row 96
+finished row 97
+finished row 98
+finished row 99
+finished row 100
+finished row 101
+finished row 102
+finished row 103
+finished row 104
+finished row 105
+finished row 106
+finished row 107
+finished row 108
+finished row 109
+finished row 110
+finished row 111
+finished row 112
+finished row 113
+finished row 114
+finished row 115
+finished row 116
+finished row 117
+finished row 118
+finished row 119
+finished row 120
+finished row 121
+finished row 122
+finished row 123
+finished row 124
+finished row 125
+finished row 126
+finished row 127
+finished row 128
+finished row 129
+finished row 130
+finished row 131
+finished row 132
+finished row 133
+finished row 134
+finished row 135
+finished row 136
+finished row 137
+finished row 138
+finished row 139
+finished row 140
+finished row 141
+finished row 142
+finished row 143
+finished row 144
+finished row 145
+finished row 146
+finished row 147
+finished row 148
+finished row 149
+finished row 150
+finished row 151
+finished row 152
+finished row 153
+finished row 154
+finished row 155
+finished row 156
+finished row 157
+finished row 158
+finished row 159
+finished row 160
+finished row 161
+finished row 162
+finished row 163
+finished row 164
+finished row 165
+finished row 166
+finished row 167
+finished row 168
+finished row 169
+finished row 170
+finished row 171
+finished row 172
+finished row 173
+finished row 174
+finished row 175
+finished row 176
+finished row 177
+finished row 178
+finished row 179
+finished row 180
+finished row 181
+finished row 182
+finished row 183
+finished row 184
+finished row 185
+finished row 186
+finished row 187
+finished row 188
+finished row 189
+finished row 190
+finished row 191
+finished row 192
+finished row 193
+finished row 194
+finished row 195
+finished row 196
+finished row 197
+finished row 198
+finished row 199
+finished row 200
+finished row 201
+finished row 202
+finished row 203
+finished row 204
+finished row 205
+finished row 206
+finished row 207
+finished row 208
+finished row 209
+finished row 210
+finished row 211
+finished row 212
+finished row 213
+finished row 214
+finished row 215
+finished row 216
+finished row 217
+finished row 218
+finished row 219
+finished row 220
+finished row 221
+finished row 222
+finished row 223
+finished row 224
+finished row 225
+finished row 226
+finished row 227
+finished row 228
+finished row 229
+finished row 230
+finished row 231
+finished row 232
+finished row 233
+finished row 234
+finished row 235
+finished row 236
+finished row 237
+finished row 238
+finished row 239
+finished row 240
+finished row 241
+finished row 242
+finished row 243
+finished row 244
+finished row 245
+finished row 246
+finished row 247
+finished row 248
+finished row 249
+finished row 250
+finished row 251
+finished row 252
+finished row 253
+finished row 254
+finished row 255
+finished row 256
+finished row 257
+finished row 258
+finished row 259
+finished row 260
+finished row 261
+finished row 262
+finished row 263
+finished row 264
+finished row 265
+finished row 266
+finished row 267
+finished row 268
+finished row 269
+finished row 270
+finished row 271
+finished row 272
+finished row 273
+finished row 274
+finished row 275
+finished row 276
+finished row 277
+finished row 278
+finished row 279
+finished row 280
+finished row 281
+finished row 282
+finished row 283
+finished row 284
+finished row 285
+finished row 286
+finished row 287
+finished row 288
+finished row 289
+finished row 290
+finished row 291
+finished row 292
+finished row 293
+finished row 294
+finished row 295
+finished row 296
+finished row 297
+finished row 298
+finished row 299
+finished row 300
+finished row 301
+finished row 302
+finished row 303
+finished row 304
+finished row 305
+finished row 306
+finished row 307
+finished row 308
+finished row 309
+finished row 310
+finished row 311
+finished row 312
+finished row 313
+finished row 314
+finished row 315
+finished row 316
+finished row 317
+finished row 318
+finished row 319
+finished row 320
+finished row 321
+finished row 322
+finished row 323
+finished row 324
+finished row 325
+finished row 326
+finished row 327
+finished row 328
+finished row 329
+finished row 330
+finished row 331
+finished row 332
+finished row 333
+finished row 334
+finished row 335
+finished row 336
+finished row 337
+finished row 338
+finished row 339
+finished row 340
+finished row 341
+finished row 342
+finished row 343
+finished row 344
+finished row 345
+finished row 346
+finished row 347
+finished row 348
+finished row 349
+finished row 350
+finished row 351
+finished row 352
+finished row 353
+finished row 354
+finished row 355
+finished row 356
+finished row 357
+finished row 358
+finished row 359
+finished row 360
+finished row 361
+finished row 362
+finished row 363
+finished row 364
+finished row 365
+finished row 366
+finished row 367
+finished row 368
+finished row 369
+finished row 370
+finished row 371
+finished row 372
+finished row 373
+finished row 374
+finished row 375
+finished row 376
+finished row 377
+finished row 378
+finished row 379
+finished row 380
+finished row 381
+finished row 382
+finished row 383
+finished row 384
+finished row 385
+finished row 386
+finished row 387
+finished row 388
+finished row 389
+finished row 390
+finished row 391
+finished row 392
+finished row 393
+finished row 394
+finished row 395
+finished row 396
+finished row 397
+finished row 398
+finished row 399
+finished row 400
+finished row 401
+finished row 402
+finished row 403
+finished row 404
+finished row 405
+finished row 406
+finished row 407
+finished row 408
+finished row 409
+finished row 410
+finished row 411
+finished row 412
+finished row 413
+finished row 414
+finished row 415
+finished row 416
+finished row 417
+finished row 418
+finished row 419
+finished row 420
+finished row 421
+finished row 422
+finished row 423
+finished row 424
+finished row 425
+finished row 426
+finished row 427
+finished row 428
+finished row 429
+finished row 430
+finished row 431
+finished row 432
+finished row 433
+finished row 434
+finished row 435
+finished row 436
+finished row 437
+finished row 438
+finished row 439
+finished row 440
+finished row 441
+finished row 442
+finished row 443
+finished row 444
+finished row 445
+finished row 446
+finished row 447
+finished row 448
+finished row 449
+finished row 450
+finished row 451
+finished row 452
+finished row 453
+finished row 454
+finished row 455
+finished row 456
+finished row 457
+finished row 458
+finished row 459
+finished row 460
+finished row 461
+finished row 462
+finished row 463
+finished row 464
+finished row 465
+finished row 466
+finished row 467
+finished row 468
+finished row 469
+finished row 470
+finished row 471
+finished row 472
+finished row 473
+finished row 474
+finished row 475
+finished row 476
+finished row 477
+finished row 478
+finished row 479
+finished row 480
+finished row 481
+finished row 482
+finished row 483
+finished row 484
+finished row 485
+finished row 486
+finished row 487
+finished row 488
+finished row 489
+finished row 490
+finished row 491
+finished row 492
+finished row 493
+finished row 494
+finished row 495
+finished row 496
+finished row 497
+finished row 498
+finished row 499
+finished row 500
+finished row 501
+finished row 502
+finished row 503
+finished row 504
+finished row 505
+finished row 506
+finished row 507
+finished row 508
+finished row 509
+finished row 510
+finished row 511
+finished row 512
+finished row 513
+finished row 514
+finished row 515
+finished row 516
+finished row 517
+finished row 518
+finished row 519
+finished row 520
+finished row 521
+finished row 522
+finished row 523
+finished row 524
+finished row 525
+finished row 526
+finished row 527
+finished row 528
+finished row 529
+finished row 530
+finished row 531
+finished row 532
+finished row 533
+finished row 534
+finished row 535
+finished row 536
+finished row 537
+finished row 538
+finished row 539
+finished row 540
+finished row 541
+finished row 542
+finished row 543
+finished row 544
+finished row 545
+finished row 546
+finished row 547
+finished row 548
+finished row 549
+finished row 550
+finished row 551
+finished row 552
+finished row 553
+finished row 554
+finished row 555
+finished row 556
+finished row 557
+finished row 558
+finished row 559
+finished row 560
+finished row 561
+finished row 562
+finished row 563
+finished row 564
+finished row 565
+finished row 566
+finished row 567
+finished row 568
+finished row 569
+finished row 570
+finished row 571
+finished row 572
+finished row 573
+finished row 574
+finished row 575
+finished row 576
+finished row 577
+finished row 578
+finished row 579
+finished row 580
+finished row 581
+finished row 582
+finished row 583
+finished row 584
+finished row 585
+finished row 586
+finished row 587
+finished row 588
+finished row 589
+finished row 590
+finished row 591
+finished row 592
+finished row 593
+finished row 594
+finished row 595
+finished row 596
+finished row 597
+finished row 598
+finished row 599
+finished row 600
+finished row 601
+finished row 602
+finished row 603
+finished row 604
+finished row 605
+finished row 606
+finished row 607
+finished row 608
+finished row 609
+finished row 610
+finished row 611
+finished row 612
+finished row 613
+finished row 614
+finished row 615
+finished row 616
+finished row 617
+finished row 618
+finished row 619
+finished row 620
+finished row 621
+finished row 622
+finished row 623
+finished row 624
+finished row 625
+finished row 626
+finished row 627
+finished row 628
+finished row 629
+finished row 630
+finished row 631
+finished row 632
+finished row 633
+finished row 634
+finished row 635
+finished row 636
+finished row 637
+finished row 638
+finished row 639
+finished row 640
+finished row 641
+finished row 642
+finished row 643
+finished row 644
+finished row 645
+finished row 646
+finished row 647
+finished row 648
+finished row 649
+finished row 650
+finished row 651
+finished row 652
+finished row 653
+finished row 654
+finished row 655
+finished row 656
+finished row 657
+finished row 658
+finished row 659
+finished row 660
+finished row 661
+finished row 662
+finished row 663
+finished row 664
+finished row 665
+finished row 666
+finished row 667
+finished row 668
+finished row 669
+finished row 670
+finished row 671
+finished row 672
+finished row 673
+finished row 674
+finished row 675
+finished row 676
+finished row 677
+finished row 678
+finished row 679
+finished row 680
+finished row 681
+finished row 682
+finished row 683
+finished row 684
+finished row 685
+finished row 686
+finished row 687
+finished row 688
+finished row 689
+finished row 690
+finished row 691
+finished row 692
+finished row 693
+1 - 0.110484
+Apache Groovy: 0.000275263
+Common Intermediate Language: 0.000275478
+Erlang (programming language): 0.000276197
+DBase: 0.000276865
+Simula: 0.000290681
+Flavors (programming language): 0.000295223
+CLU (programming language): 0.000295639
+WebAssembly: 0.000297698
+Bash (Unix shell): 0.000299147
+Object Pascal: 0.000302289
+Processing (programming language): 0.000302899
+Squeak: 0.000304115
+Mathcad: 0.000307739
+JScript: 0.000315295
+Pure Data: 0.000317936
+G-code: 0.000318733
+SISAL: 0.000321087
+FLOW-MATIC: 0.000324548
+Elixir (programming language): 0.000337548
+ALGOL 58: 0.000338625
+POP-2: 0.000340355
+PowerShell: 0.000344445
+History of programming languages: 0.000346775
+AWK: 0.000347824
+Simulink: 0.000350053
+Common Lisp: 0.000350943
+SNOBOL: 0.000362565
+Groovy (programming language): 0.000367442
+Esterel: 0.000370356
+Modula-3: 0.000372298
+F Sharp (programming language): 0.000375926
+Oberon (programming language): 0.000376301
+Forth (programming language): 0.000383647
+Eiffel (programming language): 0.000390859
+JASS: 0.000400976
+Nial: 0.000403608
+Non-English-based programming languages: 0.00040838
+Clojure: 0.000412006
+Kotlin (programming language): 0.000414637
+LabVIEW: 0.000415506
+Swift (programming language): 0.00041587
+PL360: 0.000427699
+List of programming languages by type: 0.000435421
+Logo (programming language): 0.000441586
+ECMAScript: 0.000467648
+Julia (programming language): 0.000486761
+Timeline of programming languages: 0.00049569
+Maple (software): 0.000495918
+MUMPS: 0.000504259
+Self (programming language): 0.000506205
+Tcl: 0.000514762
+TeX: 0.000516908
+BCPL: 0.000519691
+REXX: 0.000522312
+Verilog: 0.0005244
+Rust (programming language): 0.000527253
+TypeScript: 0.000528984
+Shell script: 0.0005328
+Visual Basic .NET: 0.000552796
+PostScript: 0.000558589
+ALGOL 68: 0.000605395
+Visual Basic: 0.00062424
+R (programming language): 0.000660054
+Go (programming language): 0.000664814
+Occam (programming language): 0.000695131
+Machine code: 0.000698083
+Lua (programming language): 0.000706181
+Modula-2: 0.000709463
+Scratch (programming language): 0.00071074
+Objective-C: 0.000737131
+APL (programming language): 0.000769863
+Scala (programming language): 0.000824191
+ML (programming language): 0.000834111
+ALGOL 60: 0.000849997
+HyperTalk: 0.000856252
+MATLAB: 0.000879538
+Prolog: 0.000910663
+Ruby (programming language): 0.000919863
+PHP: 0.000988073
+Ada (programming language): 0.00100269
+PL/I: 0.00108937
+Scheme (programming language): 0.00108954
+OCaml: 0.00113057
+COBOL: 0.00138624
+Perl: 0.00139344
+JavaScript: 0.00166682
+C Sharp (programming language): 0.00167768
+SQL: 0.00170772
+Smalltalk: 0.00199056
+BASIC: 0.00204006
+Haskell (programming language): 0.00204473
+Lisp (programming language): 0.0020924
+Pascal (programming language): 0.00230403
+Fortran: 0.00231029
+Python (programming language): 0.00231764
+Assembly language: 0.00266485
+C++: 0.00390455
+Java (programming language): 0.00487156
+C (programming language): 0.00730522
+finished row 0
+finished row 1
+finished row 2
+finished row 3
+finished row 4
+finished row 5
+finished row 6
+finished row 7
+finished row 8
+finished row 9
+finished row 10
+finished row 11
+finished row 12
+finished row 13
+finished row 14
+finished row 15
+finished row 16
+finished row 17
+finished row 18
+finished row 19
+finished row 20
+finished row 21
+finished row 22
+finished row 23
+finished row 24
+finished row 25
+finished row 26
+finished row 27
+finished row 28
+finished row 29
+finished row 30
+finished row 31
+finished row 32
+finished row 33
+finished row 34
+finished row 35
+finished row 36
+finished row 37
+finished row 38
+finished row 39
+finished row 40
+finished row 41
+finished row 42
+finished row 43
+finished row 44
+finished row 45
+finished row 46
+finished row 47
+finished row 48
+finished row 49
+finished row 50
+finished row 51
+finished row 52
+finished row 53
+finished row 54
+finished row 55
+finished row 56
+finished row 57
+finished row 58
+finished row 59
+finished row 60
+finished row 61
+finished row 62
+finished row 63
+finished row 64
+finished row 65
+finished row 66
+finished row 67
+finished row 68
+finished row 69
+finished row 70
+finished row 71
+finished row 72
+finished row 73
+finished row 74
+finished row 75
+finished row 76
+finished row 77
+finished row 78
+finished row 79
+finished row 80
+finished row 81
+finished row 82
+finished row 83
+finished row 84
+finished row 85
+finished row 86
+finished row 87
+finished row 88
+finished row 89
+finished row 90
+finished row 91
+finished row 92
+finished row 93
+finished row 94
+finished row 95
+finished row 96
+finished row 97
+finished row 98
+finished row 99
+finished row 100
+finished row 101
+finished row 102
+finished row 103
+finished row 104
+finished row 105
+finished row 106
+finished row 107
+finished row 108
+finished row 109
+finished row 110
+finished row 111
+finished row 112
+finished row 113
+finished row 114
+finished row 115
+finished row 116
+finished row 117
+finished row 118
+finished row 119
+finished row 120
+finished row 121
+finished row 122
+finished row 123
+finished row 124
+finished row 125
+finished row 126
+finished row 127
+finished row 128
+finished row 129
+finished row 130
+finished row 131
+finished row 132
+finished row 133
+finished row 134
+finished row 135
+finished row 136
+finished row 137
+finished row 138
+finished row 139
+finished row 140
+finished row 141
+finished row 142
+finished row 143
+finished row 144
+finished row 145
+finished row 146
+finished row 147
+finished row 148
+finished row 149
+finished row 150
+finished row 151
+finished row 152
+finished row 153
+finished row 154
+finished row 155
+finished row 156
+finished row 157
+finished row 158
+finished row 159
+finished row 160
+finished row 161
+finished row 162
+finished row 163
+finished row 164
+finished row 165
+finished row 166
+finished row 167
+finished row 168
+finished row 169
+finished row 170
+finished row 171
+finished row 172
+finished row 173
+finished row 174
+finished row 175
+finished row 176
+finished row 177
+finished row 178
+finished row 179
+finished row 180
+finished row 181
+finished row 182
+finished row 183
+finished row 184
+finished row 185
+finished row 186
+finished row 187
+finished row 188
+finished row 189
+finished row 190
+finished row 191
+finished row 192
+finished row 193
+finished row 194
+finished row 195
+finished row 196
+finished row 197
+finished row 198
+finished row 199
+finished row 200
+finished row 201
+finished row 202
+finished row 203
+finished row 204
+finished row 205
+finished row 206
+finished row 207
+finished row 208
+finished row 209
+finished row 210
+finished row 211
+finished row 212
+finished row 213
+finished row 214
+finished row 215
+finished row 216
+finished row 217
+finished row 218
+finished row 219
+finished row 220
+finished row 221
+finished row 222
+finished row 223
+finished row 224
+finished row 225
+finished row 226
+finished row 227
+finished row 228
+finished row 229
+finished row 230
+finished row 231
+finished row 232
+finished row 233
+finished row 234
+finished row 235
+finished row 236
+finished row 237
+finished row 238
+finished row 239
+finished row 240
+finished row 241
+finished row 242
+finished row 243
+finished row 244
+finished row 245
+finished row 246
+finished row 247
+finished row 248
+finished row 249
+finished row 250
+finished row 251
+finished row 252
+finished row 253
+finished row 254
+finished row 255
+finished row 256
+finished row 257
+finished row 258
+finished row 259
+finished row 260
+finished row 261
+finished row 262
+finished row 263
+finished row 264
+finished row 265
+finished row 266
+finished row 267
+finished row 268
+finished row 269
+finished row 270
+finished row 271
+finished row 272
+finished row 273
+finished row 274
+finished row 275
+finished row 276
+finished row 277
+finished row 278
+finished row 279
+finished row 280
+finished row 281
+finished row 282
+finished row 283
+finished row 284
+finished row 285
+finished row 286
+finished row 287
+finished row 288
+finished row 289
+finished row 290
+finished row 291
+finished row 292
+finished row 293
+finished row 294
+finished row 295
+finished row 296
+finished row 297
+finished row 298
+finished row 299
+finished row 300
+finished row 301
+finished row 302
+finished row 303
+finished row 304
+finished row 305
+finished row 306
+finished row 307
+finished row 308
+finished row 309
+finished row 310
+finished row 311
+finished row 312
+finished row 313
+finished row 314
+finished row 315
+finished row 316
+finished row 317
+finished row 318
+finished row 319
+finished row 320
+finished row 321
+finished row 322
+finished row 323
+finished row 324
+finished row 325
+finished row 326
+finished row 327
+finished row 328
+finished row 329
+finished row 330
+finished row 331
+finished row 332
+finished row 333
+finished row 334
+finished row 335
+finished row 336
+finished row 337
+finished row 338
+finished row 339
+finished row 340
+finished row 341
+finished row 342
+finished row 343
+finished row 344
+finished row 345
+finished row 346
+finished row 347
+finished row 348
+finished row 349
+finished row 350
+finished row 351
+finished row 352
+finished row 353
+finished row 354
+finished row 355
+finished row 356
+finished row 357
+finished row 358
+finished row 359
+finished row 360
+finished row 361
+finished row 362
+finished row 363
+finished row 364
+finished row 365
+finished row 366
+finished row 367
+finished row 368
+finished row 369
+finished row 370
+finished row 371
+finished row 372
+finished row 373
+finished row 374
+finished row 375
+finished row 376
+finished row 377
+finished row 378
+finished row 379
+finished row 380
+finished row 381
+finished row 382
+finished row 383
+finished row 384
+finished row 385
+finished row 386
+finished row 387
+finished row 388
+finished row 389
+finished row 390
+finished row 391
+finished row 392
+finished row 393
+finished row 394
+finished row 395
+finished row 396
+finished row 397
+finished row 398
+finished row 399
+finished row 400
+finished row 401
+finished row 402
+finished row 403
+finished row 404
+finished row 405
+finished row 406
+finished row 407
+finished row 408
+finished row 409
+finished row 410
+finished row 411
+finished row 412
+finished row 413
+finished row 414
+finished row 415
+finished row 416
+finished row 417
+finished row 418
+finished row 419
+finished row 420
+finished row 421
+finished row 422
+finished row 423
+finished row 424
+finished row 425
+finished row 426
+finished row 427
+finished row 428
+finished row 429
+finished row 430
+finished row 431
+finished row 432
+finished row 433
+finished row 434
+finished row 435
+finished row 436
+finished row 437
+finished row 438
+finished row 439
+finished row 440
+finished row 441
+finished row 442
+finished row 443
+finished row 444
+finished row 445
+finished row 446
+finished row 447
+finished row 448
+finished row 449
+finished row 450
+finished row 451
+finished row 452
+finished row 453
+finished row 454
+finished row 455
+finished row 456
+finished row 457
+finished row 458
+finished row 459
+finished row 460
+finished row 461
+finished row 462
+finished row 463
+finished row 464
+finished row 465
+finished row 466
+finished row 467
+finished row 468
+finished row 469
+finished row 470
+finished row 471
+finished row 472
+finished row 473
+finished row 474
+finished row 475
+finished row 476
+finished row 477
+finished row 478
+finished row 479
+finished row 480
+finished row 481
+finished row 482
+finished row 483
+finished row 484
+finished row 485
+finished row 486
+finished row 487
+finished row 488
+finished row 489
+finished row 490
+finished row 491
+finished row 492
+finished row 493
+finished row 494
+finished row 495
+finished row 496
+finished row 497
+finished row 498
+finished row 499
+finished row 500
+finished row 501
+finished row 502
+finished row 503
+finished row 504
+finished row 505
+finished row 506
+finished row 507
+finished row 508
+finished row 509
+finished row 510
+finished row 511
+finished row 512
+finished row 513
+finished row 514
+finished row 515
+finished row 516
+finished row 517
+finished row 518
+finished row 519
+finished row 520
+finished row 521
+finished row 522
+finished row 523
+finished row 524
+finished row 525
+finished row 526
+finished row 527
+finished row 528
+finished row 529
+finished row 530
+finished row 531
+finished row 532
+finished row 533
+finished row 534
+finished row 535
+finished row 536
+finished row 537
+finished row 538
+finished row 539
+finished row 540
+finished row 541
+finished row 542
+finished row 543
+finished row 544
+finished row 545
+finished row 546
+finished row 547
+finished row 548
+finished row 549
+finished row 550
+finished row 551
+finished row 552
+finished row 553
+finished row 554
+finished row 555
+finished row 556
+finished row 557
+finished row 558
+finished row 559
+finished row 560
+finished row 561
+finished row 562
+finished row 563
+finished row 564
+finished row 565
+finished row 566
+finished row 567
+finished row 568
+finished row 569
+finished row 570
+finished row 571
+finished row 572
+finished row 573
+finished row 574
+finished row 575
+finished row 576
+finished row 577
+finished row 578
+finished row 579
+finished row 580
+finished row 581
+finished row 582
+finished row 583
+finished row 584
+finished row 585
+finished row 586
+finished row 587
+finished row 588
+finished row 589
+finished row 590
+finished row 591
+finished row 592
+finished row 593
+finished row 594
+finished row 595
+finished row 596
+finished row 597
+finished row 598
+finished row 599
+finished row 600
+finished row 601
+finished row 602
+finished row 603
+finished row 604
+finished row 605
+finished row 606
+finished row 607
+finished row 608
+finished row 609
+finished row 610
+finished row 611
+finished row 612
+finished row 613
+finished row 614
+finished row 615
+finished row 616
+finished row 617
+finished row 618
+finished row 619
+finished row 620
+finished row 621
+finished row 622
+finished row 623
+finished row 624
+finished row 625
+finished row 626
+finished row 627
+finished row 628
+finished row 629
+finished row 630
+finished row 631
+finished row 632
+finished row 633
+finished row 634
+finished row 635
+finished row 636
+finished row 637
+finished row 638
+finished row 639
+finished row 640
+finished row 641
+finished row 642
+finished row 643
+finished row 644
+finished row 645
+finished row 646
+finished row 647
+finished row 648
+finished row 649
+finished row 650
+finished row 651
+finished row 652
+finished row 653
+finished row 654
+finished row 655
+finished row 656
+finished row 657
+finished row 658
+finished row 659
+finished row 660
+finished row 661
+finished row 662
+finished row 663
+finished row 664
+finished row 665
+finished row 666
+finished row 667
+finished row 668
+finished row 669
+finished row 670
+finished row 671
+finished row 672
+finished row 673
+finished row 674
+finished row 675
+finished row 676
+finished row 677
+finished row 678
+finished row 679
+finished row 680
+finished row 681
+finished row 682
+finished row 683
+finished row 684
+finished row 685
+finished row 686
+finished row 687
+finished row 688
+finished row 689
+finished row 690
+finished row 691
+finished row 692
+finished row 693
+2 - 0.0694931
+B (programming language): 0.000266031
+RPL (programming language): 0.000269193
+Unix shell: 0.000271219
+Flavors (programming language): 0.000274385
+Vim (text editor): 0.00027723
+REXX: 0.000279101
+Oxygene (programming language): 0.000282685
+LabVIEW: 0.000287152
+Erlang (programming language): 0.000287306
+Forth (programming language): 0.00030174
+Dart (programming language): 0.000303801
+G-code: 0.000305174
+Mathematica: 0.000309001
+Squeak: 0.000309832
+Racket (programming language): 0.000317192
+Processing (programming language): 0.000322921
+Chapel (programming language): 0.000324926
+Common Intermediate Language: 0.000328383
+Occam (programming language): 0.000332325
+Dylan (programming language): 0.000332379
+WebAssembly: 0.000333117
+Verilog: 0.000337369
+VHDL: 0.000337568
+Eiffel (programming language): 0.000337934
+Z notation: 0.000340055
+Groovy (programming language): 0.000343735
+Modula-3: 0.00034552
+PowerShell: 0.000351418
+TeX: 0.000352524
+ActionScript: 0.000361173
+BCPL: 0.000361217
+Simula: 0.000363249
+AWK: 0.00036541
+JScript: 0.000370434
+Nim (programming language): 0.000370943
+SISAL: 0.000371887
+D (programming language): 0.000382523
+Common Lisp: 0.00038369
+JScript .NET: 0.000383786
+Self (programming language): 0.000391825
+JASS: 0.000395462
+Logo (programming language): 0.000395674
+Visual Basic: 0.000396881
+Object Pascal: 0.000411891
+F Sharp (programming language): 0.00041643
+Nial: 0.000421219
+Tcl: 0.000451735
+Oberon (programming language): 0.000452928
+ALGOL 68: 0.000459513
+HyperTalk: 0.000469417
+ML (programming language): 0.000489203
+Machine code: 0.000563813
+Modula-2: 0.000581939
+PL/I: 0.00061262
+Clojure: 0.000619941
+Prolog: 0.000659169
+ECMAScript: 0.000668256
+ALGOL 60: 0.000724512
+Scheme (programming language): 0.000755845
+Ada (programming language): 0.000829038
+SQL: 0.00090366
+Apache Groovy: 0.000915814
+Elixir (programming language): 0.000966004
+History of programming languages: 0.000969024
+Swift (programming language): 0.000981983
+Kotlin (programming language): 0.00100787
+Timeline of programming languages: 0.00102377
+List of programming languages by type: 0.00103011
+Non-English-based programming languages: 0.00104892
+Shell script: 0.00106083
+Julia (programming language): 0.00109315
+Visual Basic .NET: 0.00112702
+Rust (programming language): 0.00112937
+OCaml: 0.00114212
+PHP: 0.00114718
+TypeScript: 0.00115402
+R (programming language): 0.00117646
+MATLAB: 0.00119725
+APL (programming language): 0.00119808
+Go (programming language): 0.00121982
+Objective-C: 0.00122359
+Lua (programming language): 0.00123447
+Scala (programming language): 0.00127045
+Ruby (programming language): 0.0013748
+Perl: 0.0014118
+BASIC: 0.00141996
+COBOL: 0.00146071
+Haskell (programming language): 0.00150415
+Smalltalk: 0.00162211
+C Sharp (programming language): 0.00175805
+JavaScript: 0.00176101
+Assembly language: 0.00179815
+Fortran: 0.00183383
+Lisp (programming language): 0.00183754
+Python (programming language): 0.00192647
+Pascal (programming language): 0.0019747
+C++: 0.00261994
+Java (programming language): 0.00268784
+C (programming language): 0.00378789
+finished row 0
+finished row 1
+finished row 2
+finished row 3
+finished row 4
+finished row 5
+finished row 6
+finished row 7
+finished row 8
+finished row 9
+finished row 10
+finished row 11
+finished row 12
+finished row 13
+finished row 14
+finished row 15
+finished row 16
+finished row 17
+finished row 18
+finished row 19
+finished row 20
+finished row 21
+finished row 22
+finished row 23
+finished row 24
+finished row 25
+finished row 26
+finished row 27
+finished row 28
+finished row 29
+finished row 30
+finished row 31
+finished row 32
+finished row 33
+finished row 34
+finished row 35
+finished row 36
+finished row 37
+finished row 38
+finished row 39
+finished row 40
+finished row 41
+finished row 42
+finished row 43
+finished row 44
+finished row 45
+finished row 46
+finished row 47
+finished row 48
+finished row 49
+finished row 50
+finished row 51
+finished row 52
+finished row 53
+finished row 54
+finished row 55
+finished row 56
+finished row 57
+finished row 58
+finished row 59
+finished row 60
+finished row 61
+finished row 62
+finished row 63
+finished row 64
+finished row 65
+finished row 66
+finished row 67
+finished row 68
+finished row 69
+finished row 70
+finished row 71
+finished row 72
+finished row 73
+finished row 74
+finished row 75
+finished row 76
+finished row 77
+finished row 78
+finished row 79
+finished row 80
+finished row 81
+finished row 82
+finished row 83
+finished row 84
+finished row 85
+finished row 86
+finished row 87
+finished row 88
+finished row 89
+finished row 90
+finished row 91
+finished row 92
+finished row 93
+finished row 94
+finished row 95
+finished row 96
+finished row 97
+finished row 98
+finished row 99
+finished row 100
+finished row 101
+finished row 102
+finished row 103
+finished row 104
+finished row 105
+finished row 106
+finished row 107
+finished row 108
+finished row 109
+finished row 110
+finished row 111
+finished row 112
+finished row 113
+finished row 114
+finished row 115
+finished row 116
+finished row 117
+finished row 118
+finished row 119
+finished row 120
+finished row 121
+finished row 122
+finished row 123
+finished row 124
+finished row 125
+finished row 126
+finished row 127
+finished row 128
+finished row 129
+finished row 130
+finished row 131
+finished row 132
+finished row 133
+finished row 134
+finished row 135
+finished row 136
+finished row 137
+finished row 138
+finished row 139
+finished row 140
+finished row 141
+finished row 142
+finished row 143
+finished row 144
+finished row 145
+finished row 146
+finished row 147
+finished row 148
+finished row 149
+finished row 150
+finished row 151
+finished row 152
+finished row 153
+finished row 154
+finished row 155
+finished row 156
+finished row 157
+finished row 158
+finished row 159
+finished row 160
+finished row 161
+finished row 162
+finished row 163
+finished row 164
+finished row 165
+finished row 166
+finished row 167
+finished row 168
+finished row 169
+finished row 170
+finished row 171
+finished row 172
+finished row 173
+finished row 174
+finished row 175
+finished row 176
+finished row 177
+finished row 178
+finished row 179
+finished row 180
+finished row 181
+finished row 182
+finished row 183
+finished row 184
+finished row 185
+finished row 186
+finished row 187
+finished row 188
+finished row 189
+finished row 190
+finished row 191
+finished row 192
+finished row 193
+finished row 194
+finished row 195
+finished row 196
+finished row 197
+finished row 198
+finished row 199
+finished row 200
+finished row 201
+finished row 202
+finished row 203
+finished row 204
+finished row 205
+finished row 206
+finished row 207
+finished row 208
+finished row 209
+finished row 210
+finished row 211
+finished row 212
+finished row 213
+finished row 214
+finished row 215
+finished row 216
+finished row 217
+finished row 218
+finished row 219
+finished row 220
+finished row 221
+finished row 222
+finished row 223
+finished row 224
+finished row 225
+finished row 226
+finished row 227
+finished row 228
+finished row 229
+finished row 230
+finished row 231
+finished row 232
+finished row 233
+finished row 234
+finished row 235
+finished row 236
+finished row 237
+finished row 238
+finished row 239
+finished row 240
+finished row 241
+finished row 242
+finished row 243
+finished row 244
+finished row 245
+finished row 246
+finished row 247
+finished row 248
+finished row 249
+finished row 250
+finished row 251
+finished row 252
+finished row 253
+finished row 254
+finished row 255
+finished row 256
+finished row 257
+finished row 258
+finished row 259
+finished row 260
+finished row 261
+finished row 262
+finished row 263
+finished row 264
+finished row 265
+finished row 266
+finished row 267
+finished row 268
+finished row 269
+finished row 270
+finished row 271
+finished row 272
+finished row 273
+finished row 274
+finished row 275
+finished row 276
+finished row 277
+finished row 278
+finished row 279
+finished row 280
+finished row 281
+finished row 282
+finished row 283
+finished row 284
+finished row 285
+finished row 286
+finished row 287
+finished row 288
+finished row 289
+finished row 290
+finished row 291
+finished row 292
+finished row 293
+finished row 294
+finished row 295
+finished row 296
+finished row 297
+finished row 298
+finished row 299
+finished row 300
+finished row 301
+finished row 302
+finished row 303
+finished row 304
+finished row 305
+finished row 306
+finished row 307
+finished row 308
+finished row 309
+finished row 310
+finished row 311
+finished row 312
+finished row 313
+finished row 314
+finished row 315
+finished row 316
+finished row 317
+finished row 318
+finished row 319
+finished row 320
+finished row 321
+finished row 322
+finished row 323
+finished row 324
+finished row 325
+finished row 326
+finished row 327
+finished row 328
+finished row 329
+finished row 330
+finished row 331
+finished row 332
+finished row 333
+finished row 334
+finished row 335
+finished row 336
+finished row 337
+finished row 338
+finished row 339
+finished row 340
+finished row 341
+finished row 342
+finished row 343
+finished row 344
+finished row 345
+finished row 346
+finished row 347
+finished row 348
+finished row 349
+finished row 350
+finished row 351
+finished row 352
+finished row 353
+finished row 354
+finished row 355
+finished row 356
+finished row 357
+finished row 358
+finished row 359
+finished row 360
+finished row 361
+finished row 362
+finished row 363
+finished row 364
+finished row 365
+finished row 366
+finished row 367
+finished row 368
+finished row 369
+finished row 370
+finished row 371
+finished row 372
+finished row 373
+finished row 374
+finished row 375
+finished row 376
+finished row 377
+finished row 378
+finished row 379
+finished row 380
+finished row 381
+finished row 382
+finished row 383
+finished row 384
+finished row 385
+finished row 386
+finished row 387
+finished row 388
+finished row 389
+finished row 390
+finished row 391
+finished row 392
+finished row 393
+finished row 394
+finished row 395
+finished row 396
+finished row 397
+finished row 398
+finished row 399
+finished row 400
+finished row 401
+finished row 402
+finished row 403
+finished row 404
+finished row 405
+finished row 406
+finished row 407
+finished row 408
+finished row 409
+finished row 410
+finished row 411
+finished row 412
+finished row 413
+finished row 414
+finished row 415
+finished row 416
+finished row 417
+finished row 418
+finished row 419
+finished row 420
+finished row 421
+finished row 422
+finished row 423
+finished row 424
+finished row 425
+finished row 426
+finished row 427
+finished row 428
+finished row 429
+finished row 430
+finished row 431
+finished row 432
+finished row 433
+finished row 434
+finished row 435
+finished row 436
+finished row 437
+finished row 438
+finished row 439
+finished row 440
+finished row 441
+finished row 442
+finished row 443
+finished row 444
+finished row 445
+finished row 446
+finished row 447
+finished row 448
+finished row 449
+finished row 450
+finished row 451
+finished row 452
+finished row 453
+finished row 454
+finished row 455
+finished row 456
+finished row 457
+finished row 458
+finished row 459
+finished row 460
+finished row 461
+finished row 462
+finished row 463
+finished row 464
+finished row 465
+finished row 466
+finished row 467
+finished row 468
+finished row 469
+finished row 470
+finished row 471
+finished row 472
+finished row 473
+finished row 474
+finished row 475
+finished row 476
+finished row 477
+finished row 478
+finished row 479
+finished row 480
+finished row 481
+finished row 482
+finished row 483
+finished row 484
+finished row 485
+finished row 486
+finished row 487
+finished row 488
+finished row 489
+finished row 490
+finished row 491
+finished row 492
+finished row 493
+finished row 494
+finished row 495
+finished row 496
+finished row 497
+finished row 498
+finished row 499
+finished row 500
+finished row 501
+finished row 502
+finished row 503
+finished row 504
+finished row 505
+finished row 506
+finished row 507
+finished row 508
+finished row 509
+finished row 510
+finished row 511
+finished row 512
+finished row 513
+finished row 514
+finished row 515
+finished row 516
+finished row 517
+finished row 518
+finished row 519
+finished row 520
+finished row 521
+finished row 522
+finished row 523
+finished row 524
+finished row 525
+finished row 526
+finished row 527
+finished row 528
+finished row 529
+finished row 530
+finished row 531
+finished row 532
+finished row 533
+finished row 534
+finished row 535
+finished row 536
+finished row 537
+finished row 538
+finished row 539
+finished row 540
+finished row 541
+finished row 542
+finished row 543
+finished row 544
+finished row 545
+finished row 546
+finished row 547
+finished row 548
+finished row 549
+finished row 550
+finished row 551
+finished row 552
+finished row 553
+finished row 554
+finished row 555
+finished row 556
+finished row 557
+finished row 558
+finished row 559
+finished row 560
+finished row 561
+finished row 562
+finished row 563
+finished row 564
+finished row 565
+finished row 566
+finished row 567
+finished row 568
+finished row 569
+finished row 570
+finished row 571
+finished row 572
+finished row 573
+finished row 574
+finished row 575
+finished row 576
+finished row 577
+finished row 578
+finished row 579
+finished row 580
+finished row 581
+finished row 582
+finished row 583
+finished row 584
+finished row 585
+finished row 586
+finished row 587
+finished row 588
+finished row 589
+finished row 590
+finished row 591
+finished row 592
+finished row 593
+finished row 594
+finished row 595
+finished row 596
+finished row 597
+finished row 598
+finished row 599
+finished row 600
+finished row 601
+finished row 602
+finished row 603
+finished row 604
+finished row 605
+finished row 606
+finished row 607
+finished row 608
+finished row 609
+finished row 610
+finished row 611
+finished row 612
+finished row 613
+finished row 614
+finished row 615
+finished row 616
+finished row 617
+finished row 618
+finished row 619
+finished row 620
+finished row 621
+finished row 622
+finished row 623
+finished row 624
+finished row 625
+finished row 626
+finished row 627
+finished row 628
+finished row 629
+finished row 630
+finished row 631
+finished row 632
+finished row 633
+finished row 634
+finished row 635
+finished row 636
+finished row 637
+finished row 638
+finished row 639
+finished row 640
+finished row 641
+finished row 642
+finished row 643
+finished row 644
+finished row 645
+finished row 646
+finished row 647
+finished row 648
+finished row 649
+finished row 650
+finished row 651
+finished row 652
+finished row 653
+finished row 654
+finished row 655
+finished row 656
+finished row 657
+finished row 658
+finished row 659
+finished row 660
+finished row 661
+finished row 662
+finished row 663
+finished row 664
+finished row 665
+finished row 666
+finished row 667
+finished row 668
+finished row 669
+finished row 670
+finished row 671
+finished row 672
+finished row 673
+finished row 674
+finished row 675
+finished row 676
+finished row 677
+finished row 678
+finished row 679
+finished row 680
+finished row 681
+finished row 682
+finished row 683
+finished row 684
+finished row 685
+finished row 686
+finished row 687
+finished row 688
+finished row 689
+finished row 690
+finished row 691
+finished row 692
+finished row 693
+3 - 0.0603743
+Unix shell: 0.000245023
+Vim (text editor): 0.000245161
+Emacs Lisp: 0.000247423
+Boo (programming language): 0.000247507
+Maple (software): 0.000250873
+Verilog: 0.00025348
+VHDL: 0.000254804
+LabVIEW: 0.000258324
+RPL (programming language): 0.000260746
+Erlang (programming language): 0.000265468
+Flavors (programming language): 0.000267473
+Squeak: 0.000275501
+Mathematica: 0.00027719
+Oxygene (programming language): 0.000281259
+TeX: 0.000281743
+Forth (programming language): 0.000281998
+Dart (programming language): 0.000282958
+Processing (programming language): 0.000289953
+BCPL: 0.000298652
+G-code: 0.00030192
+Chapel (programming language): 0.000305477
+WebAssembly: 0.000306585
+Racket (programming language): 0.000310783
+Z notation: 0.000311218
+Modula-3: 0.000311418
+AWK: 0.000315849
+Common Intermediate Language: 0.000317769
+Dylan (programming language): 0.000321134
+Eiffel (programming language): 0.000325182
+Groovy (programming language): 0.000326071
+JScript: 0.00033028
+HyperTalk: 0.000330513
+Visual Basic: 0.000330608
+Simula: 0.000332326
+ActionScript: 0.00033515
+Nim (programming language): 0.000336586
+D (programming language): 0.000338771
+PowerShell: 0.000347581
+Self (programming language): 0.000356578
+Object Pascal: 0.000364837
+Logo (programming language): 0.000366507
+Common Lisp: 0.000369393
+JASS: 0.000371713
+JScript .NET: 0.00037397
+ALGOL 68: 0.00038682
+Tcl: 0.000400694
+F Sharp (programming language): 0.000408691
+SISAL: 0.000414103
+Oberon (programming language): 0.000430027
+Nial: 0.000431487
+ML (programming language): 0.000442372
+PL/I: 0.000475671
+Machine code: 0.000481857
+Modula-2: 0.000547131
+Prolog: 0.000578169
+Clojure: 0.00059576
+ECMAScript: 0.000615252
+ALGOL 60: 0.000620059
+Scheme (programming language): 0.000709581
+Ada (programming language): 0.000730058
+SQL: 0.00075607
+Apache Groovy: 0.000831536
+History of programming languages: 0.000875266
+Elixir (programming language): 0.000879909
+Swift (programming language): 0.000897587
+Timeline of programming languages: 0.000923604
+Kotlin (programming language): 0.000925985
+List of programming languages by type: 0.000933212
+Non-English-based programming languages: 0.00094399
+Shell script: 0.000959945
+Julia (programming language): 0.0010135
+Rust (programming language): 0.00102706
+PHP: 0.00103645
+Visual Basic .NET: 0.00104062
+OCaml: 0.00104421
+TypeScript: 0.00105652
+R (programming language): 0.00109053
+APL (programming language): 0.00109128
+MATLAB: 0.00109276
+Go (programming language): 0.00111409
+Objective-C: 0.00111502
+Lua (programming language): 0.00112114
+Scala (programming language): 0.00120051
+Ruby (programming language): 0.00126348
+Perl: 0.00127205
+COBOL: 0.00128183
+BASIC: 0.00128483
+Haskell (programming language): 0.0013313
+Smalltalk: 0.00146045
+Assembly language: 0.00157192
+JavaScript: 0.00158375
+Fortran: 0.00160049
+C Sharp (programming language): 0.00162621
+Lisp (programming language): 0.00167154
+Python (programming language): 0.0017517
+Pascal (programming language): 0.00175425
+C++: 0.00225743
+Java (programming language): 0.00236982
+C (programming language): 0.00317376
+finished row 0
+finished row 1
+finished row 2
+finished row 3
+finished row 4
+finished row 5
+finished row 6
+finished row 7
+finished row 8
+finished row 9
+finished row 10
+finished row 11
+finished row 12
+finished row 13
+finished row 14
+finished row 15
+finished row 16
+finished row 17
+finished row 18
+finished row 19
+finished row 20
+finished row 21
+finished row 22
+finished row 23
+finished row 24
+finished row 25
+finished row 26
+finished row 27
+finished row 28
+finished row 29
+finished row 30
+finished row 31
+finished row 32
+finished row 33
+finished row 34
+finished row 35
+finished row 36
+finished row 37
+finished row 38
+finished row 39
+finished row 40
+finished row 41
+finished row 42
+finished row 43
+finished row 44
+finished row 45
+finished row 46
+finished row 47
+finished row 48
+finished row 49
+finished row 50
+finished row 51
+finished row 52
+finished row 53
+finished row 54
+finished row 55
+finished row 56
+finished row 57
+finished row 58
+finished row 59
+finished row 60
+finished row 61
+finished row 62
+finished row 63
+finished row 64
+finished row 65
+finished row 66
+finished row 67
+finished row 68
+finished row 69
+finished row 70
+finished row 71
+finished row 72
+finished row 73
+finished row 74
+finished row 75
+finished row 76
+finished row 77
+finished row 78
+finished row 79
+finished row 80
+finished row 81
+finished row 82
+finished row 83
+finished row 84
+finished row 85
+finished row 86
+finished row 87
+finished row 88
+finished row 89
+finished row 90
+finished row 91
+finished row 92
+finished row 93
+finished row 94
+finished row 95
+finished row 96
+finished row 97
+finished row 98
+finished row 99
+finished row 100
+finished row 101
+finished row 102
+finished row 103
+finished row 104
+finished row 105
+finished row 106
+finished row 107
+finished row 108
+finished row 109
+finished row 110
+finished row 111
+finished row 112
+finished row 113
+finished row 114
+finished row 115
+finished row 116
+finished row 117
+finished row 118
+finished row 119
+finished row 120
+finished row 121
+finished row 122
+finished row 123
+finished row 124
+finished row 125
+finished row 126
+finished row 127
+finished row 128
+finished row 129
+finished row 130
+finished row 131
+finished row 132
+finished row 133
+finished row 134
+finished row 135
+finished row 136
+finished row 137
+finished row 138
+finished row 139
+finished row 140
+finished row 141
+finished row 142
+finished row 143
+finished row 144
+finished row 145
+finished row 146
+finished row 147
+finished row 148
+finished row 149
+finished row 150
+finished row 151
+finished row 152
+finished row 153
+finished row 154
+finished row 155
+finished row 156
+finished row 157
+finished row 158
+finished row 159
+finished row 160
+finished row 161
+finished row 162
+finished row 163
+finished row 164
+finished row 165
+finished row 166
+finished row 167
+finished row 168
+finished row 169
+finished row 170
+finished row 171
+finished row 172
+finished row 173
+finished row 174
+finished row 175
+finished row 176
+finished row 177
+finished row 178
+finished row 179
+finished row 180
+finished row 181
+finished row 182
+finished row 183
+finished row 184
+finished row 185
+finished row 186
+finished row 187
+finished row 188
+finished row 189
+finished row 190
+finished row 191
+finished row 192
+finished row 193
+finished row 194
+finished row 195
+finished row 196
+finished row 197
+finished row 198
+finished row 199
+finished row 200
+finished row 201
+finished row 202
+finished row 203
+finished row 204
+finished row 205
+finished row 206
+finished row 207
+finished row 208
+finished row 209
+finished row 210
+finished row 211
+finished row 212
+finished row 213
+finished row 214
+finished row 215
+finished row 216
+finished row 217
+finished row 218
+finished row 219
+finished row 220
+finished row 221
+finished row 222
+finished row 223
+finished row 224
+finished row 225
+finished row 226
+finished row 227
+finished row 228
+finished row 229
+finished row 230
+finished row 231
+finished row 232
+finished row 233
+finished row 234
+finished row 235
+finished row 236
+finished row 237
+finished row 238
+finished row 239
+finished row 240
+finished row 241
+finished row 242
+finished row 243
+finished row 244
+finished row 245
+finished row 246
+finished row 247
+finished row 248
+finished row 249
+finished row 250
+finished row 251
+finished row 252
+finished row 253
+finished row 254
+finished row 255
+finished row 256
+finished row 257
+finished row 258
+finished row 259
+finished row 260
+finished row 261
+finished row 262
+finished row 263
+finished row 264
+finished row 265
+finished row 266
+finished row 267
+finished row 268
+finished row 269
+finished row 270
+finished row 271
+finished row 272
+finished row 273
+finished row 274
+finished row 275
+finished row 276
+finished row 277
+finished row 278
+finished row 279
+finished row 280
+finished row 281
+finished row 282
+finished row 283
+finished row 284
+finished row 285
+finished row 286
+finished row 287
+finished row 288
+finished row 289
+finished row 290
+finished row 291
+finished row 292
+finished row 293
+finished row 294
+finished row 295
+finished row 296
+finished row 297
+finished row 298
+finished row 299
+finished row 300
+finished row 301
+finished row 302
+finished row 303
+finished row 304
+finished row 305
+finished row 306
+finished row 307
+finished row 308
+finished row 309
+finished row 310
+finished row 311
+finished row 312
+finished row 313
+finished row 314
+finished row 315
+finished row 316
+finished row 317
+finished row 318
+finished row 319
+finished row 320
+finished row 321
+finished row 322
+finished row 323
+finished row 324
+finished row 325
+finished row 326
+finished row 327
+finished row 328
+finished row 329
+finished row 330
+finished row 331
+finished row 332
+finished row 333
+finished row 334
+finished row 335
+finished row 336
+finished row 337
+finished row 338
+finished row 339
+finished row 340
+finished row 341
+finished row 342
+finished row 343
+finished row 344
+finished row 345
+finished row 346
+finished row 347
+finished row 348
+finished row 349
+finished row 350
+finished row 351
+finished row 352
+finished row 353
+finished row 354
+finished row 355
+finished row 356
+finished row 357
+finished row 358
+finished row 359
+finished row 360
+finished row 361
+finished row 362
+finished row 363
+finished row 364
+finished row 365
+finished row 366
+finished row 367
+finished row 368
+finished row 369
+finished row 370
+finished row 371
+finished row 372
+finished row 373
+finished row 374
+finished row 375
+finished row 376
+finished row 377
+finished row 378
+finished row 379
+finished row 380
+finished row 381
+finished row 382
+finished row 383
+finished row 384
+finished row 385
+finished row 386
+finished row 387
+finished row 388
+finished row 389
+finished row 390
+finished row 391
+finished row 392
+finished row 393
+finished row 394
+finished row 395
+finished row 396
+finished row 397
+finished row 398
+finished row 399
+finished row 400
+finished row 401
+finished row 402
+finished row 403
+finished row 404
+finished row 405
+finished row 406
+finished row 407
+finished row 408
+finished row 409
+finished row 410
+finished row 411
+finished row 412
+finished row 413
+finished row 414
+finished row 415
+finished row 416
+finished row 417
+finished row 418
+finished row 419
+finished row 420
+finished row 421
+finished row 422
+finished row 423
+finished row 424
+finished row 425
+finished row 426
+finished row 427
+finished row 428
+finished row 429
+finished row 430
+finished row 431
+finished row 432
+finished row 433
+finished row 434
+finished row 435
+finished row 436
+finished row 437
+finished row 438
+finished row 439
+finished row 440
+finished row 441
+finished row 442
+finished row 443
+finished row 444
+finished row 445
+finished row 446
+finished row 447
+finished row 448
+finished row 449
+finished row 450
+finished row 451
+finished row 452
+finished row 453
+finished row 454
+finished row 455
+finished row 456
+finished row 457
+finished row 458
+finished row 459
+finished row 460
+finished row 461
+finished row 462
+finished row 463
+finished row 464
+finished row 465
+finished row 466
+finished row 467
+finished row 468
+finished row 469
+finished row 470
+finished row 471
+finished row 472
+finished row 473
+finished row 474
+finished row 475
+finished row 476
+finished row 477
+finished row 478
+finished row 479
+finished row 480
+finished row 481
+finished row 482
+finished row 483
+finished row 484
+finished row 485
+finished row 486
+finished row 487
+finished row 488
+finished row 489
+finished row 490
+finished row 491
+finished row 492
+finished row 493
+finished row 494
+finished row 495
+finished row 496
+finished row 497
+finished row 498
+finished row 499
+finished row 500
+finished row 501
+finished row 502
+finished row 503
+finished row 504
+finished row 505
+finished row 506
+finished row 507
+finished row 508
+finished row 509
+finished row 510
+finished row 511
+finished row 512
+finished row 513
+finished row 514
+finished row 515
+finished row 516
+finished row 517
+finished row 518
+finished row 519
+finished row 520
+finished row 521
+finished row 522
+finished row 523
+finished row 524
+finished row 525
+finished row 526
+finished row 527
+finished row 528
+finished row 529
+finished row 530
+finished row 531
+finished row 532
+finished row 533
+finished row 534
+finished row 535
+finished row 536
+finished row 537
+finished row 538
+finished row 539
+finished row 540
+finished row 541
+finished row 542
+finished row 543
+finished row 544
+finished row 545
+finished row 546
+finished row 547
+finished row 548
+finished row 549
+finished row 550
+finished row 551
+finished row 552
+finished row 553
+finished row 554
+finished row 555
+finished row 556
+finished row 557
+finished row 558
+finished row 559
+finished row 560
+finished row 561
+finished row 562
+finished row 563
+finished row 564
+finished row 565
+finished row 566
+finished row 567
+finished row 568
+finished row 569
+finished row 570
+finished row 571
+finished row 572
+finished row 573
+finished row 574
+finished row 575
+finished row 576
+finished row 577
+finished row 578
+finished row 579
+finished row 580
+finished row 581
+finished row 582
+finished row 583
+finished row 584
+finished row 585
+finished row 586
+finished row 587
+finished row 588
+finished row 589
+finished row 590
+finished row 591
+finished row 592
+finished row 593
+finished row 594
+finished row 595
+finished row 596
+finished row 597
+finished row 598
+finished row 599
+finished row 600
+finished row 601
+finished row 602
+finished row 603
+finished row 604
+finished row 605
+finished row 606
+finished row 607
+finished row 608
+finished row 609
+finished row 610
+finished row 611
+finished row 612
+finished row 613
+finished row 614
+finished row 615
+finished row 616
+finished row 617
+finished row 618
+finished row 619
+finished row 620
+finished row 621
+finished row 622
+finished row 623
+finished row 624
+finished row 625
+finished row 626
+finished row 627
+finished row 628
+finished row 629
+finished row 630
+finished row 631
+finished row 632
+finished row 633
+finished row 634
+finished row 635
+finished row 636
+finished row 637
+finished row 638
+finished row 639
+finished row 640
+finished row 641
+finished row 642
+finished row 643
+finished row 644
+finished row 645
+finished row 646
+finished row 647
+finished row 648
+finished row 649
+finished row 650
+finished row 651
+finished row 652
+finished row 653
+finished row 654
+finished row 655
+finished row 656
+finished row 657
+finished row 658
+finished row 659
+finished row 660
+finished row 661
+finished row 662
+finished row 663
+finished row 664
+finished row 665
+finished row 666
+finished row 667
+finished row 668
+finished row 669
+finished row 670
+finished row 671
+finished row 672
+finished row 673
+finished row 674
+finished row 675
+finished row 676
+finished row 677
+finished row 678
+finished row 679
+finished row 680
+finished row 681
+finished row 682
+finished row 683
+finished row 684
+finished row 685
+finished row 686
+finished row 687
+finished row 688
+finished row 689
+finished row 690
+finished row 691
+finished row 692
+finished row 693
+4 - 0.0480771
+Cobra (programming language): 0.000195659
+Unix shell: 0.000196418
+Verilog: 0.000198555
+Boo (programming language): 0.00019936
+VHDL: 0.00019952
+Emacs Lisp: 0.000200674
+Maple (software): 0.0002016
+LabVIEW: 0.000207027
+RPL (programming language): 0.000211813
+Erlang (programming language): 0.000212581
+Flavors (programming language): 0.000217013
+Squeak: 0.00022098
+Mathematica: 0.00022141
+TeX: 0.000222993
+Oxygene (programming language): 0.000226187
+Dart (programming language): 0.000226374
+Forth (programming language): 0.00022729
+Processing (programming language): 0.000232286
+BCPL: 0.000237929
+Chapel (programming language): 0.000244637
+WebAssembly: 0.000244782
+Z notation: 0.000248486
+Modula-3: 0.000249017
+Racket (programming language): 0.000251298
+AWK: 0.00025171
+Common Intermediate Language: 0.000255387
+Dylan (programming language): 0.00025978
+HyperTalk: 0.000260128
+Eiffel (programming language): 0.000260916
+Groovy (programming language): 0.000261384
+Visual Basic: 0.000262623
+JScript: 0.000263174
+G-code: 0.000265118
+Simula: 0.000265786
+ActionScript: 0.000267883
+Nim (programming language): 0.000268915
+D (programming language): 0.000270461
+PowerShell: 0.000279206
+Self (programming language): 0.0002859
+Object Pascal: 0.000291355
+Logo (programming language): 0.000296314
+Common Lisp: 0.000298756
+JScript .NET: 0.000300264
+ALGOL 68: 0.000308918
+JASS: 0.000310763
+Tcl: 0.000319457
+F Sharp (programming language): 0.000328262
+Oberon (programming language): 0.00034377
+ML (programming language): 0.000354375
+PL/I: 0.000375744
+Machine code: 0.000385204
+Nial: 0.000386152
+SISAL: 0.000392061
+Modula-2: 0.000437405
+Prolog: 0.000462811
+Clojure: 0.000479694
+ECMAScript: 0.00049177
+ALGOL 60: 0.000494006
+Scheme (programming language): 0.000570686
+Ada (programming language): 0.000581852
+SQL: 0.000601476
+Apache Groovy: 0.000663984
+History of programming languages: 0.000698806
+Elixir (programming language): 0.000702881
+Swift (programming language): 0.000716893
+Timeline of programming languages: 0.000737146
+Kotlin (programming language): 0.000739999
+List of programming languages by type: 0.000745114
+Non-English-based programming languages: 0.000753825
+Shell script: 0.000766545
+Julia (programming language): 0.000810506
+Rust (programming language): 0.00082043
+PHP: 0.000827821
+Visual Basic .NET: 0.000832273
+OCaml: 0.000834583
+TypeScript: 0.000844206
+R (programming language): 0.000872438
+APL (programming language): 0.000872574
+MATLAB: 0.0008737
+Go (programming language): 0.000889873
+Objective-C: 0.000891402
+Lua (programming language): 0.000895316
+Scala (programming language): 0.000961571
+Ruby (programming language): 0.00100945
+Perl: 0.00101568
+COBOL: 0.00102176
+BASIC: 0.00102598
+Haskell (programming language): 0.00106429
+Smalltalk: 0.00116778
+Assembly language: 0.00125602
+JavaScript: 0.00126608
+Fortran: 0.00127674
+C Sharp (programming language): 0.00130114
+Lisp (programming language): 0.00134123
+Pascal (programming language): 0.00139964
+Python (programming language): 0.00140096
+C++: 0.00180039
+Java (programming language): 0.0018927
+C (programming language): 0.00253044
+finished row 0
+finished row 1
+finished row 2
+finished row 3
+finished row 4
+finished row 5
+finished row 6
+finished row 7
+finished row 8
+finished row 9
+finished row 10
+finished row 11
+finished row 12
+finished row 13
+finished row 14
+finished row 15
+finished row 16
+finished row 17
+finished row 18
+finished row 19
+finished row 20
+finished row 21
+finished row 22
+finished row 23
+finished row 24
+finished row 25
+finished row 26
+finished row 27
+finished row 28
+finished row 29
+finished row 30
+finished row 31
+finished row 32
+finished row 33
+finished row 34
+finished row 35
+finished row 36
+finished row 37
+finished row 38
+finished row 39
+finished row 40
+finished row 41
+finished row 42
+finished row 43
+finished row 44
+finished row 45
+finished row 46
+finished row 47
+finished row 48
+finished row 49
+finished row 50
+finished row 51
+finished row 52
+finished row 53
+finished row 54
+finished row 55
+finished row 56
+finished row 57
+finished row 58
+finished row 59
+finished row 60
+finished row 61
+finished row 62
+finished row 63
+finished row 64
+finished row 65
+finished row 66
+finished row 67
+finished row 68
+finished row 69
+finished row 70
+finished row 71
+finished row 72
+finished row 73
+finished row 74
+finished row 75
+finished row 76
+finished row 77
+finished row 78
+finished row 79
+finished row 80
+finished row 81
+finished row 82
+finished row 83
+finished row 84
+finished row 85
+finished row 86
+finished row 87
+finished row 88
+finished row 89
+finished row 90
+finished row 91
+finished row 92
+finished row 93
+finished row 94
+finished row 95
+finished row 96
+finished row 97
+finished row 98
+finished row 99
+finished row 100
+finished row 101
+finished row 102
+finished row 103
+finished row 104
+finished row 105
+finished row 106
+finished row 107
+finished row 108
+finished row 109
+finished row 110
+finished row 111
+finished row 112
+finished row 113
+finished row 114
+finished row 115
+finished row 116
+finished row 117
+finished row 118
+finished row 119
+finished row 120
+finished row 121
+finished row 122
+finished row 123
+finished row 124
+finished row 125
+finished row 126
+finished row 127
+finished row 128
+finished row 129
+finished row 130
+finished row 131
+finished row 132
+finished row 133
+finished row 134
+finished row 135
+finished row 136
+finished row 137
+finished row 138
+finished row 139
+finished row 140
+finished row 141
+finished row 142
+finished row 143
+finished row 144
+finished row 145
+finished row 146
+finished row 147
+finished row 148
+finished row 149
+finished row 150
+finished row 151
+finished row 152
+finished row 153
+finished row 154
+finished row 155
+finished row 156
+finished row 157
+finished row 158
+finished row 159
+finished row 160
+finished row 161
+finished row 162
+finished row 163
+finished row 164
+finished row 165
+finished row 166
+finished row 167
+finished row 168
+finished row 169
+finished row 170
+finished row 171
+finished row 172
+finished row 173
+finished row 174
+finished row 175
+finished row 176
+finished row 177
+finished row 178
+finished row 179
+finished row 180
+finished row 181
+finished row 182
+finished row 183
+finished row 184
+finished row 185
+finished row 186
+finished row 187
+finished row 188
+finished row 189
+finished row 190
+finished row 191
+finished row 192
+finished row 193
+finished row 194
+finished row 195
+finished row 196
+finished row 197
+finished row 198
+finished row 199
+finished row 200
+finished row 201
+finished row 202
+finished row 203
+finished row 204
+finished row 205
+finished row 206
+finished row 207
+finished row 208
+finished row 209
+finished row 210
+finished row 211
+finished row 212
+finished row 213
+finished row 214
+finished row 215
+finished row 216
+finished row 217
+finished row 218
+finished row 219
+finished row 220
+finished row 221
+finished row 222
+finished row 223
+finished row 224
+finished row 225
+finished row 226
+finished row 227
+finished row 228
+finished row 229
+finished row 230
+finished row 231
+finished row 232
+finished row 233
+finished row 234
+finished row 235
+finished row 236
+finished row 237
+finished row 238
+finished row 239
+finished row 240
+finished row 241
+finished row 242
+finished row 243
+finished row 244
+finished row 245
+finished row 246
+finished row 247
+finished row 248
+finished row 249
+finished row 250
+finished row 251
+finished row 252
+finished row 253
+finished row 254
+finished row 255
+finished row 256
+finished row 257
+finished row 258
+finished row 259
+finished row 260
+finished row 261
+finished row 262
+finished row 263
+finished row 264
+finished row 265
+finished row 266
+finished row 267
+finished row 268
+finished row 269
+finished row 270
+finished row 271
+finished row 272
+finished row 273
+finished row 274
+finished row 275
+finished row 276
+finished row 277
+finished row 278
+finished row 279
+finished row 280
+finished row 281
+finished row 282
+finished row 283
+finished row 284
+finished row 285
+finished row 286
+finished row 287
+finished row 288
+finished row 289
+finished row 290
+finished row 291
+finished row 292
+finished row 293
+finished row 294
+finished row 295
+finished row 296
+finished row 297
+finished row 298
+finished row 299
+finished row 300
+finished row 301
+finished row 302
+finished row 303
+finished row 304
+finished row 305
+finished row 306
+finished row 307
+finished row 308
+finished row 309
+finished row 310
+finished row 311
+finished row 312
+finished row 313
+finished row 314
+finished row 315
+finished row 316
+finished row 317
+finished row 318
+finished row 319
+finished row 320
+finished row 321
+finished row 322
+finished row 323
+finished row 324
+finished row 325
+finished row 326
+finished row 327
+finished row 328
+finished row 329
+finished row 330
+finished row 331
+finished row 332
+finished row 333
+finished row 334
+finished row 335
+finished row 336
+finished row 337
+finished row 338
+finished row 339
+finished row 340
+finished row 341
+finished row 342
+finished row 343
+finished row 344
+finished row 345
+finished row 346
+finished row 347
+finished row 348
+finished row 349
+finished row 350
+finished row 351
+finished row 352
+finished row 353
+finished row 354
+finished row 355
+finished row 356
+finished row 357
+finished row 358
+finished row 359
+finished row 360
+finished row 361
+finished row 362
+finished row 363
+finished row 364
+finished row 365
+finished row 366
+finished row 367
+finished row 368
+finished row 369
+finished row 370
+finished row 371
+finished row 372
+finished row 373
+finished row 374
+finished row 375
+finished row 376
+finished row 377
+finished row 378
+finished row 379
+finished row 380
+finished row 381
+finished row 382
+finished row 383
+finished row 384
+finished row 385
+finished row 386
+finished row 387
+finished row 388
+finished row 389
+finished row 390
+finished row 391
+finished row 392
+finished row 393
+finished row 394
+finished row 395
+finished row 396
+finished row 397
+finished row 398
+finished row 399
+finished row 400
+finished row 401
+finished row 402
+finished row 403
+finished row 404
+finished row 405
+finished row 406
+finished row 407
+finished row 408
+finished row 409
+finished row 410
+finished row 411
+finished row 412
+finished row 413
+finished row 414
+finished row 415
+finished row 416
+finished row 417
+finished row 418
+finished row 419
+finished row 420
+finished row 421
+finished row 422
+finished row 423
+finished row 424
+finished row 425
+finished row 426
+finished row 427
+finished row 428
+finished row 429
+finished row 430
+finished row 431
+finished row 432
+finished row 433
+finished row 434
+finished row 435
+finished row 436
+finished row 437
+finished row 438
+finished row 439
+finished row 440
+finished row 441
+finished row 442
+finished row 443
+finished row 444
+finished row 445
+finished row 446
+finished row 447
+finished row 448
+finished row 449
+finished row 450
+finished row 451
+finished row 452
+finished row 453
+finished row 454
+finished row 455
+finished row 456
+finished row 457
+finished row 458
+finished row 459
+finished row 460
+finished row 461
+finished row 462
+finished row 463
+finished row 464
+finished row 465
+finished row 466
+finished row 467
+finished row 468
+finished row 469
+finished row 470
+finished row 471
+finished row 472
+finished row 473
+finished row 474
+finished row 475
+finished row 476
+finished row 477
+finished row 478
+finished row 479
+finished row 480
+finished row 481
+finished row 482
+finished row 483
+finished row 484
+finished row 485
+finished row 486
+finished row 487
+finished row 488
+finished row 489
+finished row 490
+finished row 491
+finished row 492
+finished row 493
+finished row 494
+finished row 495
+finished row 496
+finished row 497
+finished row 498
+finished row 499
+finished row 500
+finished row 501
+finished row 502
+finished row 503
+finished row 504
+finished row 505
+finished row 506
+finished row 507
+finished row 508
+finished row 509
+finished row 510
+finished row 511
+finished row 512
+finished row 513
+finished row 514
+finished row 515
+finished row 516
+finished row 517
+finished row 518
+finished row 519
+finished row 520
+finished row 521
+finished row 522
+finished row 523
+finished row 524
+finished row 525
+finished row 526
+finished row 527
+finished row 528
+finished row 529
+finished row 530
+finished row 531
+finished row 532
+finished row 533
+finished row 534
+finished row 535
+finished row 536
+finished row 537
+finished row 538
+finished row 539
+finished row 540
+finished row 541
+finished row 542
+finished row 543
+finished row 544
+finished row 545
+finished row 546
+finished row 547
+finished row 548
+finished row 549
+finished row 550
+finished row 551
+finished row 552
+finished row 553
+finished row 554
+finished row 555
+finished row 556
+finished row 557
+finished row 558
+finished row 559
+finished row 560
+finished row 561
+finished row 562
+finished row 563
+finished row 564
+finished row 565
+finished row 566
+finished row 567
+finished row 568
+finished row 569
+finished row 570
+finished row 571
+finished row 572
+finished row 573
+finished row 574
+finished row 575
+finished row 576
+finished row 577
+finished row 578
+finished row 579
+finished row 580
+finished row 581
+finished row 582
+finished row 583
+finished row 584
+finished row 585
+finished row 586
+finished row 587
+finished row 588
+finished row 589
+finished row 590
+finished row 591
+finished row 592
+finished row 593
+finished row 594
+finished row 595
+finished row 596
+finished row 597
+finished row 598
+finished row 599
+finished row 600
+finished row 601
+finished row 602
+finished row 603
+finished row 604
+finished row 605
+finished row 606
+finished row 607
+finished row 608
+finished row 609
+finished row 610
+finished row 611
+finished row 612
+finished row 613
+finished row 614
+finished row 615
+finished row 616
+finished row 617
+finished row 618
+finished row 619
+finished row 620
+finished row 621
+finished row 622
+finished row 623
+finished row 624
+finished row 625
+finished row 626
+finished row 627
+finished row 628
+finished row 629
+finished row 630
+finished row 631
+finished row 632
+finished row 633
+finished row 634
+finished row 635
+finished row 636
+finished row 637
+finished row 638
+finished row 639
+finished row 640
+finished row 641
+finished row 642
+finished row 643
+finished row 644
+finished row 645
+finished row 646
+finished row 647
+finished row 648
+finished row 649
+finished row 650
+finished row 651
+finished row 652
+finished row 653
+finished row 654
+finished row 655
+finished row 656
+finished row 657
+finished row 658
+finished row 659
+finished row 660
+finished row 661
+finished row 662
+finished row 663
+finished row 664
+finished row 665
+finished row 666
+finished row 667
+finished row 668
+finished row 669
+finished row 670
+finished row 671
+finished row 672
+finished row 673
+finished row 674
+finished row 675
+finished row 676
+finished row 677
+finished row 678
+finished row 679
+finished row 680
+finished row 681
+finished row 682
+finished row 683
+finished row 684
+finished row 685
+finished row 686
+finished row 687
+finished row 688
+finished row 689
+finished row 690
+finished row 691
+finished row 692
+finished row 693
+5 - 0.0307418
+Cobra (programming language): 0.00012522
+Unix shell: 0.000125727
+Verilog: 0.000127114
+Boo (programming language): 0.000127594
+VHDL: 0.000127715
+Emacs Lisp: 0.000128473
+Maple (software): 0.000129053
+LabVIEW: 0.000132519
+RPL (programming language): 0.00013561
+Erlang (programming language): 0.000136065
+Flavors (programming language): 0.000138938
+Squeak: 0.000141461
+Mathematica: 0.000141719
+TeX: 0.000142752
+Oxygene (programming language): 0.000144758
+Dart (programming language): 0.000144884
+Forth (programming language): 0.000145513
+Processing (programming language): 0.00014868
+BCPL: 0.000152307
+Chapel (programming language): 0.000156576
+WebAssembly: 0.000156669
+Z notation: 0.000159035
+Modula-3: 0.000159382
+Racket (programming language): 0.000160872
+AWK: 0.000161113
+Common Intermediate Language: 0.000163446
+Dylan (programming language): 0.000166301
+HyperTalk: 0.000166529
+Eiffel (programming language): 0.000166997
+Groovy (programming language): 0.000167299
+Visual Basic: 0.0001681
+JScript: 0.000168431
+Simula: 0.00017012
+ActionScript: 0.000171463
+Nim (programming language): 0.00017211
+D (programming language): 0.0001731
+G-code: 0.000176677
+PowerShell: 0.000178692
+Self (programming language): 0.000183011
+Object Pascal: 0.000186474
+Logo (programming language): 0.000189701
+Common Lisp: 0.000191249
+JScript .NET: 0.000192161
+ALGOL 68: 0.000197745
+JASS: 0.000202927
+Tcl: 0.000204475
+F Sharp (programming language): 0.000210084
+Oberon (programming language): 0.000220011
+ML (programming language): 0.000226845
+PL/I: 0.00024053
+Machine code: 0.000246571
+Nial: 0.000259209
+SISAL: 0.000268741
+Modula-2: 0.000279945
+Prolog: 0.000296248
+Clojure: 0.000307039
+ECMAScript: 0.000314737
+ALGOL 60: 0.000316197
+Scheme (programming language): 0.000365312
+Ada (programming language): 0.000372416
+SQL: 0.000384988
+Apache Groovy: 0.000424923
+History of programming languages: 0.000447211
+Elixir (programming language): 0.000449819
+Swift (programming language): 0.000458788
+Timeline of programming languages: 0.000471755
+Kotlin (programming language): 0.000473576
+List of programming languages by type: 0.000476854
+Non-English-based programming languages: 0.000482425
+Shell script: 0.000490576
+Julia (programming language): 0.000518703
+Rust (programming language): 0.000525055
+PHP: 0.00052981
+Visual Basic .NET: 0.000532625
+OCaml: 0.000534152
+TypeScript: 0.000540258
+R (programming language): 0.000558344
+APL (programming language): 0.000558447
+MATLAB: 0.000559172
+Go (programming language): 0.0005695
+Objective-C: 0.000570479
+Lua (programming language): 0.000572989
+Scala (programming language): 0.000615389
+Ruby (programming language): 0.00064604
+Perl: 0.000650059
+COBOL: 0.00065395
+BASIC: 0.000656693
+Haskell (programming language): 0.000681221
+Smalltalk: 0.000747447
+Assembly language: 0.000803971
+JavaScript: 0.000810322
+Fortran: 0.00081719
+C Sharp (programming language): 0.00083273
+Lisp (programming language): 0.000858499
+Pascal (programming language): 0.000895842
+Python (programming language): 0.000896688
+C++: 0.00115237
+Java (programming language): 0.0012115
+C (programming language): 0.00161977
+finished row 0
+finished row 1
+finished row 2
+finished row 3
+finished row 4
+finished row 5
+finished row 6
+finished row 7
+finished row 8
+finished row 9
+finished row 10
+finished row 11
+finished row 12
+finished row 13
+finished row 14
+finished row 15
+finished row 16
+finished row 17
+finished row 18
+finished row 19
+finished row 20
+finished row 21
+finished row 22
+finished row 23
+finished row 24
+finished row 25
+finished row 26
+finished row 27
+finished row 28
+finished row 29
+finished row 30
+finished row 31
+finished row 32
+finished row 33
+finished row 34
+finished row 35
+finished row 36
+finished row 37
+finished row 38
+finished row 39
+finished row 40
+finished row 41
+finished row 42
+finished row 43
+finished row 44
+finished row 45
+finished row 46
+finished row 47
+finished row 48
+finished row 49
+finished row 50
+finished row 51
+finished row 52
+finished row 53
+finished row 54
+finished row 55
+finished row 56
+finished row 57
+finished row 58
+finished row 59
+finished row 60
+finished row 61
+finished row 62
+finished row 63
+finished row 64
+finished row 65
+finished row 66
+finished row 67
+finished row 68
+finished row 69
+finished row 70
+finished row 71
+finished row 72
+finished row 73
+finished row 74
+finished row 75
+finished row 76
+finished row 77
+finished row 78
+finished row 79
+finished row 80
+finished row 81
+finished row 82
+finished row 83
+finished row 84
+finished row 85
+finished row 86
+finished row 87
+finished row 88
+finished row 89
+finished row 90
+finished row 91
+finished row 92
+finished row 93
+finished row 94
+finished row 95
+finished row 96
+finished row 97
+finished row 98
+finished row 99
+finished row 100
+finished row 101
+finished row 102
+finished row 103
+finished row 104
+finished row 105
+finished row 106
+finished row 107
+finished row 108
+finished row 109
+finished row 110
+finished row 111
+finished row 112
+finished row 113
+finished row 114
+finished row 115
+finished row 116
+finished row 117
+finished row 118
+finished row 119
+finished row 120
+finished row 121
+finished row 122
+finished row 123
+finished row 124
+finished row 125
+finished row 126
+finished row 127
+finished row 128
+finished row 129
+finished row 130
+finished row 131
+finished row 132
+finished row 133
+finished row 134
+finished row 135
+finished row 136
+finished row 137
+finished row 138
+finished row 139
+finished row 140
+finished row 141
+finished row 142
+finished row 143
+finished row 144
+finished row 145
+finished row 146
+finished row 147
+finished row 148
+finished row 149
+finished row 150
+finished row 151
+finished row 152
+finished row 153
+finished row 154
+finished row 155
+finished row 156
+finished row 157
+finished row 158
+finished row 159
+finished row 160
+finished row 161
+finished row 162
+finished row 163
+finished row 164
+finished row 165
+finished row 166
+finished row 167
+finished row 168
+finished row 169
+finished row 170
+finished row 171
+finished row 172
+finished row 173
+finished row 174
+finished row 175
+finished row 176
+finished row 177
+finished row 178
+finished row 179
+finished row 180
+finished row 181
+finished row 182
+finished row 183
+finished row 184
+finished row 185
+finished row 186
+finished row 187
+finished row 188
+finished row 189
+finished row 190
+finished row 191
+finished row 192
+finished row 193
+finished row 194
+finished row 195
+finished row 196
+finished row 197
+finished row 198
+finished row 199
+finished row 200
+finished row 201
+finished row 202
+finished row 203
+finished row 204
+finished row 205
+finished row 206
+finished row 207
+finished row 208
+finished row 209
+finished row 210
+finished row 211
+finished row 212
+finished row 213
+finished row 214
+finished row 215
+finished row 216
+finished row 217
+finished row 218
+finished row 219
+finished row 220
+finished row 221
+finished row 222
+finished row 223
+finished row 224
+finished row 225
+finished row 226
+finished row 227
+finished row 228
+finished row 229
+finished row 230
+finished row 231
+finished row 232
+finished row 233
+finished row 234
+finished row 235
+finished row 236
+finished row 237
+finished row 238
+finished row 239
+finished row 240
+finished row 241
+finished row 242
+finished row 243
+finished row 244
+finished row 245
+finished row 246
+finished row 247
+finished row 248
+finished row 249
+finished row 250
+finished row 251
+finished row 252
+finished row 253
+finished row 254
+finished row 255
+finished row 256
+finished row 257
+finished row 258
+finished row 259
+finished row 260
+finished row 261
+finished row 262
+finished row 263
+finished row 264
+finished row 265
+finished row 266
+finished row 267
+finished row 268
+finished row 269
+finished row 270
+finished row 271
+finished row 272
+finished row 273
+finished row 274
+finished row 275
+finished row 276
+finished row 277
+finished row 278
+finished row 279
+finished row 280
+finished row 281
+finished row 282
+finished row 283
+finished row 284
+finished row 285
+finished row 286
+finished row 287
+finished row 288
+finished row 289
+finished row 290
+finished row 291
+finished row 292
+finished row 293
+finished row 294
+finished row 295
+finished row 296
+finished row 297
+finished row 298
+finished row 299
+finished row 300
+finished row 301
+finished row 302
+finished row 303
+finished row 304
+finished row 305
+finished row 306
+finished row 307
+finished row 308
+finished row 309
+finished row 310
+finished row 311
+finished row 312
+finished row 313
+finished row 314
+finished row 315
+finished row 316
+finished row 317
+finished row 318
+finished row 319
+finished row 320
+finished row 321
+finished row 322
+finished row 323
+finished row 324
+finished row 325
+finished row 326
+finished row 327
+finished row 328
+finished row 329
+finished row 330
+finished row 331
+finished row 332
+finished row 333
+finished row 334
+finished row 335
+finished row 336
+finished row 337
+finished row 338
+finished row 339
+finished row 340
+finished row 341
+finished row 342
+finished row 343
+finished row 344
+finished row 345
+finished row 346
+finished row 347
+finished row 348
+finished row 349
+finished row 350
+finished row 351
+finished row 352
+finished row 353
+finished row 354
+finished row 355
+finished row 356
+finished row 357
+finished row 358
+finished row 359
+finished row 360
+finished row 361
+finished row 362
+finished row 363
+finished row 364
+finished row 365
+finished row 366
+finished row 367
+finished row 368
+finished row 369
+finished row 370
+finished row 371
+finished row 372
+finished row 373
+finished row 374
+finished row 375
+finished row 376
+finished row 377
+finished row 378
+finished row 379
+finished row 380
+finished row 381
+finished row 382
+finished row 383
+finished row 384
+finished row 385
+finished row 386
+finished row 387
+finished row 388
+finished row 389
+finished row 390
+finished row 391
+finished row 392
+finished row 393
+finished row 394
+finished row 395
+finished row 396
+finished row 397
+finished row 398
+finished row 399
+finished row 400
+finished row 401
+finished row 402
+finished row 403
+finished row 404
+finished row 405
+finished row 406
+finished row 407
+finished row 408
+finished row 409
+finished row 410
+finished row 411
+finished row 412
+finished row 413
+finished row 414
+finished row 415
+finished row 416
+finished row 417
+finished row 418
+finished row 419
+finished row 420
+finished row 421
+finished row 422
+finished row 423
+finished row 424
+finished row 425
+finished row 426
+finished row 427
+finished row 428
+finished row 429
+finished row 430
+finished row 431
+finished row 432
+finished row 433
+finished row 434
+finished row 435
+finished row 436
+finished row 437
+finished row 438
+finished row 439
+finished row 440
+finished row 441
+finished row 442
+finished row 443
+finished row 444
+finished row 445
+finished row 446
+finished row 447
+finished row 448
+finished row 449
+finished row 450
+finished row 451
+finished row 452
+finished row 453
+finished row 454
+finished row 455
+finished row 456
+finished row 457
+finished row 458
+finished row 459
+finished row 460
+finished row 461
+finished row 462
+finished row 463
+finished row 464
+finished row 465
+finished row 466
+finished row 467
+finished row 468
+finished row 469
+finished row 470
+finished row 471
+finished row 472
+finished row 473
+finished row 474
+finished row 475
+finished row 476
+finished row 477
+finished row 478
+finished row 479
+finished row 480
+finished row 481
+finished row 482
+finished row 483
+finished row 484
+finished row 485
+finished row 486
+finished row 487
+finished row 488
+finished row 489
+finished row 490
+finished row 491
+finished row 492
+finished row 493
+finished row 494
+finished row 495
+finished row 496
+finished row 497
+finished row 498
+finished row 499
+finished row 500
+finished row 501
+finished row 502
+finished row 503
+finished row 504
+finished row 505
+finished row 506
+finished row 507
+finished row 508
+finished row 509
+finished row 510
+finished row 511
+finished row 512
+finished row 513
+finished row 514
+finished row 515
+finished row 516
+finished row 517
+finished row 518
+finished row 519
+finished row 520
+finished row 521
+finished row 522
+finished row 523
+finished row 524
+finished row 525
+finished row 526
+finished row 527
+finished row 528
+finished row 529
+finished row 530
+finished row 531
+finished row 532
+finished row 533
+finished row 534
+finished row 535
+finished row 536
+finished row 537
+finished row 538
+finished row 539
+finished row 540
+finished row 541
+finished row 542
+finished row 543
+finished row 544
+finished row 545
+finished row 546
+finished row 547
+finished row 548
+finished row 549
+finished row 550
+finished row 551
+finished row 552
+finished row 553
+finished row 554
+finished row 555
+finished row 556
+finished row 557
+finished row 558
+finished row 559
+finished row 560
+finished row 561
+finished row 562
+finished row 563
+finished row 564
+finished row 565
+finished row 566
+finished row 567
+finished row 568
+finished row 569
+finished row 570
+finished row 571
+finished row 572
+finished row 573
+finished row 574
+finished row 575
+finished row 576
+finished row 577
+finished row 578
+finished row 579
+finished row 580
+finished row 581
+finished row 582
+finished row 583
+finished row 584
+finished row 585
+finished row 586
+finished row 587
+finished row 588
+finished row 589
+finished row 590
+finished row 591
+finished row 592
+finished row 593
+finished row 594
+finished row 595
+finished row 596
+finished row 597
+finished row 598
+finished row 599
+finished row 600
+finished row 601
+finished row 602
+finished row 603
+finished row 604
+finished row 605
+finished row 606
+finished row 607
+finished row 608
+finished row 609
+finished row 610
+finished row 611
+finished row 612
+finished row 613
+finished row 614
+finished row 615
+finished row 616
+finished row 617
+finished row 618
+finished row 619
+finished row 620
+finished row 621
+finished row 622
+finished row 623
+finished row 624
+finished row 625
+finished row 626
+finished row 627
+finished row 628
+finished row 629
+finished row 630
+finished row 631
+finished row 632
+finished row 633
+finished row 634
+finished row 635
+finished row 636
+finished row 637
+finished row 638
+finished row 639
+finished row 640
+finished row 641
+finished row 642
+finished row 643
+finished row 644
+finished row 645
+finished row 646
+finished row 647
+finished row 648
+finished row 649
+finished row 650
+finished row 651
+finished row 652
+finished row 653
+finished row 654
+finished row 655
+finished row 656
+finished row 657
+finished row 658
+finished row 659
+finished row 660
+finished row 661
+finished row 662
+finished row 663
+finished row 664
+finished row 665
+finished row 666
+finished row 667
+finished row 668
+finished row 669
+finished row 670
+finished row 671
+finished row 672
+finished row 673
+finished row 674
+finished row 675
+finished row 676
+finished row 677
+finished row 678
+finished row 679
+finished row 680
+finished row 681
+finished row 682
+finished row 683
+finished row 684
+finished row 685
+finished row 686
+finished row 687
+finished row 688
+finished row 689
+finished row 690
+finished row 691
+finished row 692
+finished row 693
+6 - 0.0126149
+Cobra (programming language): 5.13887e-005
+Unix shell: 5.15974e-005
+Verilog: 5.21692e-005
+Boo (programming language): 5.23632e-005
+VHDL: 5.24148e-005
+Emacs Lisp: 5.27239e-005
+Maple (software): 5.29633e-005
+LabVIEW: 5.43856e-005
+RPL (programming language): 5.56527e-005
+Erlang (programming language): 5.58402e-005
+Flavors (programming language): 5.70191e-005
+Squeak: 5.8055e-005
+Mathematica: 5.81607e-005
+TeX: 5.85865e-005
+Oxygene (programming language): 5.94071e-005
+Dart (programming language): 5.94593e-005
+Forth (programming language): 5.9718e-005
+Processing (programming language): 6.10173e-005
+BCPL: 6.2507e-005
+Chapel (programming language): 6.42576e-005
+WebAssembly: 6.42957e-005
+Z notation: 6.52665e-005
+Modula-3: 6.54093e-005
+Racket (programming language): 6.60203e-005
+AWK: 6.61205e-005
+Common Intermediate Language: 6.70766e-005
+Dylan (programming language): 6.8248e-005
+HyperTalk: 6.83449e-005
+Eiffel (programming language): 6.85343e-005
+Groovy (programming language): 6.86581e-005
+Visual Basic: 6.8989e-005
+JScript: 6.91231e-005
+Simula: 6.9816e-005
+ActionScript: 7.03674e-005
+Nim (programming language): 7.06325e-005
+D (programming language): 7.10389e-005
+G-code: 7.28714e-005
+PowerShell: 7.33337e-005
+Self (programming language): 7.51067e-005
+Object Pascal: 7.65275e-005
+Logo (programming language): 7.78519e-005
+Common Lisp: 7.84866e-005
+JScript .NET: 7.88605e-005
+ALGOL 68: 8.11544e-005
+JASS: 8.34899e-005
+Tcl: 8.39158e-005
+F Sharp (programming language): 8.62161e-005
+Oberon (programming language): 9.02904e-005
+ML (programming language): 9.30969e-005
+PL/I: 9.87151e-005
+Machine code: 0.000101192
+Nial: 0.000107006
+SISAL: 0.000111218
+Modula-2: 0.000114887
+Prolog: 0.000121579
+Clojure: 0.000126005
+ECMAScript: 0.000129165
+ALGOL 60: 0.000129766
+Scheme (programming language): 0.000149921
+Ada (programming language): 0.000152838
+SQL: 0.000158
+Apache Groovy: 0.000174383
+History of programming languages: 0.00018353
+Elixir (programming language): 0.0001846
+Swift (programming language): 0.000188281
+Timeline of programming languages: 0.000193603
+Kotlin (programming language): 0.00019435
+List of programming languages by type: 0.000195695
+Non-English-based programming languages: 0.000197981
+Shell script: 0.000201327
+Julia (programming language): 0.000212869
+Rust (programming language): 0.000215476
+PHP: 0.000217429
+Visual Basic .NET: 0.000218583
+OCaml: 0.000219212
+TypeScript: 0.000221715
+R (programming language): 0.000229138
+APL (programming language): 0.000229181
+MATLAB: 0.000229479
+Go (programming language): 0.000233716
+Objective-C: 0.000234118
+Lua (programming language): 0.000235149
+Scala (programming language): 0.000252548
+Ruby (programming language): 0.000265128
+Perl: 0.000266779
+COBOL: 0.000268376
+BASIC: 0.000269504
+Haskell (programming language): 0.00027957
+Smalltalk: 0.000306747
+Assembly language: 0.000329947
+JavaScript: 0.000332549
+Fortran: 0.000335371
+C Sharp (programming language): 0.000341744
+Lisp (programming language): 0.000352321
+Pascal (programming language): 0.000367649
+Python (programming language): 0.000367995
+C++: 0.000472929
+Java (programming language): 0.000497198
+C (programming language): 0.000664756
+finished row 0
+finished row 1
+finished row 2
+finished row 3
+finished row 4
+finished row 5
+finished row 6
+finished row 7
+finished row 8
+finished row 9
+finished row 10
+finished row 11
+finished row 12
+finished row 13
+finished row 14
+finished row 15
+finished row 16
+finished row 17
+finished row 18
+finished row 19
+finished row 20
+finished row 21
+finished row 22
+finished row 23
+finished row 24
+finished row 25
+finished row 26
+finished row 27
+finished row 28
+finished row 29
+finished row 30
+finished row 31
+finished row 32
+finished row 33
+finished row 34
+finished row 35
+finished row 36
+finished row 37
+finished row 38
+finished row 39
+finished row 40
+finished row 41
+finished row 42
+finished row 43
+finished row 44
+finished row 45
+finished row 46
+finished row 47
+finished row 48
+finished row 49
+finished row 50
+finished row 51
+finished row 52
+finished row 53
+finished row 54
+finished row 55
+finished row 56
+finished row 57
+finished row 58
+finished row 59
+finished row 60
+finished row 61
+finished row 62
+finished row 63
+finished row 64
+finished row 65
+finished row 66
+finished row 67
+finished row 68
+finished row 69
+finished row 70
+finished row 71
+finished row 72
+finished row 73
+finished row 74
+finished row 75
+finished row 76
+finished row 77
+finished row 78
+finished row 79
+finished row 80
+finished row 81
+finished row 82
+finished row 83
+finished row 84
+finished row 85
+finished row 86
+finished row 87
+finished row 88
+finished row 89
+finished row 90
+finished row 91
+finished row 92
+finished row 93
+finished row 94
+finished row 95
+finished row 96
+finished row 97
+finished row 98
+finished row 99
+finished row 100
+finished row 101
+finished row 102
+finished row 103
+finished row 104
+finished row 105
+finished row 106
+finished row 107
+finished row 108
+finished row 109
+finished row 110
+finished row 111
+finished row 112
+finished row 113
+finished row 114
+finished row 115
+finished row 116
+finished row 117
+finished row 118
+finished row 119
+finished row 120
+finished row 121
+finished row 122
+finished row 123
+finished row 124
+finished row 125
+finished row 126
+finished row 127
+finished row 128
+finished row 129
+finished row 130
+finished row 131
+finished row 132
+finished row 133
+finished row 134
+finished row 135
+finished row 136
+finished row 137
+finished row 138
+finished row 139
+finished row 140
+finished row 141
+finished row 142
+finished row 143
+finished row 144
+finished row 145
+finished row 146
+finished row 147
+finished row 148
+finished row 149
+finished row 150
+finished row 151
+finished row 152
+finished row 153
+finished row 154
+finished row 155
+finished row 156
+finished row 157
+finished row 158
+finished row 159
+finished row 160
+finished row 161
+finished row 162
+finished row 163
+finished row 164
+finished row 165
+finished row 166
+finished row 167
+finished row 168
+finished row 169
+finished row 170
+finished row 171
+finished row 172
+finished row 173
+finished row 174
+finished row 175
+finished row 176
+finished row 177
+finished row 178
+finished row 179
+finished row 180
+finished row 181
+finished row 182
+finished row 183
+finished row 184
+finished row 185
+finished row 186
+finished row 187
+finished row 188
+finished row 189
+finished row 190
+finished row 191
+finished row 192
+finished row 193
+finished row 194
+finished row 195
+finished row 196
+finished row 197
+finished row 198
+finished row 199
+finished row 200
+finished row 201
+finished row 202
+finished row 203
+finished row 204
+finished row 205
+finished row 206
+finished row 207
+finished row 208
+finished row 209
+finished row 210
+finished row 211
+finished row 212
+finished row 213
+finished row 214
+finished row 215
+finished row 216
+finished row 217
+finished row 218
+finished row 219
+finished row 220
+finished row 221
+finished row 222
+finished row 223
+finished row 224
+finished row 225
+finished row 226
+finished row 227
+finished row 228
+finished row 229
+finished row 230
+finished row 231
+finished row 232
+finished row 233
+finished row 234
+finished row 235
+finished row 236
+finished row 237
+finished row 238
+finished row 239
+finished row 240
+finished row 241
+finished row 242
+finished row 243
+finished row 244
+finished row 245
+finished row 246
+finished row 247
+finished row 248
+finished row 249
+finished row 250
+finished row 251
+finished row 252
+finished row 253
+finished row 254
+finished row 255
+finished row 256
+finished row 257
+finished row 258
+finished row 259
+finished row 260
+finished row 261
+finished row 262
+finished row 263
+finished row 264
+finished row 265
+finished row 266
+finished row 267
+finished row 268
+finished row 269
+finished row 270
+finished row 271
+finished row 272
+finished row 273
+finished row 274
+finished row 275
+finished row 276
+finished row 277
+finished row 278
+finished row 279
+finished row 280
+finished row 281
+finished row 282
+finished row 283
+finished row 284
+finished row 285
+finished row 286
+finished row 287
+finished row 288
+finished row 289
+finished row 290
+finished row 291
+finished row 292
+finished row 293
+finished row 294
+finished row 295
+finished row 296
+finished row 297
+finished row 298
+finished row 299
+finished row 300
+finished row 301
+finished row 302
+finished row 303
+finished row 304
+finished row 305
+finished row 306
+finished row 307
+finished row 308
+finished row 309
+finished row 310
+finished row 311
+finished row 312
+finished row 313
+finished row 314
+finished row 315
+finished row 316
+finished row 317
+finished row 318
+finished row 319
+finished row 320
+finished row 321
+finished row 322
+finished row 323
+finished row 324
+finished row 325
+finished row 326
+finished row 327
+finished row 328
+finished row 329
+finished row 330
+finished row 331
+finished row 332
+finished row 333
+finished row 334
+finished row 335
+finished row 336
+finished row 337
+finished row 338
+finished row 339
+finished row 340
+finished row 341
+finished row 342
+finished row 343
+finished row 344
+finished row 345
+finished row 346
+finished row 347
+finished row 348
+finished row 349
+finished row 350
+finished row 351
+finished row 352
+finished row 353
+finished row 354
+finished row 355
+finished row 356
+finished row 357
+finished row 358
+finished row 359
+finished row 360
+finished row 361
+finished row 362
+finished row 363
+finished row 364
+finished row 365
+finished row 366
+finished row 367
+finished row 368
+finished row 369
+finished row 370
+finished row 371
+finished row 372
+finished row 373
+finished row 374
+finished row 375
+finished row 376
+finished row 377
+finished row 378
+finished row 379
+finished row 380
+finished row 381
+finished row 382
+finished row 383
+finished row 384
+finished row 385
+finished row 386
+finished row 387
+finished row 388
+finished row 389
+finished row 390
+finished row 391
+finished row 392
+finished row 393
+finished row 394
+finished row 395
+finished row 396
+finished row 397
+finished row 398
+finished row 399
+finished row 400
+finished row 401
+finished row 402
+finished row 403
+finished row 404
+finished row 405
+finished row 406
+finished row 407
+finished row 408
+finished row 409
+finished row 410
+finished row 411
+finished row 412
+finished row 413
+finished row 414
+finished row 415
+finished row 416
+finished row 417
+finished row 418
+finished row 419
+finished row 420
+finished row 421
+finished row 422
+finished row 423
+finished row 424
+finished row 425
+finished row 426
+finished row 427
+finished row 428
+finished row 429
+finished row 430
+finished row 431
+finished row 432
+finished row 433
+finished row 434
+finished row 435
+finished row 436
+finished row 437
+finished row 438
+finished row 439
+finished row 440
+finished row 441
+finished row 442
+finished row 443
+finished row 444
+finished row 445
+finished row 446
+finished row 447
+finished row 448
+finished row 449
+finished row 450
+finished row 451
+finished row 452
+finished row 453
+finished row 454
+finished row 455
+finished row 456
+finished row 457
+finished row 458
+finished row 459
+finished row 460
+finished row 461
+finished row 462
+finished row 463
+finished row 464
+finished row 465
+finished row 466
+finished row 467
+finished row 468
+finished row 469
+finished row 470
+finished row 471
+finished row 472
+finished row 473
+finished row 474
+finished row 475
+finished row 476
+finished row 477
+finished row 478
+finished row 479
+finished row 480
+finished row 481
+finished row 482
+finished row 483
+finished row 484
+finished row 485
+finished row 486
+finished row 487
+finished row 488
+finished row 489
+finished row 490
+finished row 491
+finished row 492
+finished row 493
+finished row 494
+finished row 495
+finished row 496
+finished row 497
+finished row 498
+finished row 499
+finished row 500
+finished row 501
+finished row 502
+finished row 503
+finished row 504
+finished row 505
+finished row 506
+finished row 507
+finished row 508
+finished row 509
+finished row 510
+finished row 511
+finished row 512
+finished row 513
+finished row 514
+finished row 515
+finished row 516
+finished row 517
+finished row 518
+finished row 519
+finished row 520
+finished row 521
+finished row 522
+finished row 523
+finished row 524
+finished row 525
+finished row 526
+finished row 527
+finished row 528
+finished row 529
+finished row 530
+finished row 531
+finished row 532
+finished row 533
+finished row 534
+finished row 535
+finished row 536
+finished row 537
+finished row 538
+finished row 539
+finished row 540
+finished row 541
+finished row 542
+finished row 543
+finished row 544
+finished row 545
+finished row 546
+finished row 547
+finished row 548
+finished row 549
+finished row 550
+finished row 551
+finished row 552
+finished row 553
+finished row 554
+finished row 555
+finished row 556
+finished row 557
+finished row 558
+finished row 559
+finished row 560
+finished row 561
+finished row 562
+finished row 563
+finished row 564
+finished row 565
+finished row 566
+finished row 567
+finished row 568
+finished row 569
+finished row 570
+finished row 571
+finished row 572
+finished row 573
+finished row 574
+finished row 575
+finished row 576
+finished row 577
+finished row 578
+finished row 579
+finished row 580
+finished row 581
+finished row 582
+finished row 583
+finished row 584
+finished row 585
+finished row 586
+finished row 587
+finished row 588
+finished row 589
+finished row 590
+finished row 591
+finished row 592
+finished row 593
+finished row 594
+finished row 595
+finished row 596
+finished row 597
+finished row 598
+finished row 599
+finished row 600
+finished row 601
+finished row 602
+finished row 603
+finished row 604
+finished row 605
+finished row 606
+finished row 607
+finished row 608
+finished row 609
+finished row 610
+finished row 611
+finished row 612
+finished row 613
+finished row 614
+finished row 615
+finished row 616
+finished row 617
+finished row 618
+finished row 619
+finished row 620
+finished row 621
+finished row 622
+finished row 623
+finished row 624
+finished row 625
+finished row 626
+finished row 627
+finished row 628
+finished row 629
+finished row 630
+finished row 631
+finished row 632
+finished row 633
+finished row 634
+finished row 635
+finished row 636
+finished row 637
+finished row 638
+finished row 639
+finished row 640
+finished row 641
+finished row 642
+finished row 643
+finished row 644
+finished row 645
+finished row 646
+finished row 647
+finished row 648
+finished row 649
+finished row 650
+finished row 651
+finished row 652
+finished row 653
+finished row 654
+finished row 655
+finished row 656
+finished row 657
+finished row 658
+finished row 659
+finished row 660
+finished row 661
+finished row 662
+finished row 663
+finished row 664
+finished row 665
+finished row 666
+finished row 667
+finished row 668
+finished row 669
+finished row 670
+finished row 671
+finished row 672
+finished row 673
+finished row 674
+finished row 675
+finished row 676
+finished row 677
+finished row 678
+finished row 679
+finished row 680
+finished row 681
+finished row 682
+finished row 683
+finished row 684
+finished row 685
+finished row 686
+finished row 687
+finished row 688
+finished row 689
+finished row 690
+finished row 691
+finished row 692
+finished row 693
+7 - 0.00212516
+Cobra (programming language): 8.65717e-006
+Unix shell: 8.69234e-006
+Verilog: 8.78867e-006
+Boo (programming language): 8.82134e-006
+VHDL: 8.83003e-006
+Emacs Lisp: 8.8821e-006
+Maple (software): 8.92244e-006
+LabVIEW: 9.16205e-006
+RPL (programming language): 9.37551e-006
+Erlang (programming language): 9.40709e-006
+Flavors (programming language): 9.60569e-006
+Squeak: 9.78021e-006
+Mathematica: 9.79801e-006
+TeX: 9.86975e-006
+Oxygene (programming language): 1.0008e-005
+Dart (programming language): 1.00168e-005
+Forth (programming language): 1.00604e-005
+Processing (programming language): 1.02792e-005
+BCPL: 1.05302e-005
+Chapel (programming language): 1.08251e-005
+WebAssembly: 1.08316e-005
+Z notation: 1.09951e-005
+Modula-3: 1.10191e-005
+Racket (programming language): 1.11221e-005
+AWK: 1.1139e-005
+Common Intermediate Language: 1.13e-005
+Dylan (programming language): 1.14974e-005
+HyperTalk: 1.15137e-005
+Eiffel (programming language): 1.15456e-005
+Groovy (programming language): 1.15665e-005
+Visual Basic: 1.16222e-005
+JScript: 1.16448e-005
+Simula: 1.17615e-005
+ActionScript: 1.18544e-005
+Nim (programming language): 1.18991e-005
+D (programming language): 1.19675e-005
+G-code: 1.22771e-005
+PowerShell: 1.23541e-005
+Self (programming language): 1.26528e-005
+Object Pascal: 1.28922e-005
+Logo (programming language): 1.31153e-005
+Common Lisp: 1.32222e-005
+JScript .NET: 1.32852e-005
+ALGOL 68: 1.36717e-005
+JASS: 1.40656e-005
+Tcl: 1.41368e-005
+F Sharp (programming language): 1.45244e-005
+Oberon (programming language): 1.52107e-005
+ML (programming language): 1.56835e-005
+PL/I: 1.663e-005
+Machine code: 1.70473e-005
+Nial: 1.80282e-005
+SISAL: 1.87383e-005
+Modula-2: 1.93544e-005
+Prolog: 2.04817e-005
+Clojure: 2.12274e-005
+ECMAScript: 2.17598e-005
+ALGOL 60: 2.1861e-005
+Scheme (programming language): 2.52564e-005
+Ada (programming language): 2.57478e-005
+SQL: 2.66174e-005
+Apache Groovy: 2.93773e-005
+History of programming languages: 3.09182e-005
+Elixir (programming language): 3.10985e-005
+Swift (programming language): 3.17187e-005
+Timeline of programming languages: 3.26152e-005
+Kotlin (programming language): 3.2741e-005
+List of programming languages by type: 3.29677e-005
+Non-English-based programming languages: 3.33528e-005
+Shell script: 3.39164e-005
+Julia (programming language): 3.58609e-005
+Rust (programming language): 3.63001e-005
+PHP: 3.66291e-005
+Visual Basic .NET: 3.68234e-005
+OCaml: 3.69294e-005
+TypeScript: 3.73511e-005
+R (programming language): 3.86016e-005
+APL (programming language): 3.86088e-005
+MATLAB: 3.8659e-005
+Go (programming language): 3.93729e-005
+Objective-C: 3.94406e-005
+Lua (programming language): 3.96142e-005
+Scala (programming language): 4.25454e-005
+Ruby (programming language): 4.46646e-005
+Perl: 4.49428e-005
+COBOL: 4.52119e-005
+BASIC: 4.54019e-005
+Haskell (programming language): 4.70976e-005
+Smalltalk: 5.1676e-005
+Assembly language: 5.55845e-005
+JavaScript: 5.60227e-005
+Fortran: 5.64982e-005
+C Sharp (programming language): 5.75718e-005
+Lisp (programming language): 5.93535e-005
+Pascal (programming language): 6.19358e-005
+Python (programming language): 6.19941e-005
+C++: 7.96718e-005
+Java (programming language): 8.37603e-005
+C (programming language): 0.000111988
+finished row 0
+finished row 1
+finished row 2
+finished row 3
+finished row 4
+finished row 5
+finished row 6
+finished row 7
+finished row 8
+finished row 9
+finished row 10
+finished row 11
+finished row 12
+finished row 13
+finished row 14
+finished row 15
+finished row 16
+finished row 17
+finished row 18
+finished row 19
+finished row 20
+finished row 21
+finished row 22
+finished row 23
+finished row 24
+finished row 25
+finished row 26
+finished row 27
+finished row 28
+finished row 29
+finished row 30
+finished row 31
+finished row 32
+finished row 33
+finished row 34
+finished row 35
+finished row 36
+finished row 37
+finished row 38
+finished row 39
+finished row 40
+finished row 41
+finished row 42
+finished row 43
+finished row 44
+finished row 45
+finished row 46
+finished row 47
+finished row 48
+finished row 49
+finished row 50
+finished row 51
+finished row 52
+finished row 53
+finished row 54
+finished row 55
+finished row 56
+finished row 57
+finished row 58
+finished row 59
+finished row 60
+finished row 61
+finished row 62
+finished row 63
+finished row 64
+finished row 65
+finished row 66
+finished row 67
+finished row 68
+finished row 69
+finished row 70
+finished row 71
+finished row 72
+finished row 73
+finished row 74
+finished row 75
+finished row 76
+finished row 77
+finished row 78
+finished row 79
+finished row 80
+finished row 81
+finished row 82
+finished row 83
+finished row 84
+finished row 85
+finished row 86
+finished row 87
+finished row 88
+finished row 89
+finished row 90
+finished row 91
+finished row 92
+finished row 93
+finished row 94
+finished row 95
+finished row 96
+finished row 97
+finished row 98
+finished row 99
+finished row 100
+finished row 101
+finished row 102
+finished row 103
+finished row 104
+finished row 105
+finished row 106
+finished row 107
+finished row 108
+finished row 109
+finished row 110
+finished row 111
+finished row 112
+finished row 113
+finished row 114
+finished row 115
+finished row 116
+finished row 117
+finished row 118
+finished row 119
+finished row 120
+finished row 121
+finished row 122
+finished row 123
+finished row 124
+finished row 125
+finished row 126
+finished row 127
+finished row 128
+finished row 129
+finished row 130
+finished row 131
+finished row 132
+finished row 133
+finished row 134
+finished row 135
+finished row 136
+finished row 137
+finished row 138
+finished row 139
+finished row 140
+finished row 141
+finished row 142
+finished row 143
+finished row 144
+finished row 145
+finished row 146
+finished row 147
+finished row 148
+finished row 149
+finished row 150
+finished row 151
+finished row 152
+finished row 153
+finished row 154
+finished row 155
+finished row 156
+finished row 157
+finished row 158
+finished row 159
+finished row 160
+finished row 161
+finished row 162
+finished row 163
+finished row 164
+finished row 165
+finished row 166
+finished row 167
+finished row 168
+finished row 169
+finished row 170
+finished row 171
+finished row 172
+finished row 173
+finished row 174
+finished row 175
+finished row 176
+finished row 177
+finished row 178
+finished row 179
+finished row 180
+finished row 181
+finished row 182
+finished row 183
+finished row 184
+finished row 185
+finished row 186
+finished row 187
+finished row 188
+finished row 189
+finished row 190
+finished row 191
+finished row 192
+finished row 193
+finished row 194
+finished row 195
+finished row 196
+finished row 197
+finished row 198
+finished row 199
+finished row 200
+finished row 201
+finished row 202
+finished row 203
+finished row 204
+finished row 205
+finished row 206
+finished row 207
+finished row 208
+finished row 209
+finished row 210
+finished row 211
+finished row 212
+finished row 213
+finished row 214
+finished row 215
+finished row 216
+finished row 217
+finished row 218
+finished row 219
+finished row 220
+finished row 221
+finished row 222
+finished row 223
+finished row 224
+finished row 225
+finished row 226
+finished row 227
+finished row 228
+finished row 229
+finished row 230
+finished row 231
+finished row 232
+finished row 233
+finished row 234
+finished row 235
+finished row 236
+finished row 237
+finished row 238
+finished row 239
+finished row 240
+finished row 241
+finished row 242
+finished row 243
+finished row 244
+finished row 245
+finished row 246
+finished row 247
+finished row 248
+finished row 249
+finished row 250
+finished row 251
+finished row 252
+finished row 253
+finished row 254
+finished row 255
+finished row 256
+finished row 257
+finished row 258
+finished row 259
+finished row 260
+finished row 261
+finished row 262
+finished row 263
+finished row 264
+finished row 265
+finished row 266
+finished row 267
+finished row 268
+finished row 269
+finished row 270
+finished row 271
+finished row 272
+finished row 273
+finished row 274
+finished row 275
+finished row 276
+finished row 277
+finished row 278
+finished row 279
+finished row 280
+finished row 281
+finished row 282
+finished row 283
+finished row 284
+finished row 285
+finished row 286
+finished row 287
+finished row 288
+finished row 289
+finished row 290
+finished row 291
+finished row 292
+finished row 293
+finished row 294
+finished row 295
+finished row 296
+finished row 297
+finished row 298
+finished row 299
+finished row 300
+finished row 301
+finished row 302
+finished row 303
+finished row 304
+finished row 305
+finished row 306
+finished row 307
+finished row 308
+finished row 309
+finished row 310
+finished row 311
+finished row 312
+finished row 313
+finished row 314
+finished row 315
+finished row 316
+finished row 317
+finished row 318
+finished row 319
+finished row 320
+finished row 321
+finished row 322
+finished row 323
+finished row 324
+finished row 325
+finished row 326
+finished row 327
+finished row 328
+finished row 329
+finished row 330
+finished row 331
+finished row 332
+finished row 333
+finished row 334
+finished row 335
+finished row 336
+finished row 337
+finished row 338
+finished row 339
+finished row 340
+finished row 341
+finished row 342
+finished row 343
+finished row 344
+finished row 345
+finished row 346
+finished row 347
+finished row 348
+finished row 349
+finished row 350
+finished row 351
+finished row 352
+finished row 353
+finished row 354
+finished row 355
+finished row 356
+finished row 357
+finished row 358
+finished row 359
+finished row 360
+finished row 361
+finished row 362
+finished row 363
+finished row 364
+finished row 365
+finished row 366
+finished row 367
+finished row 368
+finished row 369
+finished row 370
+finished row 371
+finished row 372
+finished row 373
+finished row 374
+finished row 375
+finished row 376
+finished row 377
+finished row 378
+finished row 379
+finished row 380
+finished row 381
+finished row 382
+finished row 383
+finished row 384
+finished row 385
+finished row 386
+finished row 387
+finished row 388
+finished row 389
+finished row 390
+finished row 391
+finished row 392
+finished row 393
+finished row 394
+finished row 395
+finished row 396
+finished row 397
+finished row 398
+finished row 399
+finished row 400
+finished row 401
+finished row 402
+finished row 403
+finished row 404
+finished row 405
+finished row 406
+finished row 407
+finished row 408
+finished row 409
+finished row 410
+finished row 411
+finished row 412
+finished row 413
+finished row 414
+finished row 415
+finished row 416
+finished row 417
+finished row 418
+finished row 419
+finished row 420
+finished row 421
+finished row 422
+finished row 423
+finished row 424
+finished row 425
+finished row 426
+finished row 427
+finished row 428
+finished row 429
+finished row 430
+finished row 431
+finished row 432
+finished row 433
+finished row 434
+finished row 435
+finished row 436
+finished row 437
+finished row 438
+finished row 439
+finished row 440
+finished row 441
+finished row 442
+finished row 443
+finished row 444
+finished row 445
+finished row 446
+finished row 447
+finished row 448
+finished row 449
+finished row 450
+finished row 451
+finished row 452
+finished row 453
+finished row 454
+finished row 455
+finished row 456
+finished row 457
+finished row 458
+finished row 459
+finished row 460
+finished row 461
+finished row 462
+finished row 463
+finished row 464
+finished row 465
+finished row 466
+finished row 467
+finished row 468
+finished row 469
+finished row 470
+finished row 471
+finished row 472
+finished row 473
+finished row 474
+finished row 475
+finished row 476
+finished row 477
+finished row 478
+finished row 479
+finished row 480
+finished row 481
+finished row 482
+finished row 483
+finished row 484
+finished row 485
+finished row 486
+finished row 487
+finished row 488
+finished row 489
+finished row 490
+finished row 491
+finished row 492
+finished row 493
+finished row 494
+finished row 495
+finished row 496
+finished row 497
+finished row 498
+finished row 499
+finished row 500
+finished row 501
+finished row 502
+finished row 503
+finished row 504
+finished row 505
+finished row 506
+finished row 507
+finished row 508
+finished row 509
+finished row 510
+finished row 511
+finished row 512
+finished row 513
+finished row 514
+finished row 515
+finished row 516
+finished row 517
+finished row 518
+finished row 519
+finished row 520
+finished row 521
+finished row 522
+finished row 523
+finished row 524
+finished row 525
+finished row 526
+finished row 527
+finished row 528
+finished row 529
+finished row 530
+finished row 531
+finished row 532
+finished row 533
+finished row 534
+finished row 535
+finished row 536
+finished row 537
+finished row 538
+finished row 539
+finished row 540
+finished row 541
+finished row 542
+finished row 543
+finished row 544
+finished row 545
+finished row 546
+finished row 547
+finished row 548
+finished row 549
+finished row 550
+finished row 551
+finished row 552
+finished row 553
+finished row 554
+finished row 555
+finished row 556
+finished row 557
+finished row 558
+finished row 559
+finished row 560
+finished row 561
+finished row 562
+finished row 563
+finished row 564
+finished row 565
+finished row 566
+finished row 567
+finished row 568
+finished row 569
+finished row 570
+finished row 571
+finished row 572
+finished row 573
+finished row 574
+finished row 575
+finished row 576
+finished row 577
+finished row 578
+finished row 579
+finished row 580
+finished row 581
+finished row 582
+finished row 583
+finished row 584
+finished row 585
+finished row 586
+finished row 587
+finished row 588
+finished row 589
+finished row 590
+finished row 591
+finished row 592
+finished row 593
+finished row 594
+finished row 595
+finished row 596
+finished row 597
+finished row 598
+finished row 599
+finished row 600
+finished row 601
+finished row 602
+finished row 603
+finished row 604
+finished row 605
+finished row 606
+finished row 607
+finished row 608
+finished row 609
+finished row 610
+finished row 611
+finished row 612
+finished row 613
+finished row 614
+finished row 615
+finished row 616
+finished row 617
+finished row 618
+finished row 619
+finished row 620
+finished row 621
+finished row 622
+finished row 623
+finished row 624
+finished row 625
+finished row 626
+finished row 627
+finished row 628
+finished row 629
+finished row 630
+finished row 631
+finished row 632
+finished row 633
+finished row 634
+finished row 635
+finished row 636
+finished row 637
+finished row 638
+finished row 639
+finished row 640
+finished row 641
+finished row 642
+finished row 643
+finished row 644
+finished row 645
+finished row 646
+finished row 647
+finished row 648
+finished row 649
+finished row 650
+finished row 651
+finished row 652
+finished row 653
+finished row 654
+finished row 655
+finished row 656
+finished row 657
+finished row 658
+finished row 659
+finished row 660
+finished row 661
+finished row 662
+finished row 663
+finished row 664
+finished row 665
+finished row 666
+finished row 667
+finished row 668
+finished row 669
+finished row 670
+finished row 671
+finished row 672
+finished row 673
+finished row 674
+finished row 675
+finished row 676
+finished row 677
+finished row 678
+finished row 679
+finished row 680
+finished row 681
+finished row 682
+finished row 683
+finished row 684
+finished row 685
+finished row 686
+finished row 687
+finished row 688
+finished row 689
+finished row 690
+finished row 691
+finished row 692
+finished row 693
+8 - 6.0313e-005
+Cobra (programming language): 2.45694e-007
+Unix shell: 2.46692e-007
+Verilog: 2.49426e-007
+Boo (programming language): 2.50353e-007
+VHDL: 2.506e-007
+Emacs Lisp: 2.52078e-007
+Maple (software): 2.53223e-007
+LabVIEW: 2.60023e-007
+RPL (programming language): 2.66081e-007
+Erlang (programming language): 2.66977e-007
+Flavors (programming language): 2.72613e-007
+Squeak: 2.77566e-007
+Mathematica: 2.78072e-007
+TeX: 2.80107e-007
+Oxygene (programming language): 2.84031e-007
+Dart (programming language): 2.8428e-007
+Forth (programming language): 2.85517e-007
+Processing (programming language): 2.91729e-007
+BCPL: 2.98852e-007
+Chapel (programming language): 3.07221e-007
+WebAssembly: 3.07404e-007
+Z notation: 3.12045e-007
+Modula-3: 3.12728e-007
+Racket (programming language): 3.15649e-007
+AWK: 3.16128e-007
+Common Intermediate Language: 3.20699e-007
+Dylan (programming language): 3.263e-007
+HyperTalk: 3.26763e-007
+Eiffel (programming language): 3.27669e-007
+Groovy (programming language): 3.28261e-007
+Visual Basic: 3.29843e-007
+JScript: 3.30484e-007
+Simula: 3.33797e-007
+ActionScript: 3.36433e-007
+Nim (programming language): 3.377e-007
+D (programming language): 3.39644e-007
+G-code: 3.48428e-007
+PowerShell: 3.50615e-007
+Self (programming language): 3.59092e-007
+Object Pascal: 3.65885e-007
+Logo (programming language): 3.72217e-007
+Common Lisp: 3.75251e-007
+JScript .NET: 3.77039e-007
+ALGOL 68: 3.88007e-007
+JASS: 3.99186e-007
+Tcl: 4.01209e-007
+F Sharp (programming language): 4.12207e-007
+Oberon (programming language): 4.31687e-007
+ML (programming language): 4.45105e-007
+PL/I: 4.71966e-007
+Machine code: 4.83809e-007
+Nial: 5.11647e-007
+SISAL: 5.31802e-007
+Modula-2: 5.49287e-007
+Prolog: 5.8128e-007
+Clojure: 6.02441e-007
+ECMAScript: 6.17551e-007
+ALGOL 60: 6.20423e-007
+Scheme (programming language): 7.16788e-007
+Ada (programming language): 7.30732e-007
+SQL: 7.55413e-007
+Apache Groovy: 8.33741e-007
+History of programming languages: 8.77472e-007
+Elixir (programming language): 8.82589e-007
+Swift (programming language): 9.0019e-007
+Timeline of programming languages: 9.25633e-007
+Kotlin (programming language): 9.29203e-007
+List of programming languages by type: 9.35636e-007
+Non-English-based programming languages: 9.46567e-007
+Shell script: 9.62562e-007
+Julia (programming language): 1.01775e-006
+Rust (programming language): 1.03021e-006
+PHP: 1.03955e-006
+Visual Basic .NET: 1.04506e-006
+OCaml: 1.04807e-006
+TypeScript: 1.06004e-006
+R (programming language): 1.09553e-006
+APL (programming language): 1.09573e-006
+MATLAB: 1.09716e-006
+Go (programming language): 1.11742e-006
+Objective-C: 1.11934e-006
+Lua (programming language): 1.12427e-006
+Scala (programming language): 1.20746e-006
+Ruby (programming language): 1.2676e-006
+Perl: 1.27549e-006
+COBOL: 1.28313e-006
+BASIC: 1.28852e-006
+Haskell (programming language): 1.33665e-006
+Smalltalk: 1.46659e-006
+Assembly language: 1.57751e-006
+JavaScript: 1.58995e-006
+Fortran: 1.60344e-006
+C Sharp (programming language): 1.63391e-006
+Lisp (programming language): 1.68448e-006
+Pascal (programming language): 1.75776e-006
+Python (programming language): 1.75942e-006
+C++: 2.26112e-006
+Java (programming language): 2.37715e-006
+C (programming language): 3.17826e-006
+finished iteration!!

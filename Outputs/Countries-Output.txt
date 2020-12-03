@@ -1,0 +1,947 @@
+Made the Markov Matrix!!
+Error 0: 0.136273
+Doing matrix multiplication! This takes time. Your multiplication will produce 622 rows.
+We will print one . for each 50 rows calculated and you can expect 12 .s
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+Error 1: 0.0231002
+1 - Kosovo     0.0134188
+2 - United Nations     0.010252
+3 - United States     0.00924584
+4 - France     0.00824339
+5 - Indonesia     0.00743477
+6 - Russia     0.00730546
+7 - Serbia     0.00714935
+8 - China     0.00673818
+9 - India     0.00649502
+10 - Member states of the United Nations     0.00641462
+11 - European Union     0.00639722
+12 - Pakistan     0.00629206
+13 - Taiwan     0.00600042
+14 - Israel     0.00591975
+15 - International recognition of Kosovo     0.00582134
+16 - Turkey     0.00580666
+17 - Japan     0.00573279
+18 - Canada     0.00563727
+19 - Germany     0.00560762
+20 - Abkhazia     0.00552984
+21 - 2008 Kosovo declaration of independence     0.00536406
+22 - Cyprus     0.00532832
+23 - Malaysia     0.00522332
+24 - Saudi Arabia     0.00514098
+25 - Thailand     0.00509176
+26 - Northern Cyprus     0.00501355
+27 - Argentina     0.0048704
+28 - Australia     0.00486458
+29 - South Korea     0.00485777
+30 - State of Palestine     0.00484143
+31 - Egypt     0.00482109
+32 - JSTOR     0.00477558
+33 - United Nations Security Council     0.00464785
+34 - Portugal     0.0046427
+35 - Georgia (country)     0.00456658
+36 - South Ossetia     0.00454558
+37 - Mexico     0.00452486
+38 - Brazil     0.00451666
+39 - Italy     0.00450496
+40 - Belgium     0.0044803
+41 - United Arab Emirates     0.00446134
+42 - Syria     0.00440994
+43 - Morocco     0.00439172
+44 - New Zealand     0.00437868
+45 - Lebanon     0.00435022
+46 - International Court of Justice     0.00427969
+47 - Jordan     0.00422521
+48 - Kazakhstan     0.00422487
+49 - Azerbaijan     0.00418212
+50 - Akrotiri and Dhekelia     0.00403348
+51 - Armenia     0.00403172
+52 - Norway     0.00402469
+53 - Bulgaria     0.00394825
+54 - Republic of Artsakh     0.0039205
+55 - Vietnam     0.00390801
+56 - Bahrain     0.00385419
+57 - Afghanistan     0.00384804
+58 - Croatia     0.00383168
+59 - Poland     0.00379431
+60 - Spain     0.00377028
+61 - World Trade Organization     0.00370759
+62 - Iran     0.00370399
+63 - Finland     0.00365875
+64 - Qatar     0.00364118
+65 - Kuwait     0.0036192
+66 - Philippines     0.00360817
+67 - Austria     0.00356326
+68 - Slovenia     0.00356256
+69 - Switzerland     0.00353961
+70 - Algeria     0.00353897
+71 - Singapore     0.00351326
+72 - Turkmenistan     0.00350459
+73 - South Africa     0.00349064
+74 - Uzbekistan     0.00349024
+75 - Tajikistan     0.00348377
+76 - Kyrgyzstan     0.00346796
+77 - Iraq     0.00340204
+78 - Romania     0.00337628
+79 - Republic of China     0.00333507
+80 - Malta     0.00330316
+81 - Albania     0.00328941
+82 - East Timor     0.00325779
+83 - League of Nations     0.00324002
+84 - Brunei     0.0032231
+85 - Bosnia and Herzegovina     0.00322017
+86 - Cambodia     0.00321705
+87 - Bangladesh     0.00320516
+88 - Ukraine     0.00320415
+89 - Laos     0.00319431
+90 - Tunisia     0.00318845
+91 - Moldova     0.00313448
+92 - Ivory Coast     0.00311902
+93 - North Korea     0.00311332
+94 - Gabon     0.00311075
+95 - Transnistria     0.0030914
+96 - Slovakia     0.00308374
+97 - Mongolia     0.00308244
+98 - Luxembourg     0.00302269
+99 - The Gambia     0.00302112
+100 - Estonia     0.00301161
+Doing matrix multiplication! This takes time. Your multiplication will produce 622 rows.
+We will print one . for each 50 rows calculated and you can expect 12 .s
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+Error 2: 0.0025923
+1 - United States     0.0077919
+2 - United Nations     0.00713293
+3 - France     0.00666931
+4 - OCLC     0.00643647
+5 - China     0.00544597
+6 - India     0.00544035
+7 - Russia     0.00538807
+8 - Spain     0.00537388
+9 - European Union     0.0051856
+10 - Indonesia     0.0051165
+11 - Canada     0.00499858
+12 - Japan     0.00495681
+13 - Australia     0.00492972
+14 - Turkey     0.00490818
+15 - Cyprus     0.00490783
+16 - Italy     0.00471069
+17 - Portugal     0.00471006
+18 - Pakistan     0.00468218
+19 - Israel     0.00453835
+20 - Egypt     0.00434857
+21 - South Korea     0.0043238
+22 - Germany     0.00430457
+23 - Morocco     0.00427059
+24 - Taiwan     0.00425672
+25 - Armenia     0.00416446
+26 - Thailand     0.00415096
+27 - Akrotiri and Dhekelia     0.00411107
+28 - Argentina     0.0041025
+29 - New Zealand     0.00401099
+30 - Bosnia and Herzegovina     0.00400994
+31 - Kazakhstan     0.00399869
+32 - Azerbaijan     0.00392165
+33 - Georgia (country)     0.00386855
+34 - JSTOR     0.00385089
+35 - Philippines     0.00382864
+36 - Malaysia     0.00382356
+37 - Singapore     0.0038231
+38 - Lebanon     0.00377024
+39 - Iran     0.0037524
+40 - Syria     0.00374373
+41 - Northern Cyprus     0.00368915
+42 - South Africa     0.0035897
+43 - Mexico     0.00351976
+44 - Gibraltar     0.00351527
+45 - Isle of Man     0.00346648
+46 - Hong Kong     0.00344215
+47 - Saudi Arabia     0.00343208
+48 - Guyana     0.00339215
+49 - Abkhazia     0.00338247
+50 - Algeria     0.00333904
+51 - Iraq     0.00333456
+52 - Afghanistan     0.00331969
+53 - Malta     0.00331191
+54 - Mauritius     0.00330814
+55 - Switzerland     0.00330656
+56 - South Ossetia     0.0033053
+57 - Jersey     0.00330188
+58 - State of Palestine     0.00327377
+59 - Kosovo     0.00325387
+60 - Oman     0.00325185
+61 - British Indian Ocean Territory     0.00324257
+62 - American Samoa     0.00323175
+63 - Nigeria     0.00320616
+64 - Dominican Republic     0.00320335
+65 - Transnistria     0.00319056
+66 - Jordan     0.00318232
+67 - Qatar     0.00317553
+68 - Venezuela     0.00317034
+69 - United Arab Emirates     0.00315319
+70 - Brazil     0.00315269
+71 - Republic of Artsakh     0.00315083
+72 - Brunei     0.00314998
+73 - Tunisia     0.00313088
+74 - Republic of Ireland     0.00310934
+75 - Bangladesh     0.00308327
+76 - Albania     0.00307815
+77 - Sri Lanka     0.00307511
+78 - Sudan     0.00307195
+79 - Vietnam     0.00306849
+80 - Dominica     0.00306688
+81 - Ghana     0.00306448
+82 - Cameroon     0.00305767
+83 - Cocos (Keeling) Islands     0.00305669
+84 - Serbia     0.00305607
+85 - Belgium     0.00304881
+86 - Yemen     0.00302486
+87 - Mozambique     0.00300806
+88 - Bahrain     0.00300513
+89 - Chile     0.0029934
+90 - Puerto Rico     0.00296263
+91 - Austria     0.00295171
+92 - Greece     0.00293501
+93 - Saint Lucia     0.00292396
+94 - Christmas Island     0.00292297
+95 - Poland     0.00292209
+96 - Monaco     0.0029216
+97 - Seychelles     0.00289992
+98 - Vanuatu     0.0028898
+99 - Sierra Leone     0.00288884
+100 - Jamaica     0.00288394
+Doing matrix multiplication! This takes time. Your multiplication will produce 622 rows.
+We will print one . for each 50 rows calculated and you can expect 12 .s
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+Error 3: 0.000651342
+1 - United States     0.00761338
+2 - United Nations     0.00669456
+3 - France     0.00654001
+4 - OCLC     0.00626263
+5 - Spain     0.00529783
+6 - India     0.00518837
+7 - Canada     0.00508329
+8 - China     0.00495507
+9 - Australia     0.00494401
+10 - European Union     0.00486666
+11 - Indonesia     0.00479111
+12 - Russia     0.00473204
+13 - Japan     0.00459501
+14 - Cyprus     0.00455813
+15 - Portugal     0.00446431
+16 - Italy     0.0044505
+17 - Turkey     0.00440856
+18 - Pakistan     0.00435162
+19 - New Zealand     0.00411586
+20 - Morocco     0.00404224
+21 - Germany     0.00401461
+22 - Egypt     0.00395574
+23 - Argentina     0.00395198
+24 - South Korea     0.0039512
+25 - Israel     0.00394089
+26 - Akrotiri and Dhekelia     0.00390239
+27 - American Samoa     0.00389984
+28 - Thailand     0.00381857
+29 - Taiwan     0.0037461
+30 - JSTOR     0.00370588
+31 - Singapore     0.00367092
+32 - Philippines     0.00364688
+33 - Malaysia     0.0036221
+34 - Armenia     0.00361087
+35 - Bosnia and Herzegovina     0.00357314
+36 - Guyana     0.00352554
+37 - Puerto Rico     0.00349139
+38 - Mexico     0.00348299
+39 - Gibraltar     0.00348242
+40 - South Africa     0.00347601
+41 - Kazakhstan     0.00346063
+42 - Syria     0.00344338
+43 - Venezuela     0.00341161
+44 - Iran     0.00340955
+45 - Lebanon     0.00340698
+46 - Georgia (country)     0.00340409
+47 - Mauritius     0.00339714
+48 - Isle of Man     0.00339418
+49 - Azerbaijan     0.00336054
+50 - Dominican Republic     0.00331661
+51 - British Indian Ocean Territory     0.00326938
+52 - Jersey     0.00325605
+53 - Falkland Islands     0.00325511
+54 - Dominica     0.00324972
+55 - Chile     0.00321992
+56 - Jamaica     0.00321241
+57 - Malta     0.00319124
+58 - Northern Cyprus     0.00317985
+59 - Hong Kong     0.00316697
+60 - Guam     0.00316581
+61 - Nigeria     0.00316241
+62 - Bermuda     0.00315951
+63 - Algeria     0.0031144
+64 - Papua New Guinea     0.00308269
+65 - Saint Lucia     0.00307029
+66 - Saudi Arabia     0.00306804
+67 - Ghana     0.0030352
+68 - Sudan     0.00301804
+69 - Vanuatu     0.00301644
+70 - Iraq     0.00300724
+71 - Cocos (Keeling) Islands     0.00300707
+72 - Oman     0.00299969
+73 - Cameroon     0.00298049
+74 - Switzerland     0.0029579
+75 - Seychelles     0.00295538
+76 - Brunei     0.0029438
+77 - Anguilla     0.0029422
+78 - Brazil     0.00293583
+79 - Afghanistan     0.00291199
+80 - Sri Lanka     0.00291184
+81 - Republic of Ireland     0.00290273
+82 - Mozambique     0.00289205
+83 - Tunisia     0.00289204
+84 - Christmas Island     0.00287441
+85 - Bangladesh     0.00286439
+86 - Sierra Leone     0.0028596
+87 - Qatar     0.00285289
+88 - Antigua and Barbuda     0.00284818
+89 - Abkhazia     0.00284506
+90 - State of Palestine     0.00283568
+91 - United Arab Emirates     0.00282672
+92 - Montserrat     0.00282344
+93 - Trinidad and Tobago     0.00281331
+94 - Jordan     0.00281284
+95 - Nicaragua     0.00281076
+96 - Kenya     0.00280115
+97 - South Ossetia     0.00279156
+98 - Cuba     0.00278612
+99 - Yemen     0.00277022
+100 - Cayman Islands     0.00276491
+Doing matrix multiplication! This takes time. Your multiplication will produce 622 rows.
+We will print one . for each 50 rows calculated and you can expect 12 .s
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+Error 4: 0.000601923
+1 - United States     0.00726809
+2 - United Nations     0.00636478
+3 - France     0.00622688
+4 - OCLC     0.00597216
+5 - Spain     0.0050434
+6 - India     0.00493164
+7 - Canada     0.00485559
+8 - Australia     0.00472216
+9 - China     0.00469556
+10 - European Union     0.00461908
+11 - Indonesia     0.00457291
+12 - Russia     0.00446053
+13 - Japan     0.00436846
+14 - Cyprus     0.00430875
+15 - Portugal     0.0042374
+16 - Italy     0.00422531
+17 - Turkey     0.00416373
+18 - Pakistan     0.00411914
+19 - New Zealand     0.00394034
+20 - Morocco     0.0038263
+21 - American Samoa     0.0038235
+22 - Germany     0.00381938
+23 - Argentina     0.00375807
+24 - South Korea     0.0037437
+25 - Egypt     0.00373113
+26 - Israel     0.00370864
+27 - Akrotiri and Dhekelia     0.00369432
+28 - Thailand     0.00361695
+29 - Taiwan     0.00353564
+30 - JSTOR     0.00352462
+31 - Singapore     0.00348031
+32 - Philippines     0.00346711
+33 - Malaysia     0.00343698
+34 - Puerto Rico     0.00339909
+35 - Armenia     0.00339546
+36 - Bosnia and Herzegovina     0.0033623
+37 - Guyana     0.00335855
+38 - Mexico     0.00332687
+39 - Gibraltar     0.00330698
+40 - South Africa     0.00329741
+41 - Venezuela     0.00327777
+42 - Syria     0.00326774
+43 - Kazakhstan     0.00324912
+44 - Mauritius     0.00323512
+45 - Isle of Man     0.00322125
+46 - Lebanon     0.00321507
+47 - Iran     0.00321416
+48 - Georgia (country)     0.0032051
+49 - Dominican Republic     0.00317472
+50 - Azerbaijan     0.00315527
+51 - Falkland Islands     0.00312487
+52 - British Indian Ocean Territory     0.00310752
+53 - Dominica     0.00310682
+54 - Chile     0.00309703
+55 - Jersey     0.00309122
+56 - Jamaica     0.00309006
+57 - Guam     0.00307595
+58 - Bermuda     0.0030385
+59 - Malta     0.00302897
+60 - Nigeria     0.00300344
+61 - Hong Kong     0.00299016
+62 - Northern Cyprus     0.00298628
+63 - Papua New Guinea     0.00295924
+64 - Algeria     0.00294242
+65 - Saint Lucia     0.00293425
+66 - Saudi Arabia     0.00289284
+67 - Vanuatu     0.00288585
+68 - Ghana     0.00288179
+69 - Sudan     0.002859
+70 - Cocos (Keeling) Islands     0.00285513
+71 - Iraq     0.00283535
+72 - Oman     0.0028287
+73 - Anguilla     0.00282644
+74 - Cameroon     0.00282356
+75 - Seychelles     0.00280921
+76 - Switzerland     0.00279628
+77 - Brazil     0.00278712
+78 - Brunei     0.00278559
+79 - Sri Lanka     0.00275766
+80 - Republic of Ireland     0.00274584
+81 - Afghanistan     0.0027388
+82 - Antigua and Barbuda     0.0027371
+83 - Mozambique     0.00273656
+84 - Christmas Island     0.00272906
+85 - Tunisia     0.0027289
+86 - Trinidad and Tobago     0.0027156
+87 - Montserrat     0.00271137
+88 - Sierra Leone     0.00271085
+89 - Nicaragua     0.00270884
+90 - Bangladesh     0.00270627
+91 - Qatar     0.00268781
+92 - Cuba     0.00268214
+93 - Abkhazia     0.00267286
+94 - State of Palestine     0.00266775
+95 - United Arab Emirates     0.00266279
+96 - Kenya     0.00266247
+97 - Cayman Islands     0.0026533
+98 - Jordan     0.00264927
+99 - South Ossetia     0.00262151
+100 - Uganda     0.0026117
+Doing matrix multiplication! This takes time. Your multiplication will produce 622 rows.
+We will print one . for each 50 rows calculated and you can expect 12 .s
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+Error 5: 0.000545621
+1 - United States     0.00658914
+2 - United Nations     0.00576999
+3 - France     0.00564493
+4 - OCLC     0.00541427
+5 - Spain     0.00457212
+6 - India     0.00447064
+7 - Canada     0.00440192
+8 - Australia     0.00428092
+9 - China     0.00425665
+10 - European Union     0.00418726
+11 - Indonesia     0.00414564
+12 - Russia     0.00404342
+13 - Japan     0.00396032
+14 - Cyprus     0.00390575
+15 - Portugal     0.00384158
+16 - Italy     0.00383038
+17 - Turkey     0.00377432
+18 - Pakistan     0.00373394
+19 - New Zealand     0.00357222
+20 - Morocco     0.00346855
+21 - American Samoa     0.00346725
+22 - Germany     0.00346261
+23 - Argentina     0.00340691
+24 - South Korea     0.00339366
+25 - Egypt     0.00338213
+26 - Israel     0.0033617
+27 - Akrotiri and Dhekelia     0.00334881
+28 - Thailand     0.0032788
+29 - Taiwan     0.00320499
+30 - JSTOR     0.00319521
+31 - Singapore     0.00315486
+32 - Philippines     0.00314303
+33 - Malaysia     0.00311562
+34 - Puerto Rico     0.00308211
+35 - Armenia     0.00307779
+36 - Bosnia and Herzegovina     0.00304775
+37 - Guyana     0.00304459
+38 - Mexico     0.00301615
+39 - Gibraltar     0.00299779
+40 - South Africa     0.00298906
+41 - Venezuela     0.00297184
+42 - Syria     0.00296269
+43 - Kazakhstan     0.00294509
+44 - Mauritius     0.0029327
+45 - Isle of Man     0.00292006
+46 - Lebanon     0.00291439
+47 - Iran     0.00291347
+48 - Georgia (country)     0.00290527
+49 - Dominican Republic     0.00287822
+50 - Azerbaijan     0.00286004
+51 - Falkland Islands     0.0028329
+52 - British Indian Ocean Territory     0.00281695
+53 - Dominica     0.00281651
+54 - Chile     0.00280795
+55 - Jersey     0.0028022
+56 - Jamaica     0.0028015
+57 - Guam     0.00278904
+58 - Bermuda     0.00275466
+59 - Malta     0.0027458
+60 - Nigeria     0.00272263
+61 - Hong Kong     0.00271047
+62 - Northern Cyprus     0.00270685
+63 - Papua New Guinea     0.0026828
+64 - Algeria     0.00266721
+65 - Saint Lucia     0.00266006
+66 - Saudi Arabia     0.00262224
+67 - Vanuatu     0.00261618
+68 - Ghana     0.00261232
+69 - Sudan     0.00259162
+70 - Cocos (Keeling) Islands     0.00258816
+71 - Iraq     0.00257013
+72 - Oman     0.00256407
+73 - Anguilla     0.00256237
+74 - Cameroon     0.00255947
+75 - Seychelles     0.00254654
+76 - Switzerland     0.0025349
+77 - Brazil     0.00252662
+78 - Brunei     0.00252513
+79 - Sri Lanka     0.00249977
+80 - Republic of Ireland     0.00248906
+81 - Afghanistan     0.00248256
+82 - Antigua and Barbuda     0.00248148
+83 - Mozambique     0.00248059
+84 - Christmas Island     0.00247388
+85 - Tunisia     0.00247363
+86 - Trinidad and Tobago     0.00246222
+87 - Montserrat     0.00245806
+88 - Sierra Leone     0.00245731
+89 - Nicaragua     0.00245609
+90 - Bangladesh     0.00245312
+91 - Qatar     0.00243636
+92 - Cuba     0.00243174
+93 - Abkhazia     0.00242279
+94 - State of Palestine     0.00241815
+95 - United Arab Emirates     0.00241366
+96 - Kenya     0.00241352
+97 - Cayman Islands     0.0024054
+98 - Jordan     0.00240143
+99 - South Ossetia     0.00237624
+100 - Uganda     0.00236747
+Doing matrix multiplication! This takes time. Your multiplication will produce 622 rows.
+We will print one . for each 50 rows calculated and you can expect 12 .s
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+Error 6: 0.000448437
+1 - United States     0.0054155
+2 - United Nations     0.00474226
+3 - France     0.00463947
+4 - OCLC     0.00444989
+5 - Spain     0.00375775
+6 - India     0.00367435
+7 - Canada     0.00361787
+8 - Australia     0.00351842
+9 - China     0.00349847
+10 - European Union     0.00344144
+11 - Indonesia     0.00340723
+12 - Russia     0.00332322
+13 - Japan     0.00325492
+14 - Cyprus     0.00321007
+15 - Portugal     0.00315733
+16 - Italy     0.00314813
+17 - Turkey     0.00310205
+18 - Pakistan     0.00306886
+19 - New Zealand     0.00293595
+20 - Morocco     0.00285074
+21 - American Samoa     0.00284967
+22 - Germany     0.00284586
+23 - Argentina     0.00280008
+24 - South Korea     0.00278919
+25 - Egypt     0.00277972
+26 - Israel     0.00276293
+27 - Akrotiri and Dhekelia     0.00275233
+28 - Thailand     0.00269479
+29 - Taiwan     0.00263412
+30 - JSTOR     0.00262609
+31 - Singapore     0.00259293
+32 - Philippines     0.00258321
+33 - Malaysia     0.00256068
+34 - Puerto Rico     0.00253313
+35 - Armenia     0.00252958
+36 - Bosnia and Herzegovina     0.00250489
+37 - Guyana     0.00250229
+38 - Mexico     0.00247892
+39 - Gibraltar     0.00246384
+40 - South Africa     0.00245666
+41 - Venezuela     0.00244251
+42 - Syria     0.00243499
+43 - Kazakhstan     0.00242052
+44 - Mauritius     0.00241034
+45 - Isle of Man     0.00239995
+46 - Lebanon     0.00239529
+47 - Iran     0.00239453
+48 - Georgia (country)     0.00238779
+49 - Dominican Republic     0.00236556
+50 - Azerbaijan     0.00235061
+51 - Falkland Islands     0.00232832
+52 - British Indian Ocean Territory     0.0023152
+53 - Dominica     0.00231484
+54 - Chile     0.00230781
+55 - Jersey     0.00230308
+56 - Jamaica     0.0023025
+57 - Guam     0.00229226
+58 - Bermuda     0.00226401
+59 - Malta     0.00225673
+60 - Nigeria     0.00223768
+61 - Hong Kong     0.00222769
+62 - Northern Cyprus     0.00222471
+63 - Papua New Guinea     0.00220495
+64 - Algeria     0.00219214
+65 - Saint Lucia     0.00218626
+66 - Saudi Arabia     0.00215517
+67 - Vanuatu     0.00215019
+68 - Ghana     0.00214702
+69 - Sudan     0.00213001
+70 - Cocos (Keeling) Islands     0.00212716
+71 - Iraq     0.00211234
+72 - Oman     0.00210737
+73 - Anguilla     0.00210597
+74 - Cameroon     0.00210359
+75 - Seychelles     0.00209296
+76 - Switzerland     0.00208339
+77 - Brazil     0.00207659
+78 - Brunei     0.00207536
+79 - Sri Lanka     0.00205452
+80 - Republic of Ireland     0.00204572
+81 - Afghanistan     0.00204038
+82 - Antigua and Barbuda     0.00203949
+83 - Mozambique     0.00203876
+84 - Christmas Island     0.00203324
+85 - Tunisia     0.00203303
+86 - Trinidad and Tobago     0.00202365
+87 - Montserrat     0.00202024
+88 - Sierra Leone     0.00201962
+89 - Nicaragua     0.00201862
+90 - Bangladesh     0.00201618
+91 - Qatar     0.0020024
+92 - Cuba     0.00199861
+93 - Abkhazia     0.00199125
+94 - State of Palestine     0.00198744
+95 - United Arab Emirates     0.00198375
+96 - Kenya     0.00198363
+97 - Cayman Islands     0.00197696
+98 - Jordan     0.00197369
+99 - South Ossetia     0.00195299
+100 - Uganda     0.00194578
+Doing matrix multiplication! This takes time. Your multiplication will produce 622 rows.
+We will print one . for each 50 rows calculated and you can expect 12 .s
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+Error 7: 0.000302915
+1 - United States     0.00365813
+2 - United Nations     0.00320336
+3 - France     0.00313393
+4 - OCLC     0.00300587
+5 - Spain     0.00253833
+6 - India     0.00248199
+7 - Canada     0.00244384
+8 - Australia     0.00237666
+9 - China     0.00236319
+10 - European Union     0.00232467
+11 - Indonesia     0.00230156
+12 - Russia     0.00224481
+13 - Japan     0.00219867
+14 - Cyprus     0.00216838
+15 - Portugal     0.00213275
+16 - Italy     0.00212653
+17 - Turkey     0.00209541
+18 - Pakistan     0.00207299
+19 - New Zealand     0.00198321
+20 - Morocco     0.00192565
+21 - American Samoa     0.00192493
+22 - Germany     0.00192236
+23 - Argentina     0.00189143
+24 - South Korea     0.00188408
+25 - Egypt     0.00187768
+26 - Israel     0.00186633
+27 - Akrotiri and Dhekelia     0.00185918
+28 - Thailand     0.00182031
+29 - Taiwan     0.00177933
+30 - JSTOR     0.0017739
+31 - Singapore     0.0017515
+32 - Philippines     0.00174493
+33 - Malaysia     0.00172972
+34 - Puerto Rico     0.00171111
+35 - Armenia     0.00170871
+36 - Bosnia and Herzegovina     0.00169204
+37 - Guyana     0.00169028
+38 - Mexico     0.00167449
+39 - Gibraltar     0.0016643
+40 - South Africa     0.00165945
+41 - Venezuela     0.00164989
+42 - Syria     0.00164482
+43 - Kazakhstan     0.00163504
+44 - Mauritius     0.00162817
+45 - Isle of Man     0.00162115
+46 - Lebanon     0.001618
+47 - Iran     0.00161749
+48 - Georgia (country)     0.00161293
+49 - Dominican Republic     0.00159792
+50 - Azerbaijan     0.00158782
+51 - Falkland Islands     0.00157276
+52 - British Indian Ocean Territory     0.0015639
+53 - Dominica     0.00156365
+54 - Chile     0.00155891
+55 - Jersey     0.00155571
+56 - Jamaica     0.00155532
+57 - Guam     0.0015484
+58 - Bermuda     0.00152932
+59 - Malta     0.0015244
+60 - Nigeria     0.00151154
+61 - Hong Kong     0.00150479
+62 - Northern Cyprus     0.00150278
+63 - Papua New Guinea     0.00148942
+64 - Algeria     0.00148077
+65 - Saint Lucia     0.0014768
+66 - Saudi Arabia     0.0014558
+67 - Vanuatu     0.00145244
+68 - Ghana     0.0014503
+69 - Sudan     0.00143881
+70 - Cocos (Keeling) Islands     0.00143688
+71 - Iraq     0.00142687
+72 - Oman     0.00142351
+73 - Anguilla     0.00142257
+74 - Cameroon     0.00142096
+75 - Seychelles     0.00141378
+76 - Switzerland     0.00140731
+77 - Brazil     0.00140272
+78 - Brunei     0.00140189
+79 - Sri Lanka     0.00138781
+80 - Republic of Ireland     0.00138187
+81 - Afghanistan     0.00137826
+82 - Antigua and Barbuda     0.00137766
+83 - Mozambique     0.00137716
+84 - Christmas Island     0.00137343
+85 - Tunisia     0.0013733
+86 - Trinidad and Tobago     0.00136696
+87 - Montserrat     0.00136466
+88 - Sierra Leone     0.00136424
+89 - Nicaragua     0.00136356
+90 - Bangladesh     0.00136191
+91 - Qatar     0.00135261
+92 - Cuba     0.00135004
+93 - Abkhazia     0.00134507
+94 - State of Palestine     0.0013425
+95 - United Arab Emirates     0.00134001
+96 - Kenya     0.00133993
+97 - Cayman Islands     0.00133542
+98 - Jordan     0.00133321
+99 - South Ossetia     0.00131923
+100 - Uganda     0.00131436
+Doing matrix multiplication! This takes time. Your multiplication will produce 622 rows.
+We will print one . for each 50 rows calculated and you can expect 12 .s
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+Error 8: 0.000138217
+1 - United States     0.00166916
+2 - United Nations     0.00146166
+3 - France     0.00142998
+4 - OCLC     0.00137155
+5 - Spain     0.00115821
+6 - India     0.00113251
+7 - Canada     0.0011151
+8 - Australia     0.00108445
+9 - China     0.0010783
+10 - European Union     0.00106072
+11 - Indonesia     0.00105018
+12 - Russia     0.00102428
+13 - Japan     0.00100323
+14 - Cyprus     0.000989408
+15 - Portugal     0.000973152
+16 - Italy     0.000970315
+17 - Turkey     0.000956114
+18 - Pakistan     0.000945885
+19 - New Zealand     0.000904918
+20 - Morocco     0.000878655
+21 - American Samoa     0.000878326
+22 - Germany     0.000877151
+23 - Argentina     0.000863041
+24 - South Korea     0.000859685
+25 - Egypt     0.000856764
+26 - Israel     0.000851589
+27 - Akrotiri and Dhekelia     0.000848323
+28 - Thailand     0.000830587
+29 - Taiwan     0.000811889
+30 - JSTOR     0.000809413
+31 - Singapore     0.000799192
+32 - Philippines     0.000796195
+33 - Malaysia     0.000789252
+34 - Puerto Rico     0.000780762
+35 - Armenia     0.000779667
+36 - Bosnia and Herzegovina     0.000772058
+37 - Guyana     0.000771257
+38 - Mexico     0.000764052
+39 - Gibraltar     0.000759403
+40 - South Africa     0.000757191
+41 - Venezuela     0.000752829
+42 - Syria     0.000750512
+43 - Kazakhstan     0.000746053
+44 - Mauritius     0.000742915
+45 - Isle of Man     0.000739713
+46 - Lebanon     0.000738275
+47 - Iran     0.000738042
+48 - Georgia (country)     0.000735965
+49 - Dominican Republic     0.000729113
+50 - Azerbaijan     0.000724506
+51 - Falkland Islands     0.000717633
+52 - British Indian Ocean Territory     0.000713591
+53 - Dominica     0.000713479
+54 - Chile     0.000711312
+55 - Jersey     0.000709854
+56 - Jamaica     0.000709677
+57 - Guam     0.00070652
+58 - Bermuda     0.000697812
+59 - Malta     0.000695568
+60 - Nigeria     0.000689698
+61 - Hong Kong     0.000686619
+62 - Northern Cyprus     0.000685701
+63 - Papua New Guinea     0.000679608
+64 - Algeria     0.00067566
+65 - Saint Lucia     0.000673848
+66 - Saudi Arabia     0.000664268
+67 - Vanuatu     0.000662731
+68 - Ghana     0.000661755
+69 - Sudan     0.000656512
+70 - Cocos (Keeling) Islands     0.000655634
+71 - Iraq     0.000651066
+72 - Oman     0.000649533
+73 - Anguilla     0.000649102
+74 - Cameroon     0.000648368
+75 - Seychelles     0.000645091
+76 - Switzerland     0.000642142
+77 - Brazil     0.000640045
+78 - Brunei     0.000639667
+79 - Sri Lanka     0.000633242
+80 - Republic of Ireland     0.000630531
+81 - Afghanistan     0.000628884
+82 - Antigua and Barbuda     0.000628611
+83 - Mozambique     0.000628385
+84 - Christmas Island     0.000626684
+85 - Tunisia     0.00062662
+86 - Trinidad and Tobago     0.00062373
+87 - Montserrat     0.000622678
+88 - Sierra Leone     0.000622488
+89 - Nicaragua     0.000622179
+90 - Bangladesh     0.000621427
+91 - Qatar     0.000617179
+92 - Cuba     0.000616011
+93 - Abkhazia     0.000613743
+94 - State of Palestine     0.000612567
+95 - United Arab Emirates     0.00061143
+96 - Kenya     0.000611394
+97 - Cayman Islands     0.000609338
+98 - Jordan     0.000608331
+99 - South Ossetia     0.00060195
+100 - Uganda     0.000599729
+Finished Iteration!!

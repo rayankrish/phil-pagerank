@@ -1,0 +1,7664 @@
+19:54:23: Starting D:\DOCUMENTS\SCHOOL FILES\2019-2020\CS106 Final\11-graphs\build-graphs-Desktop_Qt_5_12_6_MinGW_64_bit-Debug\debug\graphs.exe ...
+{"Zimbabwe", "Zambia", "Yemen", "Yale Journal of International Affairs", "World Trade Organization", "Vietnam", "Uruguay", "University of the South Pacific", "University of Minnesota Law School", "United States Virgin Islands", "United States", "United Nations", "Uncontacted people", "Uganda", "Zanzibar", "Trinidad and Tobago", "Trentino-Alto Adige/S\303\274dtirol", "Treaty of Paris (1856)", "Transnistria autonomous territorial unit with special legal status", "Transnistria", "\303\205land Islands", "Tonga", "Zaire", "Tokelau", "United Arab Emirates", "Tobago", "Territorial claims in Antarctica", "Taiwan Province, People's Republic of China", "The Gambia", "Taiwan", "Taipei Times", "Taipei", "Syria", "Switzerland", "Suriname", "Subdivisions of Pakistan", "States of Venezuela", "States of Sudan", "States of South Sudan", "States of Nigeria", "Ukraine", "States of Germany", "States of Brazil", "States of Austria", "States and territories of India", "States and federal territories of Malaysia", "Stateless society", "Sri Lanka", "Spratly Islands", "Special Region of Yogyakarta", "Spain", "Supercontinent", "Southern Provinces", "Tajikistan", "Somaliland", "Somalia", "Solomon Islands", "Sint Maarten", "Singapore", "World Bank Group", "Sierra Leone", "Shared sovereignty", "Scotland", "Saint Lucia", "Saint Kitts and Nevis", "Saint Pierre and Miquelon", "Sahrawi Arab Democratic Republic", "Togo", "Svalbard Treaty", "Rwanda", "Russia", "Rotuma", "Ross Dependency", "Romania", "Roman Catholic Diocese of Urgell", "Republic of the Congo", "Regi\303\263n Aut\303\263noma del Atl\303\241ntico Norte", "Queen Maud Land", "Puerto Rico", "Pr\303\255ncipe", "Provinces of Argentina", "Pridnestrovie", "Unincorporated territories", "Portugal", "Regi\303\263n Aut\303\263noma del Atl\303\241ntico Sur", "Politics of Comoros", "Political status of the Cook Islands and Niue", "Political status of Taiwan", "Political status of Crimea", "Political divisions of the United States", "Political divisions of Mexico", "Poland", "Philippines", "Paraguay", "Supranational union", "Papua New Guinea", "Papua (province)", "Saudi Arabia", "Palmyra Atoll", "Palestinian territories", "Palestine Liberation Organization", "Pope", "Palau", "Serbia", "Oxford University Press", "West Bank Areas in the Oslo II Accord", "OCLC", "Norway", "Northern Mariana Islands", "Northern Ireland", "North and East Syria", "North Macedonia", "United Nations Interim Administration Mission in Kosovo", "Norfolk Island", "Niue", "Ningxia", "Svalbard", "Nicaragua", "New Zealand nationality law", "New Zealand", "New Caledonia", "Terra nullius", "Nepal", "Navassa Island", "Nauru", "National Coalition for Syrian Revolutionary and Opposition Forces", "West Papua (province)", "Namibia", "Names of the Irish state", "Name of Canada", "Palestinian National Authority", "Nakhchivan Autonomous Republic", "United Nations General Assembly observers", "Myanmar", "Mozambique", "Montserrat", "Montevideo Convention", "Montenegro", "Monarchy of New Zealand", "Monaco", "Tuvalu", "North Korea", "Midway Atoll", "Micronation", "Mauritius", "Saint Vincent and the Grenadines", "Martinique", "Marshall Islands", "Malta", "Mali", "Maldives", "Madagascar", "Macedonia naming dispute", "Luxembourg", "Lithuania", "Lists of sovereign states by year", "Lists of sovereign states by decade", "Lists of countries and territories", "Slovakia", "List of states during the Middle Ages", "List of states during Late Antiquity", "List of sovereign states in the 2010s", "List of sovereign states in the 2000s", "List of sovereign states in the 1980s", "List of sovereign states in the 1970s", "List of sovereign states in the 1960s", "United Nations Security Council", "R\303\251union", "List of sovereign states in the 1950s", "List of sovereign states in the 1940s", "List of sovereign states in the 1930s", "Samoa", "Names of Myanmar", "List of sovereign states in the 1920s", "Western Sahara", "List of sovereign states in the 1900s", "Oslo Accords", "List of sovereign states in the 1890s", "List of sovereign states in the 1870s", "Name of the Czech Republic", "List of sovereign states in the 1860s", "World Intellectual Property Organization", "List of sovereign states in the 1850s", "List of sovereign states in the 1840s", "List of sovereign states in the 1830s", "List of sovereign states in the 1760s", "List of sovereign states by date of formation", "List of sovereign states and dependent territories in the Americas", "Sovereignty", "List of sovereign states in the 1910s", "Foreign relations of Transnistria", "Foreign relations of Taiwan", "Foreign relations of Northern Cyprus", "Federation of Bosnia and Herzegovina", "List of sovereign states and dependent territories in Asia", "Fiji", "Federated state", "French Southern and Antarctic Lands", "Federal government of the United States", "List of political entities in the 5th century", "Sardinia", "Germany", "President of France", "One-China policy", "List of sovereign states in the 1880s", "Declarative theory", "Vojvodina", "Finland", "Foreign relations of Somaliland", "Provinces and territories of Canada", "Ethiopia", "Foreign relations of the State of Palestine", "England", "Member states of the United Nations", "Bangsamoro", "Mayotte", "Emirates of the United Arab Emirates", "Indonesia", "Egypt", "Azerbaijan", "Dominion", "West Bank", "Cambodia", "List of dependent territories", "List of political entities in the 19th century BC", "Democratic Republic of the Congo", "South Ossetia", "Macau", "De facto", "Dates of establishment of diplomatic relations with the People's Republic of China", "Tibet Autonomous Region", "Lebanon", "List of sovereign states in the 1820s", "Cyprus dispute", "Niger", "Crown dependencies", "List of Iron Age states", "United Nations Security Council Resolution 1244", "Costa Rica", "Gibraltar", "Kingdom of Denmark", "List of former sovereign states", "Coral Sea Islands Territory", "Foreign relations of South Ossetia", "Foreign relations of South Korea", "Turks and Caicos Islands", "Guinea", "Dominion of Ceylon", "List of countries and capitals in native languages", "Cook Islands", "Wake Island", "French Guiana", "Kyrgyzstan", "List of specialized agencies of the United Nations", "Constitutive theory", "Faroe Islands", "Continent", "Tunisia", "Gilgit-Baltistan", "Constitution of Iceland", "Communities, regions and language areas of Belgium", "Comprehensive Peace Agreement", "Pakistan", "North Kosovo", "Foreign relations", "Bulgaria", "Syrian civil war", "Compact of Free Association", "Uzbekistan", "Comoros", "Special administrative regions of China", "Commonwealth realm", "Regions of Ethiopia", "2008 Kosovo declaration of independence", "Johnston Atoll", "Foreign relations of Israel", "Customary international law", "Latvia", "Commonwealth of Nations", "Bosnia and Herzegovina", "Foreign relations of Kosovo", "List of political entities in the 9th century", "American Samoa", "British Indian Ocean Territory", "Christmas Island", "The Bahamas", "Sovereign Military Order of Malta", "List of sovereign states in the 1990s", "Azores", "S\303\243o Tom\303\251 and Pr\303\255ncipe", "Dominican Republic", "Countries of the United Kingdom", "Mainland China", "Australia", "Eritrea", "State of Palestine", "Diarchy", "Brazil", "San Marino", "Puntland", "East Jerusalem", "Republika Srpska", "Cuba", "Autonomous Region of Bougainville", "Cura\303\247ao", "List of political entities in the 2nd century BC", "Republic of Artsakh", "Aruba", "Chad", "Foreign relations of Armenia", "United Nations System", "Afghanistan", "Thailand", "Syrian Interim Government", "Moldova", "Malaysia", "Armenia\342\200\223Pakistan relations", "Provinces of Indonesia", "Ex officio", "Autonomous communities of Spain", "French Polynesia", "Senegal", "Argentina", "Bermuda", "Barbados", "Foreign relations of North Korea", "The Africa Report", "East Timor", "Foreign relations of Niue", "Economic Cooperation Organization", "Hungary", "El Salvador", "Collectivity of Saint Martin", "Common Era", "Guangxi", "Akrotiri and Dhekelia", "Madeira", "List of political entities in the 21st century BC", "Elizabeth II", "Antigua and Barbuda", "Aceh", "Denmark", "Nagorno-Karabakh conflict", "International recognition of Israel", "List of political entities in the 8th century", "Bangladesh", "Qatar", "Anno Domini", "Laos", "Belize", "Israel", "Mongolia", "Israel's unilateral disengagement plan", "Federation", "Canada", "Panama", "Botswana", "Abyei Area", "Proto-state", "Abkhazia", "Barbuda", "Benin", "Associated state", "List of autonomous areas by country", "Nigeria", "Bouvet Island", "Inner Mongolia", "Dominica", "Bailiwick of Guernsey", "Albania", "Cambridge University Press", "Territorial autonomy", "Aosta Valley", "Seychelles", "Bolivia", "Foreign relations of Abkhazia", "Cocos (Keeling) Islands", "Prespa agreement", "Pitcairn Islands", "List of ISO 3166 country codes", "List of political entities in the 1st century", "Anguilla", "Cape Verde", "Lesotho", "Wales", "Taiwan independence movement", "Azad Kashmir", "Cayman Islands", "Adjectivals and demonyms for countries and nations", "Declaration of independence", "Andorra", "Clipperton Island", "Eswatini", "Howland Island", "Foreign relations of China", "List of political entities in the 1st century BC", "Annexation of Crimea by the Russian Federation", "Provisional Administrative Entity of South Ossetia", "Belarus", "Burundi", "European Union", "Governorates of Iraq", "Gallery of country coats of arms", "Algeria", "List of political entities in the 11th century BC", "Br\304\215ko District", "Austria", "Estonia", "University of Virginia School of Law", "List of sovereign states and dependent territories in Oceania", "British Virgin Islands", "Bajo Nuevo Bank", "Baker Island", "Saint Barth\303\251lemy", "Jordan", "Heard Island and McDonald Islands", "Asian\342\200\223African Conference", "India", "National Geographic", "Diplomatic recognition", "Liechtenstein", "International Atomic Energy Agency", "Belgium", "Foreign relations of Cyprus", "Xinjiang", "Kuwait", "Canadian federalism", "British Antarctic Territory", "List of political entities in the 10th century BC", "Oman", "Libya", "Jan Mayen", "Colombia", "Ashmore and Cartier Islands", "Central African Republic", "South Georgia and the South Sandwich Islands", "Bahrain", "Kiribati", "Brunei", "Island country", "List of political entities in the 9th century BC", "Chinese Civil War", "JSTOR", "Cameroon", "Burkina Faso", "Cantons of Switzerland", "Chile", "Washington, D.C.", "Foreign relations of Artsakh", "Angola", "Caribbean Netherlands", "China", "List of sovereign states and dependent territories in South America", "Italy", "Chinese Taipei", "Foreign relations of the Holy See", "Rodrigues", "Foreign relations of the Sahrawi Arab Democratic Republic", "France", "Free Zone (region)", "Djibouti", "Free area of the Republic of China", "Friuli-Venezia Giulia", "Wall (Western Sahara)", "Jamaica", "Sint Eustatius", "Gabon", "Gagauzia", "International recognition of the State of Palestine", "List of political entities in the 20th century BC", "Saint Helena, Ascension and Tristan da Cunha", "List of political entities in the 7th century", "Falkland Islands", "Gallery of sovereign state flags", "Australian Antarctic Territory", "Galmudug", "Sudan", "South Sudan", "Government of the Autonomous Republic of Abkhazia", "Gaza Strip", "Czech Republic", "Georgia (country)", "List of micronations", "Republic of China", "Northern Cyprus", "Nevis", "Gilgit Baltistan", "Saba", "Kingman Reef", "Autonomous Republic of Crimea", "Gorno-Badakhshan Autonomous Province", "Unincorporated area", "Government in exile", "Greenland", "South Africa", "Federal subjects of Russia", "Greenland Treaty", "Grenada", "Guadeloupe", "International recognition of Transnistria", "List of international rankings", "Haiti", "Guatemala", "List of political entities in the 19th century", "Sweden", "Guinea-Bissau", "Guyana", "States and territories of Australia", "Holy See", "Peru", "Hong Kong", "Wallis and Futuna", "Federated States of Micronesia", "Iceland", "Administrative divisions of the Federated States of Micronesia", "Institute for Security Studies", "List of political entities in the 6th century", "International Court of Justice", "Mauritania", "List of Classical Age states", "Foreign relations of the Cook Islands", "International Telecommunication Union", "International recognition of Artsakh", "International recognition of Kosovo", "International recognition of the Holy See", "International recognition of the Republic of China", "International recognition of the Sahrawi Arab Democratic Republic", "International recognition of the Syrian National Coalition", "Iran", "League of Nations", "List of political entities in the 13th century BC", "List of sovereign states and dependent territories in Africa", "Turkey", "Equatorial Guinea", "Iraqi Kurdistan", "African Union", "List of political entities in the 35th century BC", "Ghana", "Ivory Coast", "Provinces of Nepal", "Jakarta", "Vatican City", "Japan", "Jarvis Island", "International recognition of Abkhazia and South Ossetia", "Communist Party of China", "Jeju Island", "List of political entities in the 7th century BC", "Slovenia", "Morocco", "Jersey", "Jeune Afrique", "St. Kitts", "Malawi", "Kazakhstan", "Croatia", "Karakalpakstan", "China and the United Nations", "Armenia", "List of political entities in the 12th century BC", "Peter I Island", "List of political entities in the 4th century BC", "Turkmenistan", "Minnesota Journal of International Law", "List of territorial disputes", "Kenya", "South Korea", "Korea", "Kosovo", "Tanzania", "Sicily", "Iraq", "List of political entities in the 5th century BC", "Guam", "Kosovo and Metohija", "Legal personality", "Kuomintang", "List of Bronze Age states", "Isle of Man", "List of Copper Age states", "List of political entities in the 16th century BC", "Adjara", "List of administrative divisions by country", "Republic of Ireland", "Mount Athos", "List of sovereign states and dependent territories by continent", "Vanuatu", "Greece", "List of country-name etymologies", "Cyprus", "Kashmir", "List of island countries", "List of national capitals in alphabetical order", "Honduras", "List of nations", "List of political entities in the 4th century", "Venezuela", "List of political entities in the 10th century", "List of political entities in the 11th century", "Bhutan", "List of political entities in the 14th century BC", "Bonaire", "List of political entities in the 15th century BC", "Organisation of Islamic Cooperation", "List of political entities in the 1770s", "List of political entities in the 17th century BC", "List of political entities in the 18th century BC", "List of political entities in the 2nd century", "List of political entities in the 3rd century", "Serranilla Bank", "List of political entities in the 3rd century BC", "List of political entities in the 6th century BC", "Mexico", "Ecuador", "List of political entities in the 8th century BC", "List of rebel groups that control territory", "Universal Postal Union", "Tindouf", "List of sovereign states and dependent territories in Eurasia", "List of sovereign states and dependent territories in Europe", "Liberia", "List of sovereign states and dependent territories in North America"}
+adding set to graph
+start while readline
+line: 2008 Kosovo declaration of independence
+node: 2008 Kosovo declaration of independence
+1
+line: Abkhazia
+node: Abkhazia
+2
+line: Abyei Area
+node: Abyei Area
+3
+line: Aceh
+node: Aceh
+4
+line: Adjara
+node: Adjara
+5
+line: Adjectivals and demonyms for countries and nations
+node: Adjectivals and demonyms for countries and nations
+6
+line: Administrative divisions of the Federated States of Micronesia
+node: Administrative divisions of the Federated States of Micronesia
+7
+line: Afghanistan
+node: Afghanistan
+8
+line: African Union
+node: African Union
+9
+line: Akrotiri and Dhekelia
+node: Akrotiri and Dhekelia
+10
+line: Albania
+node: Albania
+11
+line: Algeria
+node: Algeria
+12
+line: American Samoa
+node: American Samoa
+13
+line: Andorra
+node: Andorra
+14
+line: Angola
+node: Angola
+15
+line: Anguilla
+node: Anguilla
+16
+line: Annexation of Crimea by the Russian Federation
+node: Annexation of Crimea by the Russian Federation
+17
+line: Anno Domini
+node: Anno Domini
+18
+line: Antigua and Barbuda
+node: Antigua and Barbuda
+19
+line: Aosta Valley
+node: Aosta Valley
+20
+line: Argentina
+node: Argentina
+21
+line: Armenia
+node: Armenia
+22
+line: Armeniaâ€“Pakistan relations
+node: Armeniaâ€“Pakistan relations
+23
+line: Aruba
+node: Aruba
+24
+line: Ashmore and Cartier Islands
+node: Ashmore and Cartier Islands
+25
+line: Asianâ€“African Conference
+node: Asianâ€“African Conference
+26
+line: Associated state
+node: Associated state
+27
+line: Australia
+node: Australia
+28
+line: Australian Antarctic Territory
+node: Australian Antarctic Territory
+29
+line: Austria
+node: Austria
+30
+line: Autonomous Region of Bougainville
+node: Autonomous Region of Bougainville
+31
+line: Autonomous Republic of Crimea
+node: Autonomous Republic of Crimea
+32
+line: Autonomous communities of Spain
+node: Autonomous communities of Spain
+33
+line: Azad Kashmir
+node: Azad Kashmir
+34
+line: Azerbaijan
+node: Azerbaijan
+35
+line: Azores
+node: Azores
+36
+line: BBC News
+line: Bahrain
+node: Bahrain
+37
+line: Bailiwick of Guernsey
+node: Bailiwick of Guernsey
+38
+line: Bajo Nuevo Bank
+node: Bajo Nuevo Bank
+39
+line: Baker Island
+node: Baker Island
+40
+line: Bangladesh
+node: Bangladesh
+41
+line: Bangsamoro
+node: Bangsamoro
+42
+line: Barbados
+node: Barbados
+43
+line: Barbuda
+node: Barbuda
+44
+line: Belarus
+node: Belarus
+45
+line: Belgium
+node: Belgium
+46
+line: Belize
+node: Belize
+47
+line: Benin
+node: Benin
+48
+line: Bermuda
+node: Bermuda
+49
+line: Bhutan
+node: Bhutan
+50
+line: Bolivia
+node: Bolivia
+51
+line: Bonaire
+node: Bonaire
+52
+line: Bosnia and Herzegovina
+node: Bosnia and Herzegovina
+53
+line: Botswana
+node: Botswana
+54
+line: Bouvet Island
+node: Bouvet Island
+55
+line: Brazil
+node: Brazil
+56
+line: British Antarctic Territory
+node: British Antarctic Territory
+57
+line: British Indian Ocean Territory
+node: British Indian Ocean Territory
+58
+line: British Virgin Islands
+node: British Virgin Islands
+59
+line: Brunei
+node: Brunei
+60
+line: BrÄko District
+node: BrÄko District
+61
+line: Bulgaria
+node: Bulgaria
+62
+line: Burkina Faso
+node: Burkina Faso
+63
+line: Burundi
+node: Burundi
+64
+line: Cambodia
+node: Cambodia
+65
+line: Cambridge University Press
+node: Cambridge University Press
+66
+line: Cameroon
+node: Cameroon
+67
+line: Canada
+node: Canada
+68
+line: Canadian federalism
+node: Canadian federalism
+69
+line: Cantons of Switzerland
+node: Cantons of Switzerland
+70
+line: Cape Verde
+node: Cape Verde
+71
+line: Caribbean Netherlands
+node: Caribbean Netherlands
+72
+line: Cayman Islands
+node: Cayman Islands
+73
+line: Central African Republic
+node: Central African Republic
+74
+line: Chad
+node: Chad
+75
+line: Chile
+node: Chile
+76
+line: China
+node: China
+77
+line: China and the United Nations
+node: China and the United Nations
+78
+line: Chinese Civil War
+node: Chinese Civil War
+79
+line: Chinese Taipei
+node: Chinese Taipei
+80
+line: Christmas Island
+node: Christmas Island
+81
+line: Clipperton Island
+node: Clipperton Island
+82
+line: Cocos (Keeling) Islands
+node: Cocos (Keeling) Islands
+83
+line: Collectivity of Saint Martin
+node: Collectivity of Saint Martin
+84
+line: Colombia
+node: Colombia
+85
+line: Common Era
+node: Common Era
+86
+line: Commonwealth of Nations
+node: Commonwealth of Nations
+87
+line: Commonwealth realm
+node: Commonwealth realm
+88
+line: Communist Party of China
+node: Communist Party of China
+89
+line: Communities, regions and language areas of Belgium
+node: Communities, regions and language areas of Belgium
+90
+line: Comoros
+node: Comoros
+91
+line: Compact of Free Association
+node: Compact of Free Association
+92
+line: Comprehensive Peace Agreement
+node: Comprehensive Peace Agreement
+93
+line: Constitution of Iceland
+node: Constitution of Iceland
+94
+line: Constitutive theory
+node: Constitutive theory
+95
+line: Continent
+node: Continent
+96
+line: Cook Islands
+node: Cook Islands
+97
+line: Coral Sea Islands Territory
+node: Coral Sea Islands Territory
+98
+line: Costa Rica
+node: Costa Rica
+99
+line: Countries of the United Kingdom
+node: Countries of the United Kingdom
+100
+line: Croatia
+node: Croatia
+101
+line: Crown dependencies
+node: Crown dependencies
+102
+line: Cuba
+node: Cuba
+103
+line: CuraÃ§ao
+node: CuraÃ§ao
+104
+line: Customary international law
+node: Customary international law
+105
+line: Cyprus
+node: Cyprus
+106
+line: Cyprus dispute
+node: Cyprus dispute
+107
+line: Czech Republic
+node: Czech Republic
+108
+line: Dates of establishment of diplomatic relations with the People's Republic of China
+node: Dates of establishment of diplomatic relations with the People's Republic of China
+109
+line: De facto
+node: De facto
+110
+line: Declaration of independence
+node: Declaration of independence
+111
+line: Declarative theory
+node: Declarative theory
+112
+line: Democratic Republic of the Congo
+node: Democratic Republic of the Congo
+113
+line: Denmark
+node: Denmark
+114
+line: Dependent territory
+line: Diarchy
+node: Diarchy
+115
+line: Digital object identifier
+line: Diplomatic recognition
+node: Diplomatic recognition
+116
+line: Djibouti
+node: Djibouti
+117
+line: Dominica
+node: Dominica
+118
+line: Dominican Republic
+node: Dominican Republic
+119
+line: Dominion
+node: Dominion
+120
+line: Dominion of Ceylon
+node: Dominion of Ceylon
+121
+line: East Jerusalem
+node: East Jerusalem
+122
+line: East Timor
+node: East Timor
+123
+line: Economic Cooperation Organization
+node: Economic Cooperation Organization
+124
+line: Ecuador
+node: Ecuador
+125
+line: Egypt
+node: Egypt
+126
+line: El Salvador
+node: El Salvador
+127
+line: Elizabeth II
+node: Elizabeth II
+128
+line: Emirates of the United Arab Emirates
+node: Emirates of the United Arab Emirates
+129
+line: England
+node: England
+130
+line: Equatorial Guinea
+node: Equatorial Guinea
+131
+line: Eritrea
+node: Eritrea
+132
+line: Estonia
+node: Estonia
+133
+line: Eswatini
+node: Eswatini
+134
+line: Ethiopia
+node: Ethiopia
+135
+line: European Union
+node: European Union
+136
+line: Ex officio
+node: Ex officio
+137
+line: Falkland Islands
+node: Falkland Islands
+138
+line: Faroe Islands
+node: Faroe Islands
+139
+line: Federal government of the United States
+node: Federal government of the United States
+140
+line: Federal subjects of Russia
+node: Federal subjects of Russia
+141
+line: Federated States of Micronesia
+node: Federated States of Micronesia
+142
+line: Federated state
+node: Federated state
+143
+line: Federation
+node: Federation
+144
+line: Federation of Bosnia and Herzegovina
+node: Federation of Bosnia and Herzegovina
+145
+line: Fiji
+node: Fiji
+146
+line: Finland
+node: Finland
+147
+line: Foreign relations
+node: Foreign relations
+148
+line: Foreign relations of Abkhazia
+node: Foreign relations of Abkhazia
+149
+line: Foreign relations of Armenia
+node: Foreign relations of Armenia
+150
+line: Foreign relations of Artsakh
+node: Foreign relations of Artsakh
+151
+line: Foreign relations of China
+node: Foreign relations of China
+152
+line: Foreign relations of Cyprus
+node: Foreign relations of Cyprus
+153
+line: Foreign relations of Israel
+node: Foreign relations of Israel
+154
+line: Foreign relations of Kosovo
+node: Foreign relations of Kosovo
+155
+line: Foreign relations of Niue
+node: Foreign relations of Niue
+156
+line: Foreign relations of North Korea
+node: Foreign relations of North Korea
+157
+line: Foreign relations of Northern Cyprus
+node: Foreign relations of Northern Cyprus
+158
+line: Foreign relations of Somaliland
+node: Foreign relations of Somaliland
+159
+line: Foreign relations of South Korea
+node: Foreign relations of South Korea
+160
+line: Foreign relations of South Ossetia
+node: Foreign relations of South Ossetia
+161
+line: Foreign relations of Taiwan
+node: Foreign relations of Taiwan
+162
+line: Foreign relations of Transnistria
+node: Foreign relations of Transnistria
+163
+line: Foreign relations of the Cook Islands
+node: Foreign relations of the Cook Islands
+164
+line: Foreign relations of the Holy See
+node: Foreign relations of the Holy See
+165
+line: Foreign relations of the Sahrawi Arab Democratic Republic
+node: Foreign relations of the Sahrawi Arab Democratic Republic
+166
+line: Foreign relations of the State of Palestine
+node: Foreign relations of the State of Palestine
+167
+line: France
+node: France
+168
+line: Free Zone (region)
+node: Free Zone (region)
+169
+line: Free area of the Republic of China
+node: Free area of the Republic of China
+170
+line: French Guiana
+node: French Guiana
+171
+line: French Polynesia
+node: French Polynesia
+172
+line: French Southern and Antarctic Lands
+node: French Southern and Antarctic Lands
+173
+line: Friuli-Venezia Giulia
+node: Friuli-Venezia Giulia
+174
+line: Gabon
+node: Gabon
+175
+line: Gagauzia
+node: Gagauzia
+176
+line: Gallery of country coats of arms
+node: Gallery of country coats of arms
+177
+line: Gallery of sovereign state flags
+node: Gallery of sovereign state flags
+178
+line: Galmudug
+node: Galmudug
+179
+line: Gaza Strip
+node: Gaza Strip
+180
+line: Georgia (country)
+node: Georgia (country)
+181
+line: Germany
+node: Germany
+182
+line: Ghana
+node: Ghana
+183
+line: Gibraltar
+node: Gibraltar
+184
+line: Gilgit-Baltistan
+node: Gilgit-Baltistan
+185
+line: Gilgit Baltistan
+node: Gilgit Baltistan
+186
+line: Gorno-Badakhshan Autonomous Province
+node: Gorno-Badakhshan Autonomous Province
+187
+line: Government in exile
+node: Government in exile
+188
+line: Government of the Autonomous Republic of Abkhazia
+node: Government of the Autonomous Republic of Abkhazia
+189
+line: Governorates of Iraq
+node: Governorates of Iraq
+190
+line: Greece
+node: Greece
+191
+line: Greenland
+node: Greenland
+192
+line: Greenland Treaty
+node: Greenland Treaty
+193
+line: Grenada
+node: Grenada
+194
+line: Guadeloupe
+node: Guadeloupe
+195
+line: Guam
+node: Guam
+196
+line: Guangxi
+node: Guangxi
+197
+line: Guatemala
+node: Guatemala
+198
+line: Guinea
+node: Guinea
+199
+line: Guinea-Bissau
+node: Guinea-Bissau
+200
+line: Guyana
+node: Guyana
+201
+line: Haiti
+node: Haiti
+202
+line: Heard Island and McDonald Islands
+node: Heard Island and McDonald Islands
+203
+line: Holy See
+node: Holy See
+204
+line: Honduras
+node: Honduras
+205
+line: Hong Kong
+node: Hong Kong
+206
+line: Howland Island
+node: Howland Island
+207
+line: Hungary
+node: Hungary
+208
+line: ISO 3166-1
+line: Iceland
+node: Iceland
+209
+line: India
+node: India
+210
+line: Indonesia
+node: Indonesia
+211
+line: Inner Mongolia
+node: Inner Mongolia
+212
+line: Institute for Security Studies
+node: Institute for Security Studies
+213
+line: International Atomic Energy Agency
+node: International Atomic Energy Agency
+214
+line: International Court of Justice
+node: International Court of Justice
+215
+line: International Monetary Fund
+line: International Standard Book Number
+line: International Standard Serial Number
+line: International Telecommunication Union
+node: International Telecommunication Union
+216
+line: International recognition of Abkhazia and South Ossetia
+node: International recognition of Abkhazia and South Ossetia
+217
+line: International recognition of Artsakh
+node: International recognition of Artsakh
+218
+line: International recognition of Israel
+node: International recognition of Israel
+219
+line: International recognition of Kosovo
+node: International recognition of Kosovo
+220
+line: International recognition of Transnistria
+node: International recognition of Transnistria
+221
+line: International recognition of the Holy See
+node: International recognition of the Holy See
+222
+line: International recognition of the Republic of China
+node: International recognition of the Republic of China
+223
+line: International recognition of the Sahrawi Arab Democratic Republic
+node: International recognition of the Sahrawi Arab Democratic Republic
+224
+line: International recognition of the State of Palestine
+node: International recognition of the State of Palestine
+225
+line: International recognition of the Syrian National Coalition
+node: International recognition of the Syrian National Coalition
+226
+line: Iran
+node: Iran
+227
+line: Iraq
+node: Iraq
+228
+line: Iraqi Kurdistan
+node: Iraqi Kurdistan
+229
+line: Ireland
+line: Island country
+node: Island country
+230
+line: Isle of Man
+node: Isle of Man
+231
+line: Israel
+node: Israel
+232
+line: Israel's unilateral disengagement plan
+node: Israel's unilateral disengagement plan
+233
+line: Italy
+node: Italy
+234
+line: Ivory Coast
+node: Ivory Coast
+235
+line: JSTOR
+node: JSTOR
+236
+line: Jakarta
+node: Jakarta
+237
+line: Jamaica
+node: Jamaica
+238
+line: Jan Mayen
+node: Jan Mayen
+239
+line: Japan
+node: Japan
+240
+line: Jarvis Island
+node: Jarvis Island
+241
+line: Jeju Island
+node: Jeju Island
+242
+line: Jersey
+node: Jersey
+243
+line: Jeune Afrique
+node: Jeune Afrique
+244
+line: Johnston Atoll
+node: Johnston Atoll
+245
+line: Jordan
+node: Jordan
+246
+line: Karakalpakstan
+node: Karakalpakstan
+247
+line: Kashmir
+node: Kashmir
+248
+line: Kazakhstan
+node: Kazakhstan
+249
+line: Kenya
+node: Kenya
+250
+line: Kingdom of Denmark
+node: Kingdom of Denmark
+251
+line: Kingdom of the Netherlands
+line: Kingman Reef
+node: Kingman Reef
+252
+line: Kiribati
+node: Kiribati
+253
+line: Korea
+node: Korea
+254
+line: Kosovo
+node: Kosovo
+255
+line: Kosovo and Metohija
+node: Kosovo and Metohija
+256
+line: Kuomintang
+node: Kuomintang
+257
+line: Kuwait
+node: Kuwait
+258
+line: Kyrgyzstan
+node: Kyrgyzstan
+259
+line: Laos
+node: Laos
+260
+line: Latvia
+node: Latvia
+261
+line: League of Nations
+node: League of Nations
+262
+line: Lebanon
+node: Lebanon
+263
+line: Legal personality
+node: Legal personality
+264
+line: Lesotho
+node: Lesotho
+265
+line: Liberia
+node: Liberia
+266
+line: Libya
+node: Libya
+267
+line: Liechtenstein
+node: Liechtenstein
+268
+line: List of Bronze Age states
+node: List of Bronze Age states
+269
+line: List of Classical Age states
+node: List of Classical Age states
+270
+line: List of Copper Age states
+node: List of Copper Age states
+271
+line: List of ISO 3166 country codes
+node: List of ISO 3166 country codes
+272
+line: List of Iron Age states
+node: List of Iron Age states
+273
+line: List of administrative divisions by country
+node: List of administrative divisions by country
+274
+line: List of autonomous areas by country
+node: List of autonomous areas by country
+275
+line: List of countries and capitals in native languages
+node: List of countries and capitals in native languages
+276
+line: List of country-name etymologies
+node: List of country-name etymologies
+277
+line: List of dependent territories
+node: List of dependent territories
+278
+line: List of former sovereign states
+node: List of former sovereign states
+279
+line: List of international rankings
+node: List of international rankings
+280
+line: List of island countries
+node: List of island countries
+281
+line: List of micronations
+node: List of micronations
+282
+line: List of national capitals in alphabetical order
+node: List of national capitals in alphabetical order
+283
+line: List of nations
+node: List of nations
+284
+line: List of political entities in the 10th century
+node: List of political entities in the 10th century
+285
+line: List of political entities in the 10th century BC
+node: List of political entities in the 10th century BC
+286
+line: List of political entities in the 11th century
+node: List of political entities in the 11th century
+287
+line: List of political entities in the 11th century BC
+node: List of political entities in the 11th century BC
+288
+line: List of political entities in the 12th century BC
+node: List of political entities in the 12th century BC
+289
+line: List of political entities in the 13th century BC
+node: List of political entities in the 13th century BC
+290
+line: List of political entities in the 14th century BC
+node: List of political entities in the 14th century BC
+291
+line: List of political entities in the 15th century BC
+node: List of political entities in the 15th century BC
+292
+line: List of political entities in the 16th century BC
+node: List of political entities in the 16th century BC
+293
+line: List of political entities in the 1770s
+node: List of political entities in the 1770s
+294
+line: List of political entities in the 17th century BC
+node: List of political entities in the 17th century BC
+295
+line: List of political entities in the 18th century BC
+node: List of political entities in the 18th century BC
+296
+line: List of political entities in the 19th century
+node: List of political entities in the 19th century
+297
+line: List of political entities in the 19th century BC
+node: List of political entities in the 19th century BC
+298
+line: List of political entities in the 1st century
+node: List of political entities in the 1st century
+299
+line: List of political entities in the 1st century BC
+node: List of political entities in the 1st century BC
+300
+line: List of political entities in the 20th century BC
+node: List of political entities in the 20th century BC
+301
+line: List of political entities in the 21st century BC
+node: List of political entities in the 21st century BC
+302
+line: List of political entities in the 2nd century
+node: List of political entities in the 2nd century
+303
+line: List of political entities in the 2nd century BC
+node: List of political entities in the 2nd century BC
+304
+line: List of political entities in the 35th century BC
+node: List of political entities in the 35th century BC
+305
+line: List of political entities in the 3rd century
+node: List of political entities in the 3rd century
+306
+line: List of political entities in the 3rd century BC
+node: List of political entities in the 3rd century BC
+307
+line: List of political entities in the 4th century
+node: List of political entities in the 4th century
+308
+line: List of political entities in the 4th century BC
+node: List of political entities in the 4th century BC
+309
+line: List of political entities in the 5th century
+node: List of political entities in the 5th century
+310
+line: List of political entities in the 5th century BC
+node: List of political entities in the 5th century BC
+311
+line: List of political entities in the 6th century
+node: List of political entities in the 6th century
+312
+line: List of political entities in the 6th century BC
+node: List of political entities in the 6th century BC
+313
+line: List of political entities in the 7th century
+node: List of political entities in the 7th century
+314
+line: List of political entities in the 7th century BC
+node: List of political entities in the 7th century BC
+315
+line: List of political entities in the 8th century
+node: List of political entities in the 8th century
+316
+line: List of political entities in the 8th century BC
+node: List of political entities in the 8th century BC
+317
+line: List of political entities in the 9th century
+node: List of political entities in the 9th century
+318
+line: List of political entities in the 9th century BC
+node: List of political entities in the 9th century BC
+319
+line: List of rebel groups that control territory
+node: List of rebel groups that control territory
+320
+line: List of sovereign states and dependent territories by continent
+node: List of sovereign states and dependent territories by continent
+321
+line: List of sovereign states and dependent territories in Africa
+node: List of sovereign states and dependent territories in Africa
+322
+line: List of sovereign states and dependent territories in Asia
+node: List of sovereign states and dependent territories in Asia
+323
+line: List of sovereign states and dependent territories in Eurasia
+node: List of sovereign states and dependent territories in Eurasia
+324
+line: List of sovereign states and dependent territories in Europe
+node: List of sovereign states and dependent territories in Europe
+325
+line: List of sovereign states and dependent territories in North America
+node: List of sovereign states and dependent territories in North America
+326
+line: List of sovereign states and dependent territories in Oceania
+node: List of sovereign states and dependent territories in Oceania
+327
+line: List of sovereign states and dependent territories in South America
+node: List of sovereign states and dependent territories in South America
+328
+line: List of sovereign states and dependent territories in the Americas
+node: List of sovereign states and dependent territories in the Americas
+329
+line: List of sovereign states by date of formation
+node: List of sovereign states by date of formation
+330
+line: List of sovereign states in the 1760s
+node: List of sovereign states in the 1760s
+331
+line: List of sovereign states in the 1820s
+node: List of sovereign states in the 1820s
+332
+line: List of sovereign states in the 1830s
+node: List of sovereign states in the 1830s
+333
+line: List of sovereign states in the 1840s
+node: List of sovereign states in the 1840s
+334
+line: List of sovereign states in the 1850s
+node: List of sovereign states in the 1850s
+335
+line: List of sovereign states in the 1860s
+node: List of sovereign states in the 1860s
+336
+line: List of sovereign states in the 1870s
+node: List of sovereign states in the 1870s
+337
+line: List of sovereign states in the 1880s
+node: List of sovereign states in the 1880s
+338
+line: List of sovereign states in the 1890s
+node: List of sovereign states in the 1890s
+339
+line: List of sovereign states in the 1900s
+node: List of sovereign states in the 1900s
+340
+line: List of sovereign states in the 1910s
+node: List of sovereign states in the 1910s
+341
+line: List of sovereign states in the 1920s
+node: List of sovereign states in the 1920s
+342
+line: List of sovereign states in the 1930s
+node: List of sovereign states in the 1930s
+343
+line: List of sovereign states in the 1940s
+node: List of sovereign states in the 1940s
+344
+line: List of sovereign states in the 1950s
+node: List of sovereign states in the 1950s
+345
+line: List of sovereign states in the 1960s
+node: List of sovereign states in the 1960s
+346
+line: List of sovereign states in the 1970s
+node: List of sovereign states in the 1970s
+347
+line: List of sovereign states in the 1980s
+node: List of sovereign states in the 1980s
+348
+line: List of sovereign states in the 1990s
+node: List of sovereign states in the 1990s
+349
+line: List of sovereign states in the 2000s
+node: List of sovereign states in the 2000s
+350
+line: List of sovereign states in the 2010s
+node: List of sovereign states in the 2010s
+351
+line: List of specialized agencies of the United Nations
+node: List of specialized agencies of the United Nations
+352
+line: List of states during Late Antiquity
+node: List of states during Late Antiquity
+353
+line: List of states during the Middle Ages
+node: List of states during the Middle Ages
+354
+line: List of states with limited recognition
+line: List of territorial disputes
+node: List of territorial disputes
+355
+line: Lists of countries and territories
+node: Lists of countries and territories
+356
+line: Lists of sovereign states by decade
+node: Lists of sovereign states by decade
+357
+line: Lists of sovereign states by year
+node: Lists of sovereign states by year
+358
+line: Lithuania
+node: Lithuania
+359
+line: Luxembourg
+node: Luxembourg
+360
+line: Macau
+node: Macau
+361
+line: Macedonia naming dispute
+node: Macedonia naming dispute
+362
+line: Madagascar
+node: Madagascar
+363
+line: Madeira
+node: Madeira
+364
+line: Mainland China
+node: Mainland China
+365
+line: Malawi
+node: Malawi
+366
+line: Malaysia
+node: Malaysia
+367
+line: Maldives
+node: Maldives
+368
+line: Mali
+node: Mali
+369
+line: Malta
+node: Malta
+370
+line: Marshall Islands
+node: Marshall Islands
+371
+line: Martinique
+node: Martinique
+372
+line: Mauritania
+node: Mauritania
+373
+line: Mauritius
+node: Mauritius
+374
+line: Mayotte
+node: Mayotte
+375
+line: Member states of the United Nations
+node: Member states of the United Nations
+376
+line: Mexico
+node: Mexico
+377
+line: Micronation
+node: Micronation
+378
+line: Midway Atoll
+node: Midway Atoll
+379
+line: Minnesota Journal of International Law
+node: Minnesota Journal of International Law
+380
+line: Moldova
+node: Moldova
+381
+line: Monaco
+node: Monaco
+382
+line: Monarchy of New Zealand
+node: Monarchy of New Zealand
+383
+line: Mongolia
+node: Mongolia
+384
+line: Montenegro
+node: Montenegro
+385
+line: Montevideo Convention
+node: Montevideo Convention
+386
+line: Montserrat
+node: Montserrat
+387
+line: Morocco
+node: Morocco
+388
+line: Mount Athos
+node: Mount Athos
+389
+line: Mozambique
+node: Mozambique
+390
+line: Myanmar
+node: Myanmar
+391
+line: Nagorno-Karabakh conflict
+node: Nagorno-Karabakh conflict
+392
+line: Nakhchivan Autonomous Republic
+node: Nakhchivan Autonomous Republic
+393
+line: Name of Canada
+node: Name of Canada
+394
+line: Name of the Czech Republic
+node: Name of the Czech Republic
+395
+line: Names of Myanmar
+node: Names of Myanmar
+396
+line: Names of the Irish state
+node: Names of the Irish state
+397
+line: Namibia
+node: Namibia
+398
+line: National Coalition for Syrian Revolutionary and Opposition Forces
+node: National Coalition for Syrian Revolutionary and Opposition Forces
+399
+line: National Geographic
+node: National Geographic
+400
+line: Nauru
+node: Nauru
+401
+line: Navassa Island
+node: Navassa Island
+402
+line: Nepal
+node: Nepal
+403
+line: Netherlands
+line: Nevis
+node: Nevis
+404
+line: New Caledonia
+node: New Caledonia
+405
+line: New Zealand
+node: New Zealand
+406
+line: New Zealand nationality law
+node: New Zealand nationality law
+407
+line: Nicaragua
+node: Nicaragua
+408
+line: Niger
+node: Niger
+409
+line: Nigeria
+node: Nigeria
+410
+line: Ningxia
+node: Ningxia
+411
+line: Niue
+node: Niue
+412
+line: Norfolk Island
+node: Norfolk Island
+413
+line: North Korea
+node: North Korea
+414
+line: North Kosovo
+node: North Kosovo
+415
+line: North Macedonia
+node: North Macedonia
+416
+line: North and East Syria
+node: North and East Syria
+417
+line: Northern Cyprus
+node: Northern Cyprus
+418
+line: Northern Ireland
+node: Northern Ireland
+419
+line: Northern Mariana Islands
+node: Northern Mariana Islands
+420
+line: Norway
+node: Norway
+421
+line: OCLC
+node: OCLC
+422
+line: Oman
+node: Oman
+423
+line: One-China policy
+node: One-China policy
+424
+line: Organisation of Islamic Cooperation
+node: Organisation of Islamic Cooperation
+425
+line: Oslo Accords
+node: Oslo Accords
+426
+line: Oxford University Press
+node: Oxford University Press
+427
+line: Pakistan
+node: Pakistan
+428
+line: Palau
+node: Palau
+429
+line: Palestine Liberation Organization
+node: Palestine Liberation Organization
+430
+line: Palestinian National Authority
+node: Palestinian National Authority
+431
+line: Palestinian territories
+node: Palestinian territories
+432
+line: Palmyra Atoll
+node: Palmyra Atoll
+433
+line: Panama
+node: Panama
+434
+line: Papua (province)
+node: Papua (province)
+435
+line: Papua New Guinea
+node: Papua New Guinea
+436
+line: Paraguay
+node: Paraguay
+437
+line: Peru
+node: Peru
+438
+line: Peter I Island
+node: Peter I Island
+439
+line: Philippines
+node: Philippines
+440
+line: Pitcairn Islands
+node: Pitcairn Islands
+441
+line: Poland
+node: Poland
+442
+line: Political divisions of Mexico
+node: Political divisions of Mexico
+443
+line: Political divisions of the United States
+node: Political divisions of the United States
+444
+line: Political status of Crimea
+node: Political status of Crimea
+445
+line: Political status of Taiwan
+node: Political status of Taiwan
+446
+line: Political status of the Cook Islands and Niue
+node: Political status of the Cook Islands and Niue
+447
+line: Politics of Comoros
+node: Politics of Comoros
+448
+line: Pope
+node: Pope
+449
+line: Portugal
+node: Portugal
+450
+line: President of France
+node: President of France
+451
+line: Prespa agreement
+node: Prespa agreement
+452
+line: Pridnestrovie
+node: Pridnestrovie
+453
+line: Proto-state
+node: Proto-state
+454
+line: Provinces and territories of Canada
+node: Provinces and territories of Canada
+455
+line: Provinces of Argentina
+node: Provinces of Argentina
+456
+line: Provinces of Indonesia
+node: Provinces of Indonesia
+457
+line: Provinces of Nepal
+node: Provinces of Nepal
+458
+line: Provisional Administrative Entity of South Ossetia
+node: Provisional Administrative Entity of South Ossetia
+459
+line: PrÃ­ncipe
+node: PrÃ­ncipe
+460
+line: Puerto Rico
+node: Puerto Rico
+461
+line: Puntland
+node: Puntland
+462
+line: Qatar
+node: Qatar
+463
+line: Queen Maud Land
+node: Queen Maud Land
+464
+line: Regions of Ethiopia
+node: Regions of Ethiopia
+465
+line: RegiÃ³n AutÃ³noma del AtlÃ¡ntico Norte
+node: RegiÃ³n AutÃ³noma del AtlÃ¡ntico Norte
+466
+line: RegiÃ³n AutÃ³noma del AtlÃ¡ntico Sur
+node: RegiÃ³n AutÃ³noma del AtlÃ¡ntico Sur
+467
+line: Republic of Artsakh
+node: Republic of Artsakh
+468
+line: Republic of China
+node: Republic of China
+469
+line: Republic of Ireland
+node: Republic of Ireland
+470
+line: Republic of the Congo
+node: Republic of the Congo
+471
+line: Republika Srpska
+node: Republika Srpska
+472
+line: Rodrigues
+node: Rodrigues
+473
+line: Roman Catholic Diocese of Urgell
+node: Roman Catholic Diocese of Urgell
+474
+line: Romania
+node: Romania
+475
+line: Ross Dependency
+node: Ross Dependency
+476
+line: Rotuma
+node: Rotuma
+477
+line: Russia
+node: Russia
+478
+line: Rwanda
+node: Rwanda
+479
+line: RÃ©union
+node: RÃ©union
+480
+line: Saba
+node: Saba
+481
+line: Sahrawi Arab Democratic Republic
+node: Sahrawi Arab Democratic Republic
+482
+line: Saint BarthÃ©lemy
+node: Saint BarthÃ©lemy
+483
+line: Saint Helena, Ascension and Tristan da Cunha
+node: Saint Helena, Ascension and Tristan da Cunha
+484
+line: Saint Kitts and Nevis
+node: Saint Kitts and Nevis
+485
+line: Saint Lucia
+node: Saint Lucia
+486
+line: Saint Pierre and Miquelon
+node: Saint Pierre and Miquelon
+487
+line: Saint Vincent and the Grenadines
+node: Saint Vincent and the Grenadines
+488
+line: Samoa
+node: Samoa
+489
+line: San Marino
+node: San Marino
+490
+line: Sardinia
+node: Sardinia
+491
+line: Saudi Arabia
+node: Saudi Arabia
+492
+line: Scotland
+node: Scotland
+493
+line: Senegal
+node: Senegal
+494
+line: Serbia
+node: Serbia
+495
+line: Serranilla Bank
+node: Serranilla Bank
+496
+line: Seychelles
+node: Seychelles
+497
+line: Shared sovereignty
+node: Shared sovereignty
+498
+line: Sicily
+node: Sicily
+499
+line: Sierra Leone
+node: Sierra Leone
+500
+line: Singapore
+node: Singapore
+501
+line: Sint Eustatius
+node: Sint Eustatius
+502
+line: Sint Maarten
+node: Sint Maarten
+503
+line: Slovakia
+node: Slovakia
+504
+line: Slovenia
+node: Slovenia
+505
+line: Solomon Islands
+node: Solomon Islands
+506
+line: Somalia
+node: Somalia
+507
+line: Somaliland
+node: Somaliland
+508
+line: South Africa
+node: South Africa
+509
+line: South Georgia and the South Sandwich Islands
+node: South Georgia and the South Sandwich Islands
+510
+line: South Korea
+node: South Korea
+511
+line: South Ossetia
+node: South Ossetia
+512
+line: South Sudan
+node: South Sudan
+513
+line: Southern Provinces
+node: Southern Provinces
+514
+line: Sovereign Military Order of Malta
+node: Sovereign Military Order of Malta
+515
+line: Sovereign state
+line: Sovereignty
+node: Sovereignty
+516
+line: Spain
+node: Spain
+517
+line: Special Region of Yogyakarta
+node: Special Region of Yogyakarta
+518
+line: Special administrative regions of China
+node: Special administrative regions of China
+519
+line: Spratly Islands
+node: Spratly Islands
+520
+line: Sri Lanka
+node: Sri Lanka
+521
+line: St. Kitts
+node: St. Kitts
+522
+line: State of Palestine
+node: State of Palestine
+523
+line: Stateless society
+node: Stateless society
+524
+line: States and federal territories of Malaysia
+node: States and federal territories of Malaysia
+525
+line: States and territories of Australia
+node: States and territories of Australia
+526
+line: States and territories of India
+node: States and territories of India
+527
+line: States of Austria
+node: States of Austria
+528
+line: States of Brazil
+node: States of Brazil
+529
+line: States of Germany
+node: States of Germany
+530
+line: States of Nigeria
+node: States of Nigeria
+531
+line: States of South Sudan
+node: States of South Sudan
+532
+line: States of Sudan
+node: States of Sudan
+533
+line: States of Venezuela
+node: States of Venezuela
+534
+line: Subdivisions of Pakistan
+node: Subdivisions of Pakistan
+535
+line: Sudan
+node: Sudan
+536
+line: Supercontinent
+node: Supercontinent
+537
+line: Supranational union
+node: Supranational union
+538
+line: Suriname
+node: Suriname
+539
+line: Svalbard
+node: Svalbard
+540
+line: Svalbard Treaty
+node: Svalbard Treaty
+541
+line: Sweden
+node: Sweden
+542
+line: Switzerland
+node: Switzerland
+543
+line: Syria
+node: Syria
+544
+line: Syrian Interim Government
+node: Syrian Interim Government
+545
+line: Syrian civil war
+node: Syrian civil war
+546
+line: SÃ£o TomÃ© and PrÃ­ncipe
+node: SÃ£o TomÃ© and PrÃ­ncipe
+547
+line: Taipei
+node: Taipei
+548
+line: Taipei Times
+node: Taipei Times
+549
+line: Taiwan
+node: Taiwan
+550
+line: Taiwan Province, People's Republic of China
+node: Taiwan Province, People's Republic of China
+551
+line: Taiwan independence movement
+node: Taiwan independence movement
+552
+line: Tajikistan
+node: Tajikistan
+553
+line: Tanzania
+node: Tanzania
+554
+line: Terra nullius
+node: Terra nullius
+555
+line: Territorial autonomy
+node: Territorial autonomy
+556
+line: Territorial claims in Antarctica
+node: Territorial claims in Antarctica
+557
+line: Thailand
+node: Thailand
+558
+line: The Africa Report
+node: The Africa Report
+559
+line: The Bahamas
+node: The Bahamas
+560
+line: The Gambia
+node: The Gambia
+561
+line: Tibet Autonomous Region
+node: Tibet Autonomous Region
+562
+line: Tindouf
+node: Tindouf
+563
+line: Tobago
+node: Tobago
+564
+line: Togo
+node: Togo
+565
+line: Tokelau
+node: Tokelau
+566
+line: Tonga
+node: Tonga
+567
+line: Transnistria
+node: Transnistria
+568
+line: Transnistria autonomous territorial unit with special legal status
+node: Transnistria autonomous territorial unit with special legal status
+569
+line: Treaty of Paris (1856)
+node: Treaty of Paris (1856)
+570
+line: Trentino-Alto Adige/SÃ¼dtirol
+node: Trentino-Alto Adige/SÃ¼dtirol
+571
+line: Trinidad and Tobago
+node: Trinidad and Tobago
+572
+line: Tunisia
+node: Tunisia
+573
+line: Turkey
+node: Turkey
+574
+line: Turkmenistan
+node: Turkmenistan
+575
+line: Turks and Caicos Islands
+node: Turks and Caicos Islands
+576
+line: Tuvalu
+node: Tuvalu
+577
+line: Uganda
+node: Uganda
+578
+line: Ukraine
+node: Ukraine
+579
+line: Uncontacted people
+node: Uncontacted people
+580
+line: Unincorporated area
+node: Unincorporated area
+581
+line: Unincorporated territories
+node: Unincorporated territories
+582
+line: United Arab Emirates
+node: United Arab Emirates
+583
+line: United Kingdom
+line: United Nations
+node: United Nations
+584
+line: United Nations General Assembly observers
+node: United Nations General Assembly observers
+585
+line: United Nations Interim Administration Mission in Kosovo
+node: United Nations Interim Administration Mission in Kosovo
+586
+line: United Nations Security Council
+node: United Nations Security Council
+587
+line: United Nations Security Council Resolution 1244
+node: United Nations Security Council Resolution 1244
+588
+line: United Nations System
+node: United Nations System
+589
+line: United States
+node: United States
+590
+line: United States Virgin Islands
+node: United States Virgin Islands
+591
+line: Universal Postal Union
+node: Universal Postal Union
+592
+line: University of Minnesota Law School
+node: University of Minnesota Law School
+593
+line: University of Virginia School of Law
+node: University of Virginia School of Law
+594
+line: University of the South Pacific
+node: University of the South Pacific
+595
+line: Uruguay
+node: Uruguay
+596
+line: Uzbekistan
+node: Uzbekistan
+597
+line: Vanuatu
+node: Vanuatu
+598
+line: Vatican City
+node: Vatican City
+599
+line: Venezuela
+node: Venezuela
+600
+line: Vietnam
+node: Vietnam
+601
+line: Vojvodina
+node: Vojvodina
+602
+line: Wake Island
+node: Wake Island
+603
+line: Wales
+node: Wales
+604
+line: Wall (Western Sahara)
+node: Wall (Western Sahara)
+605
+line: Wallis and Futuna
+node: Wallis and Futuna
+606
+line: Washington, D.C.
+node: Washington, D.C.
+607
+line: Wayback Machine
+line: West Bank
+node: West Bank
+608
+line: West Bank Areas in the Oslo II Accord
+node: West Bank Areas in the Oslo II Accord
+609
+line: West Papua (province)
+node: West Papua (province)
+610
+line: Western Sahara
+node: Western Sahara
+611
+line: World Bank Group
+node: World Bank Group
+612
+line: World Intellectual Property Organization
+node: World Intellectual Property Organization
+613
+line: World Trade Organization
+node: World Trade Organization
+614
+line: Xinjiang
+node: Xinjiang
+615
+line: Yale Journal of International Affairs
+node: Yale Journal of International Affairs
+616
+line: Yemen
+node: Yemen
+617
+line: Zaire
+node: Zaire
+618
+line: Zambia
+node: Zambia
+619
+line: Zanzibar
+node: Zanzibar
+620
+line: Zimbabwe
+node: Zimbabwe
+621
+line: Ã…land Islands
+node: Ã…land Islands
+622
+end of method
+made markov!!
+0.136273
+finished row 0
+finished row 1
+finished row 2
+finished row 3
+finished row 4
+finished row 5
+finished row 6
+finished row 7
+finished row 8
+finished row 9
+finished row 10
+finished row 11
+finished row 12
+finished row 13
+finished row 14
+finished row 15
+finished row 16
+finished row 17
+finished row 18
+finished row 19
+finished row 20
+finished row 21
+finished row 22
+finished row 23
+finished row 24
+finished row 25
+finished row 26
+finished row 27
+finished row 28
+finished row 29
+finished row 30
+finished row 31
+finished row 32
+finished row 33
+finished row 34
+finished row 35
+finished row 36
+finished row 37
+finished row 38
+finished row 39
+finished row 40
+finished row 41
+finished row 42
+finished row 43
+finished row 44
+finished row 45
+finished row 46
+finished row 47
+finished row 48
+finished row 49
+finished row 50
+finished row 51
+finished row 52
+finished row 53
+finished row 54
+finished row 55
+finished row 56
+finished row 57
+finished row 58
+finished row 59
+finished row 60
+finished row 61
+finished row 62
+finished row 63
+finished row 64
+finished row 65
+finished row 66
+finished row 67
+finished row 68
+finished row 69
+finished row 70
+finished row 71
+finished row 72
+finished row 73
+finished row 74
+finished row 75
+finished row 76
+finished row 77
+finished row 78
+finished row 79
+finished row 80
+finished row 81
+finished row 82
+finished row 83
+finished row 84
+finished row 85
+finished row 86
+finished row 87
+finished row 88
+finished row 89
+finished row 90
+finished row 91
+finished row 92
+finished row 93
+finished row 94
+finished row 95
+finished row 96
+finished row 97
+finished row 98
+finished row 99
+finished row 100
+finished row 101
+finished row 102
+finished row 103
+finished row 104
+finished row 105
+finished row 106
+finished row 107
+finished row 108
+finished row 109
+finished row 110
+finished row 111
+finished row 112
+finished row 113
+finished row 114
+finished row 115
+finished row 116
+finished row 117
+finished row 118
+finished row 119
+finished row 120
+finished row 121
+finished row 122
+finished row 123
+finished row 124
+finished row 125
+finished row 126
+finished row 127
+finished row 128
+finished row 129
+finished row 130
+finished row 131
+finished row 132
+finished row 133
+finished row 134
+finished row 135
+finished row 136
+finished row 137
+finished row 138
+finished row 139
+finished row 140
+finished row 141
+finished row 142
+finished row 143
+finished row 144
+finished row 145
+finished row 146
+finished row 147
+finished row 148
+finished row 149
+finished row 150
+finished row 151
+finished row 152
+finished row 153
+finished row 154
+finished row 155
+finished row 156
+finished row 157
+finished row 158
+finished row 159
+finished row 160
+finished row 161
+finished row 162
+finished row 163
+finished row 164
+finished row 165
+finished row 166
+finished row 167
+finished row 168
+finished row 169
+finished row 170
+finished row 171
+finished row 172
+finished row 173
+finished row 174
+finished row 175
+finished row 176
+finished row 177
+finished row 178
+finished row 179
+finished row 180
+finished row 181
+finished row 182
+finished row 183
+finished row 184
+finished row 185
+finished row 186
+finished row 187
+finished row 188
+finished row 189
+finished row 190
+finished row 191
+finished row 192
+finished row 193
+finished row 194
+finished row 195
+finished row 196
+finished row 197
+finished row 198
+finished row 199
+finished row 200
+finished row 201
+finished row 202
+finished row 203
+finished row 204
+finished row 205
+finished row 206
+finished row 207
+finished row 208
+finished row 209
+finished row 210
+finished row 211
+finished row 212
+finished row 213
+finished row 214
+finished row 215
+finished row 216
+finished row 217
+finished row 218
+finished row 219
+finished row 220
+finished row 221
+finished row 222
+finished row 223
+finished row 224
+finished row 225
+finished row 226
+finished row 227
+finished row 228
+finished row 229
+finished row 230
+finished row 231
+finished row 232
+finished row 233
+finished row 234
+finished row 235
+finished row 236
+finished row 237
+finished row 238
+finished row 239
+finished row 240
+finished row 241
+finished row 242
+finished row 243
+finished row 244
+finished row 245
+finished row 246
+finished row 247
+finished row 248
+finished row 249
+finished row 250
+finished row 251
+finished row 252
+finished row 253
+finished row 254
+finished row 255
+finished row 256
+finished row 257
+finished row 258
+finished row 259
+finished row 260
+finished row 261
+finished row 262
+finished row 263
+finished row 264
+finished row 265
+finished row 266
+finished row 267
+finished row 268
+finished row 269
+finished row 270
+finished row 271
+finished row 272
+finished row 273
+finished row 274
+finished row 275
+finished row 276
+finished row 277
+finished row 278
+finished row 279
+finished row 280
+finished row 281
+finished row 282
+finished row 283
+finished row 284
+finished row 285
+finished row 286
+finished row 287
+finished row 288
+finished row 289
+finished row 290
+finished row 291
+finished row 292
+finished row 293
+finished row 294
+finished row 295
+finished row 296
+finished row 297
+finished row 298
+finished row 299
+finished row 300
+finished row 301
+finished row 302
+finished row 303
+finished row 304
+finished row 305
+finished row 306
+finished row 307
+finished row 308
+finished row 309
+finished row 310
+finished row 311
+finished row 312
+finished row 313
+finished row 314
+finished row 315
+finished row 316
+finished row 317
+finished row 318
+finished row 319
+finished row 320
+finished row 321
+finished row 322
+finished row 323
+finished row 324
+finished row 325
+finished row 326
+finished row 327
+finished row 328
+finished row 329
+finished row 330
+finished row 331
+finished row 332
+finished row 333
+finished row 334
+finished row 335
+finished row 336
+finished row 337
+finished row 338
+finished row 339
+finished row 340
+finished row 341
+finished row 342
+finished row 343
+finished row 344
+finished row 345
+finished row 346
+finished row 347
+finished row 348
+finished row 349
+finished row 350
+finished row 351
+finished row 352
+finished row 353
+finished row 354
+finished row 355
+finished row 356
+finished row 357
+finished row 358
+finished row 359
+finished row 360
+finished row 361
+finished row 362
+finished row 363
+finished row 364
+finished row 365
+finished row 366
+finished row 367
+finished row 368
+finished row 369
+finished row 370
+finished row 371
+finished row 372
+finished row 373
+finished row 374
+finished row 375
+finished row 376
+finished row 377
+finished row 378
+finished row 379
+finished row 380
+finished row 381
+finished row 382
+finished row 383
+finished row 384
+finished row 385
+finished row 386
+finished row 387
+finished row 388
+finished row 389
+finished row 390
+finished row 391
+finished row 392
+finished row 393
+finished row 394
+finished row 395
+finished row 396
+finished row 397
+finished row 398
+finished row 399
+finished row 400
+finished row 401
+finished row 402
+finished row 403
+finished row 404
+finished row 405
+finished row 406
+finished row 407
+finished row 408
+finished row 409
+finished row 410
+finished row 411
+finished row 412
+finished row 413
+finished row 414
+finished row 415
+finished row 416
+finished row 417
+finished row 418
+finished row 419
+finished row 420
+finished row 421
+finished row 422
+finished row 423
+finished row 424
+finished row 425
+finished row 426
+finished row 427
+finished row 428
+finished row 429
+finished row 430
+finished row 431
+finished row 432
+finished row 433
+finished row 434
+finished row 435
+finished row 436
+finished row 437
+finished row 438
+finished row 439
+finished row 440
+finished row 441
+finished row 442
+finished row 443
+finished row 444
+finished row 445
+finished row 446
+finished row 447
+finished row 448
+finished row 449
+finished row 450
+finished row 451
+finished row 452
+finished row 453
+finished row 454
+finished row 455
+finished row 456
+finished row 457
+finished row 458
+finished row 459
+finished row 460
+finished row 461
+finished row 462
+finished row 463
+finished row 464
+finished row 465
+finished row 466
+finished row 467
+finished row 468
+finished row 469
+finished row 470
+finished row 471
+finished row 472
+finished row 473
+finished row 474
+finished row 475
+finished row 476
+finished row 477
+finished row 478
+finished row 479
+finished row 480
+finished row 481
+finished row 482
+finished row 483
+finished row 484
+finished row 485
+finished row 486
+finished row 487
+finished row 488
+finished row 489
+finished row 490
+finished row 491
+finished row 492
+finished row 493
+finished row 494
+finished row 495
+finished row 496
+finished row 497
+finished row 498
+finished row 499
+finished row 500
+finished row 501
+finished row 502
+finished row 503
+finished row 504
+finished row 505
+finished row 506
+finished row 507
+finished row 508
+finished row 509
+finished row 510
+finished row 511
+finished row 512
+finished row 513
+finished row 514
+finished row 515
+finished row 516
+finished row 517
+finished row 518
+finished row 519
+finished row 520
+finished row 521
+finished row 522
+finished row 523
+finished row 524
+finished row 525
+finished row 526
+finished row 527
+finished row 528
+finished row 529
+finished row 530
+finished row 531
+finished row 532
+finished row 533
+finished row 534
+finished row 535
+finished row 536
+finished row 537
+finished row 538
+finished row 539
+finished row 540
+finished row 541
+finished row 542
+finished row 543
+finished row 544
+finished row 545
+finished row 546
+finished row 547
+finished row 548
+finished row 549
+finished row 550
+finished row 551
+finished row 552
+finished row 553
+finished row 554
+finished row 555
+finished row 556
+finished row 557
+finished row 558
+finished row 559
+finished row 560
+finished row 561
+finished row 562
+finished row 563
+finished row 564
+finished row 565
+finished row 566
+finished row 567
+finished row 568
+finished row 569
+finished row 570
+finished row 571
+finished row 572
+finished row 573
+finished row 574
+finished row 575
+finished row 576
+finished row 577
+finished row 578
+finished row 579
+finished row 580
+finished row 581
+finished row 582
+finished row 583
+finished row 584
+finished row 585
+finished row 586
+finished row 587
+finished row 588
+finished row 589
+finished row 590
+finished row 591
+finished row 592
+finished row 593
+finished row 594
+finished row 595
+finished row 596
+finished row 597
+finished row 598
+finished row 599
+finished row 600
+finished row 601
+finished row 602
+finished row 603
+finished row 604
+finished row 605
+finished row 606
+finished row 607
+finished row 608
+finished row 609
+finished row 610
+finished row 611
+finished row 612
+finished row 613
+finished row 614
+finished row 615
+finished row 616
+finished row 617
+finished row 618
+finished row 619
+finished row 620
+finished row 621
+1 - 0.0231002
+The Gambia: 0.00302112
+Luxembourg: 0.00302269
+Mongolia: 0.00308244
+Slovakia: 0.00308374
+Transnistria: 0.0030914
+Gabon: 0.00311075
+North Korea: 0.00311332
+Ivory Coast: 0.00311902
+Moldova: 0.00313448
+Tunisia: 0.00318845
+Laos: 0.00319431
+Ukraine: 0.00320415
+Bangladesh: 0.00320516
+Cambodia: 0.00321705
+Bosnia and Herzegovina: 0.00322017
+Brunei: 0.0032231
+League of Nations: 0.00324002
+East Timor: 0.00325779
+Albania: 0.00328941
+Malta: 0.00330316
+Republic of China: 0.00333507
+Romania: 0.00337628
+Iraq: 0.00340204
+Kyrgyzstan: 0.00346796
+Tajikistan: 0.00348377
+Uzbekistan: 0.00349024
+South Africa: 0.00349064
+Turkmenistan: 0.00350459
+Singapore: 0.00351326
+Algeria: 0.00353897
+Switzerland: 0.00353961
+Slovenia: 0.00356256
+Austria: 0.00356326
+Philippines: 0.00360817
+Kuwait: 0.0036192
+Qatar: 0.00364118
+Finland: 0.00365875
+Iran: 0.00370399
+World Trade Organization: 0.00370759
+Spain: 0.00377028
+Poland: 0.00379431
+Croatia: 0.00383168
+Afghanistan: 0.00384804
+Bahrain: 0.00385419
+Vietnam: 0.00390801
+Republic of Artsakh: 0.0039205
+Bulgaria: 0.00394825
+Norway: 0.00402469
+Armenia: 0.00403172
+Akrotiri and Dhekelia: 0.00403348
+Azerbaijan: 0.00418212
+Kazakhstan: 0.00422487
+Jordan: 0.00422521
+International Court of Justice: 0.00427969
+Lebanon: 0.00435022
+New Zealand: 0.00437868
+Morocco: 0.00439172
+Syria: 0.00440994
+United Arab Emirates: 0.00446134
+Belgium: 0.0044803
+Italy: 0.00450496
+Brazil: 0.00451666
+Mexico: 0.00452486
+South Ossetia: 0.00454558
+Georgia (country): 0.00456658
+Portugal: 0.0046427
+United Nations Security Council: 0.00464785
+JSTOR: 0.00477558
+Egypt: 0.00482109
+State of Palestine: 0.00484143
+South Korea: 0.00485777
+Australia: 0.00486458
+Argentina: 0.0048704
+Northern Cyprus: 0.00501355
+Thailand: 0.00509176
+Saudi Arabia: 0.00514098
+Malaysia: 0.00522332
+Cyprus: 0.00532832
+2008 Kosovo declaration of independence: 0.00536406
+Abkhazia: 0.00552984
+Germany: 0.00560762
+Canada: 0.00563727
+Japan: 0.00573279
+Turkey: 0.00580666
+International recognition of Kosovo: 0.00582134
+Israel: 0.00591975
+Taiwan: 0.00600042
+Pakistan: 0.00629206
+European Union: 0.00639722
+Member states of the United Nations: 0.00641462
+India: 0.00649502
+China: 0.00673818
+Serbia: 0.00714935
+Russia: 0.00730546
+Indonesia: 0.00743477
+France: 0.00824339
+United States: 0.00924584
+United Nations: 0.010252
+Kosovo: 0.0134188
+finished row 0
+finished row 1
+finished row 2
+finished row 3
+finished row 4
+finished row 5
+finished row 6
+finished row 7
+finished row 8
+finished row 9
+finished row 10
+finished row 11
+finished row 12
+finished row 13
+finished row 14
+finished row 15
+finished row 16
+finished row 17
+finished row 18
+finished row 19
+finished row 20
+finished row 21
+finished row 22
+finished row 23
+finished row 24
+finished row 25
+finished row 26
+finished row 27
+finished row 28
+finished row 29
+finished row 30
+finished row 31
+finished row 32
+finished row 33
+finished row 34
+finished row 35
+finished row 36
+finished row 37
+finished row 38
+finished row 39
+finished row 40
+finished row 41
+finished row 42
+finished row 43
+finished row 44
+finished row 45
+finished row 46
+finished row 47
+finished row 48
+finished row 49
+finished row 50
+finished row 51
+finished row 52
+finished row 53
+finished row 54
+finished row 55
+finished row 56
+finished row 57
+finished row 58
+finished row 59
+finished row 60
+finished row 61
+finished row 62
+finished row 63
+finished row 64
+finished row 65
+finished row 66
+finished row 67
+finished row 68
+finished row 69
+finished row 70
+finished row 71
+finished row 72
+finished row 73
+finished row 74
+finished row 75
+finished row 76
+finished row 77
+finished row 78
+finished row 79
+finished row 80
+finished row 81
+finished row 82
+finished row 83
+finished row 84
+finished row 85
+finished row 86
+finished row 87
+finished row 88
+finished row 89
+finished row 90
+finished row 91
+finished row 92
+finished row 93
+finished row 94
+finished row 95
+finished row 96
+finished row 97
+finished row 98
+finished row 99
+finished row 100
+finished row 101
+finished row 102
+finished row 103
+finished row 104
+finished row 105
+finished row 106
+finished row 107
+finished row 108
+finished row 109
+finished row 110
+finished row 111
+finished row 112
+finished row 113
+finished row 114
+finished row 115
+finished row 116
+finished row 117
+finished row 118
+finished row 119
+finished row 120
+finished row 121
+finished row 122
+finished row 123
+finished row 124
+finished row 125
+finished row 126
+finished row 127
+finished row 128
+finished row 129
+finished row 130
+finished row 131
+finished row 132
+finished row 133
+finished row 134
+finished row 135
+finished row 136
+finished row 137
+finished row 138
+finished row 139
+finished row 140
+finished row 141
+finished row 142
+finished row 143
+finished row 144
+finished row 145
+finished row 146
+finished row 147
+finished row 148
+finished row 149
+finished row 150
+finished row 151
+finished row 152
+finished row 153
+finished row 154
+finished row 155
+finished row 156
+finished row 157
+finished row 158
+finished row 159
+finished row 160
+finished row 161
+finished row 162
+finished row 163
+finished row 164
+finished row 165
+finished row 166
+finished row 167
+finished row 168
+finished row 169
+finished row 170
+finished row 171
+finished row 172
+finished row 173
+finished row 174
+finished row 175
+finished row 176
+finished row 177
+finished row 178
+finished row 179
+finished row 180
+finished row 181
+finished row 182
+finished row 183
+finished row 184
+finished row 185
+finished row 186
+finished row 187
+finished row 188
+finished row 189
+finished row 190
+finished row 191
+finished row 192
+finished row 193
+finished row 194
+finished row 195
+finished row 196
+finished row 197
+finished row 198
+finished row 199
+finished row 200
+finished row 201
+finished row 202
+finished row 203
+finished row 204
+finished row 205
+finished row 206
+finished row 207
+finished row 208
+finished row 209
+finished row 210
+finished row 211
+finished row 212
+finished row 213
+finished row 214
+finished row 215
+finished row 216
+finished row 217
+finished row 218
+finished row 219
+finished row 220
+finished row 221
+finished row 222
+finished row 223
+finished row 224
+finished row 225
+finished row 226
+finished row 227
+finished row 228
+finished row 229
+finished row 230
+finished row 231
+finished row 232
+finished row 233
+finished row 234
+finished row 235
+finished row 236
+finished row 237
+finished row 238
+finished row 239
+finished row 240
+finished row 241
+finished row 242
+finished row 243
+finished row 244
+finished row 245
+finished row 246
+finished row 247
+finished row 248
+finished row 249
+finished row 250
+finished row 251
+finished row 252
+finished row 253
+finished row 254
+finished row 255
+finished row 256
+finished row 257
+finished row 258
+finished row 259
+finished row 260
+finished row 261
+finished row 262
+finished row 263
+finished row 264
+finished row 265
+finished row 266
+finished row 267
+finished row 268
+finished row 269
+finished row 270
+finished row 271
+finished row 272
+finished row 273
+finished row 274
+finished row 275
+finished row 276
+finished row 277
+finished row 278
+finished row 279
+finished row 280
+finished row 281
+finished row 282
+finished row 283
+finished row 284
+finished row 285
+finished row 286
+finished row 287
+finished row 288
+finished row 289
+finished row 290
+finished row 291
+finished row 292
+finished row 293
+finished row 294
+finished row 295
+finished row 296
+finished row 297
+finished row 298
+finished row 299
+finished row 300
+finished row 301
+finished row 302
+finished row 303
+finished row 304
+finished row 305
+finished row 306
+finished row 307
+finished row 308
+finished row 309
+finished row 310
+finished row 311
+finished row 312
+finished row 313
+finished row 314
+finished row 315
+finished row 316
+finished row 317
+finished row 318
+finished row 319
+finished row 320
+finished row 321
+finished row 322
+finished row 323
+finished row 324
+finished row 325
+finished row 326
+finished row 327
+finished row 328
+finished row 329
+finished row 330
+finished row 331
+finished row 332
+finished row 333
+finished row 334
+finished row 335
+finished row 336
+finished row 337
+finished row 338
+finished row 339
+finished row 340
+finished row 341
+finished row 342
+finished row 343
+finished row 344
+finished row 345
+finished row 346
+finished row 347
+finished row 348
+finished row 349
+finished row 350
+finished row 351
+finished row 352
+finished row 353
+finished row 354
+finished row 355
+finished row 356
+finished row 357
+finished row 358
+finished row 359
+finished row 360
+finished row 361
+finished row 362
+finished row 363
+finished row 364
+finished row 365
+finished row 366
+finished row 367
+finished row 368
+finished row 369
+finished row 370
+finished row 371
+finished row 372
+finished row 373
+finished row 374
+finished row 375
+finished row 376
+finished row 377
+finished row 378
+finished row 379
+finished row 380
+finished row 381
+finished row 382
+finished row 383
+finished row 384
+finished row 385
+finished row 386
+finished row 387
+finished row 388
+finished row 389
+finished row 390
+finished row 391
+finished row 392
+finished row 393
+finished row 394
+finished row 395
+finished row 396
+finished row 397
+finished row 398
+finished row 399
+finished row 400
+finished row 401
+finished row 402
+finished row 403
+finished row 404
+finished row 405
+finished row 406
+finished row 407
+finished row 408
+finished row 409
+finished row 410
+finished row 411
+finished row 412
+finished row 413
+finished row 414
+finished row 415
+finished row 416
+finished row 417
+finished row 418
+finished row 419
+finished row 420
+finished row 421
+finished row 422
+finished row 423
+finished row 424
+finished row 425
+finished row 426
+finished row 427
+finished row 428
+finished row 429
+finished row 430
+finished row 431
+finished row 432
+finished row 433
+finished row 434
+finished row 435
+finished row 436
+finished row 437
+finished row 438
+finished row 439
+finished row 440
+finished row 441
+finished row 442
+finished row 443
+finished row 444
+finished row 445
+finished row 446
+finished row 447
+finished row 448
+finished row 449
+finished row 450
+finished row 451
+finished row 452
+finished row 453
+finished row 454
+finished row 455
+finished row 456
+finished row 457
+finished row 458
+finished row 459
+finished row 460
+finished row 461
+finished row 462
+finished row 463
+finished row 464
+finished row 465
+finished row 466
+finished row 467
+finished row 468
+finished row 469
+finished row 470
+finished row 471
+finished row 472
+finished row 473
+finished row 474
+finished row 475
+finished row 476
+finished row 477
+finished row 478
+finished row 479
+finished row 480
+finished row 481
+finished row 482
+finished row 483
+finished row 484
+finished row 485
+finished row 486
+finished row 487
+finished row 488
+finished row 489
+finished row 490
+finished row 491
+finished row 492
+finished row 493
+finished row 494
+finished row 495
+finished row 496
+finished row 497
+finished row 498
+finished row 499
+finished row 500
+finished row 501
+finished row 502
+finished row 503
+finished row 504
+finished row 505
+finished row 506
+finished row 507
+finished row 508
+finished row 509
+finished row 510
+finished row 511
+finished row 512
+finished row 513
+finished row 514
+finished row 515
+finished row 516
+finished row 517
+finished row 518
+finished row 519
+finished row 520
+finished row 521
+finished row 522
+finished row 523
+finished row 524
+finished row 525
+finished row 526
+finished row 527
+finished row 528
+finished row 529
+finished row 530
+finished row 531
+finished row 532
+finished row 533
+finished row 534
+finished row 535
+finished row 536
+finished row 537
+finished row 538
+finished row 539
+finished row 540
+finished row 541
+finished row 542
+finished row 543
+finished row 544
+finished row 545
+finished row 546
+finished row 547
+finished row 548
+finished row 549
+finished row 550
+finished row 551
+finished row 552
+finished row 553
+finished row 554
+finished row 555
+finished row 556
+finished row 557
+finished row 558
+finished row 559
+finished row 560
+finished row 561
+finished row 562
+finished row 563
+finished row 564
+finished row 565
+finished row 566
+finished row 567
+finished row 568
+finished row 569
+finished row 570
+finished row 571
+finished row 572
+finished row 573
+finished row 574
+finished row 575
+finished row 576
+finished row 577
+finished row 578
+finished row 579
+finished row 580
+finished row 581
+finished row 582
+finished row 583
+finished row 584
+finished row 585
+finished row 586
+finished row 587
+finished row 588
+finished row 589
+finished row 590
+finished row 591
+finished row 592
+finished row 593
+finished row 594
+finished row 595
+finished row 596
+finished row 597
+finished row 598
+finished row 599
+finished row 600
+finished row 601
+finished row 602
+finished row 603
+finished row 604
+finished row 605
+finished row 606
+finished row 607
+finished row 608
+finished row 609
+finished row 610
+finished row 611
+finished row 612
+finished row 613
+finished row 614
+finished row 615
+finished row 616
+finished row 617
+finished row 618
+finished row 619
+finished row 620
+finished row 621
+2 - 0.0025923
+Sierra Leone: 0.00288884
+Vanuatu: 0.0028898
+Seychelles: 0.00289992
+Monaco: 0.0029216
+Poland: 0.00292209
+Christmas Island: 0.00292297
+Saint Lucia: 0.00292396
+Greece: 0.00293501
+Austria: 0.00295171
+Puerto Rico: 0.00296263
+Chile: 0.0029934
+Bahrain: 0.00300513
+Mozambique: 0.00300806
+Yemen: 0.00302486
+Belgium: 0.00304881
+Serbia: 0.00305607
+Cocos (Keeling) Islands: 0.00305669
+Cameroon: 0.00305767
+Ghana: 0.00306448
+Dominica: 0.00306688
+Vietnam: 0.00306849
+Sudan: 0.00307195
+Sri Lanka: 0.00307511
+Albania: 0.00307815
+Bangladesh: 0.00308327
+Republic of Ireland: 0.00310934
+Tunisia: 0.00313088
+Brunei: 0.00314998
+Republic of Artsakh: 0.00315083
+Brazil: 0.00315269
+United Arab Emirates: 0.00315319
+Venezuela: 0.00317034
+Qatar: 0.00317553
+Jordan: 0.00318232
+Transnistria: 0.00319056
+Dominican Republic: 0.00320335
+Nigeria: 0.00320616
+American Samoa: 0.00323175
+British Indian Ocean Territory: 0.00324257
+Oman: 0.00325185
+Kosovo: 0.00325387
+State of Palestine: 0.00327377
+Jersey: 0.00330188
+South Ossetia: 0.0033053
+Switzerland: 0.00330656
+Mauritius: 0.00330814
+Malta: 0.00331191
+Afghanistan: 0.00331969
+Iraq: 0.00333456
+Algeria: 0.00333904
+Abkhazia: 0.00338247
+Guyana: 0.00339215
+Saudi Arabia: 0.00343208
+Hong Kong: 0.00344215
+Isle of Man: 0.00346648
+Gibraltar: 0.00351527
+Mexico: 0.00351976
+South Africa: 0.0035897
+Northern Cyprus: 0.00368915
+Syria: 0.00374373
+Iran: 0.0037524
+Lebanon: 0.00377024
+Singapore: 0.0038231
+Malaysia: 0.00382356
+Philippines: 0.00382864
+JSTOR: 0.00385089
+Georgia (country): 0.00386855
+Azerbaijan: 0.00392165
+Kazakhstan: 0.00399869
+Bosnia and Herzegovina: 0.00400994
+New Zealand: 0.00401099
+Argentina: 0.0041025
+Akrotiri and Dhekelia: 0.00411107
+Thailand: 0.00415096
+Armenia: 0.00416446
+Taiwan: 0.00425672
+Morocco: 0.00427059
+Germany: 0.00430457
+South Korea: 0.0043238
+Egypt: 0.00434857
+Israel: 0.00453835
+Pakistan: 0.00468218
+Portugal: 0.00471006
+Italy: 0.00471069
+Cyprus: 0.00490783
+Turkey: 0.00490818
+Australia: 0.00492972
+Japan: 0.00495681
+Canada: 0.00499858
+Indonesia: 0.0051165
+European Union: 0.0051856
+Spain: 0.00537388
+Russia: 0.00538807
+India: 0.00544035
+China: 0.00544597
+OCLC: 0.00643647
+France: 0.00666931
+United Nations: 0.00713293
+United States: 0.0077919
+finished row 0
+finished row 1
+finished row 2
+finished row 3
+finished row 4
+finished row 5
+finished row 6
+finished row 7
+finished row 8
+finished row 9
+finished row 10
+finished row 11
+finished row 12
+finished row 13
+finished row 14
+finished row 15
+finished row 16
+finished row 17
+finished row 18
+finished row 19
+finished row 20
+finished row 21
+finished row 22
+finished row 23
+finished row 24
+finished row 25
+finished row 26
+finished row 27
+finished row 28
+finished row 29
+finished row 30
+finished row 31
+finished row 32
+finished row 33
+finished row 34
+finished row 35
+finished row 36
+finished row 37
+finished row 38
+finished row 39
+finished row 40
+finished row 41
+finished row 42
+finished row 43
+finished row 44
+finished row 45
+finished row 46
+finished row 47
+finished row 48
+finished row 49
+finished row 50
+finished row 51
+finished row 52
+finished row 53
+finished row 54
+finished row 55
+finished row 56
+finished row 57
+finished row 58
+finished row 59
+finished row 60
+finished row 61
+finished row 62
+finished row 63
+finished row 64
+finished row 65
+finished row 66
+finished row 67
+finished row 68
+finished row 69
+finished row 70
+finished row 71
+finished row 72
+finished row 73
+finished row 74
+finished row 75
+finished row 76
+finished row 77
+finished row 78
+finished row 79
+finished row 80
+finished row 81
+finished row 82
+finished row 83
+finished row 84
+finished row 85
+finished row 86
+finished row 87
+finished row 88
+finished row 89
+finished row 90
+finished row 91
+finished row 92
+finished row 93
+finished row 94
+finished row 95
+finished row 96
+finished row 97
+finished row 98
+finished row 99
+finished row 100
+finished row 101
+finished row 102
+finished row 103
+finished row 104
+finished row 105
+finished row 106
+finished row 107
+finished row 108
+finished row 109
+finished row 110
+finished row 111
+finished row 112
+finished row 113
+finished row 114
+finished row 115
+finished row 116
+finished row 117
+finished row 118
+finished row 119
+finished row 120
+finished row 121
+finished row 122
+finished row 123
+finished row 124
+finished row 125
+finished row 126
+finished row 127
+finished row 128
+finished row 129
+finished row 130
+finished row 131
+finished row 132
+finished row 133
+finished row 134
+finished row 135
+finished row 136
+finished row 137
+finished row 138
+finished row 139
+finished row 140
+finished row 141
+finished row 142
+finished row 143
+finished row 144
+finished row 145
+finished row 146
+finished row 147
+finished row 148
+finished row 149
+finished row 150
+finished row 151
+finished row 152
+finished row 153
+finished row 154
+finished row 155
+finished row 156
+finished row 157
+finished row 158
+finished row 159
+finished row 160
+finished row 161
+finished row 162
+finished row 163
+finished row 164
+finished row 165
+finished row 166
+finished row 167
+finished row 168
+finished row 169
+finished row 170
+finished row 171
+finished row 172
+finished row 173
+finished row 174
+finished row 175
+finished row 176
+finished row 177
+finished row 178
+finished row 179
+finished row 180
+finished row 181
+finished row 182
+finished row 183
+finished row 184
+finished row 185
+finished row 186
+finished row 187
+finished row 188
+finished row 189
+finished row 190
+finished row 191
+finished row 192
+finished row 193
+finished row 194
+finished row 195
+finished row 196
+finished row 197
+finished row 198
+finished row 199
+finished row 200
+finished row 201
+finished row 202
+finished row 203
+finished row 204
+finished row 205
+finished row 206
+finished row 207
+finished row 208
+finished row 209
+finished row 210
+finished row 211
+finished row 212
+finished row 213
+finished row 214
+finished row 215
+finished row 216
+finished row 217
+finished row 218
+finished row 219
+finished row 220
+finished row 221
+finished row 222
+finished row 223
+finished row 224
+finished row 225
+finished row 226
+finished row 227
+finished row 228
+finished row 229
+finished row 230
+finished row 231
+finished row 232
+finished row 233
+finished row 234
+finished row 235
+finished row 236
+finished row 237
+finished row 238
+finished row 239
+finished row 240
+finished row 241
+finished row 242
+finished row 243
+finished row 244
+finished row 245
+finished row 246
+finished row 247
+finished row 248
+finished row 249
+finished row 250
+finished row 251
+finished row 252
+finished row 253
+finished row 254
+finished row 255
+finished row 256
+finished row 257
+finished row 258
+finished row 259
+finished row 260
+finished row 261
+finished row 262
+finished row 263
+finished row 264
+finished row 265
+finished row 266
+finished row 267
+finished row 268
+finished row 269
+finished row 270
+finished row 271
+finished row 272
+finished row 273
+finished row 274
+finished row 275
+finished row 276
+finished row 277
+finished row 278
+finished row 279
+finished row 280
+finished row 281
+finished row 282
+finished row 283
+finished row 284
+finished row 285
+finished row 286
+finished row 287
+finished row 288
+finished row 289
+finished row 290
+finished row 291
+finished row 292
+finished row 293
+finished row 294
+finished row 295
+finished row 296
+finished row 297
+finished row 298
+finished row 299
+finished row 300
+finished row 301
+finished row 302
+finished row 303
+finished row 304
+finished row 305
+finished row 306
+finished row 307
+finished row 308
+finished row 309
+finished row 310
+finished row 311
+finished row 312
+finished row 313
+finished row 314
+finished row 315
+finished row 316
+finished row 317
+finished row 318
+finished row 319
+finished row 320
+finished row 321
+finished row 322
+finished row 323
+finished row 324
+finished row 325
+finished row 326
+finished row 327
+finished row 328
+finished row 329
+finished row 330
+finished row 331
+finished row 332
+finished row 333
+finished row 334
+finished row 335
+finished row 336
+finished row 337
+finished row 338
+finished row 339
+finished row 340
+finished row 341
+finished row 342
+finished row 343
+finished row 344
+finished row 345
+finished row 346
+finished row 347
+finished row 348
+finished row 349
+finished row 350
+finished row 351
+finished row 352
+finished row 353
+finished row 354
+finished row 355
+finished row 356
+finished row 357
+finished row 358
+finished row 359
+finished row 360
+finished row 361
+finished row 362
+finished row 363
+finished row 364
+finished row 365
+finished row 366
+finished row 367
+finished row 368
+finished row 369
+finished row 370
+finished row 371
+finished row 372
+finished row 373
+finished row 374
+finished row 375
+finished row 376
+finished row 377
+finished row 378
+finished row 379
+finished row 380
+finished row 381
+finished row 382
+finished row 383
+finished row 384
+finished row 385
+finished row 386
+finished row 387
+finished row 388
+finished row 389
+finished row 390
+finished row 391
+finished row 392
+finished row 393
+finished row 394
+finished row 395
+finished row 396
+finished row 397
+finished row 398
+finished row 399
+finished row 400
+finished row 401
+finished row 402
+finished row 403
+finished row 404
+finished row 405
+finished row 406
+finished row 407
+finished row 408
+finished row 409
+finished row 410
+finished row 411
+finished row 412
+finished row 413
+finished row 414
+finished row 415
+finished row 416
+finished row 417
+finished row 418
+finished row 419
+finished row 420
+finished row 421
+finished row 422
+finished row 423
+finished row 424
+finished row 425
+finished row 426
+finished row 427
+finished row 428
+finished row 429
+finished row 430
+finished row 431
+finished row 432
+finished row 433
+finished row 434
+finished row 435
+finished row 436
+finished row 437
+finished row 438
+finished row 439
+finished row 440
+finished row 441
+finished row 442
+finished row 443
+finished row 444
+finished row 445
+finished row 446
+finished row 447
+finished row 448
+finished row 449
+finished row 450
+finished row 451
+finished row 452
+finished row 453
+finished row 454
+finished row 455
+finished row 456
+finished row 457
+finished row 458
+finished row 459
+finished row 460
+finished row 461
+finished row 462
+finished row 463
+finished row 464
+finished row 465
+finished row 466
+finished row 467
+finished row 468
+finished row 469
+finished row 470
+finished row 471
+finished row 472
+finished row 473
+finished row 474
+finished row 475
+finished row 476
+finished row 477
+finished row 478
+finished row 479
+finished row 480
+finished row 481
+finished row 482
+finished row 483
+finished row 484
+finished row 485
+finished row 486
+finished row 487
+finished row 488
+finished row 489
+finished row 490
+finished row 491
+finished row 492
+finished row 493
+finished row 494
+finished row 495
+finished row 496
+finished row 497
+finished row 498
+finished row 499
+finished row 500
+finished row 501
+finished row 502
+finished row 503
+finished row 504
+finished row 505
+finished row 506
+finished row 507
+finished row 508
+finished row 509
+finished row 510
+finished row 511
+finished row 512
+finished row 513
+finished row 514
+finished row 515
+finished row 516
+finished row 517
+finished row 518
+finished row 519
+finished row 520
+finished row 521
+finished row 522
+finished row 523
+finished row 524
+finished row 525
+finished row 526
+finished row 527
+finished row 528
+finished row 529
+finished row 530
+finished row 531
+finished row 532
+finished row 533
+finished row 534
+finished row 535
+finished row 536
+finished row 537
+finished row 538
+finished row 539
+finished row 540
+finished row 541
+finished row 542
+finished row 543
+finished row 544
+finished row 545
+finished row 546
+finished row 547
+finished row 548
+finished row 549
+finished row 550
+finished row 551
+finished row 552
+finished row 553
+finished row 554
+finished row 555
+finished row 556
+finished row 557
+finished row 558
+finished row 559
+finished row 560
+finished row 561
+finished row 562
+finished row 563
+finished row 564
+finished row 565
+finished row 566
+finished row 567
+finished row 568
+finished row 569
+finished row 570
+finished row 571
+finished row 572
+finished row 573
+finished row 574
+finished row 575
+finished row 576
+finished row 577
+finished row 578
+finished row 579
+finished row 580
+finished row 581
+finished row 582
+finished row 583
+finished row 584
+finished row 585
+finished row 586
+finished row 587
+finished row 588
+finished row 589
+finished row 590
+finished row 591
+finished row 592
+finished row 593
+finished row 594
+finished row 595
+finished row 596
+finished row 597
+finished row 598
+finished row 599
+finished row 600
+finished row 601
+finished row 602
+finished row 603
+finished row 604
+finished row 605
+finished row 606
+finished row 607
+finished row 608
+finished row 609
+finished row 610
+finished row 611
+finished row 612
+finished row 613
+finished row 614
+finished row 615
+finished row 616
+finished row 617
+finished row 618
+finished row 619
+finished row 620
+finished row 621
+3 - 0.000651342
+Yemen: 0.00277022
+Cuba: 0.00278612
+South Ossetia: 0.00279156
+Kenya: 0.00280115
+Nicaragua: 0.00281076
+Jordan: 0.00281284
+Trinidad and Tobago: 0.00281331
+Montserrat: 0.00282344
+United Arab Emirates: 0.00282672
+State of Palestine: 0.00283568
+Abkhazia: 0.00284506
+Antigua and Barbuda: 0.00284818
+Qatar: 0.00285289
+Sierra Leone: 0.0028596
+Bangladesh: 0.00286439
+Christmas Island: 0.00287441
+Tunisia: 0.00289204
+Mozambique: 0.00289205
+Republic of Ireland: 0.00290273
+Sri Lanka: 0.00291184
+Afghanistan: 0.00291199
+Brazil: 0.00293583
+Anguilla: 0.0029422
+Brunei: 0.0029438
+Seychelles: 0.00295538
+Switzerland: 0.0029579
+Cameroon: 0.00298049
+Oman: 0.00299969
+Cocos (Keeling) Islands: 0.00300707
+Iraq: 0.00300724
+Vanuatu: 0.00301644
+Sudan: 0.00301804
+Ghana: 0.0030352
+Saudi Arabia: 0.00306804
+Saint Lucia: 0.00307029
+Papua New Guinea: 0.00308269
+Algeria: 0.0031144
+Bermuda: 0.00315951
+Nigeria: 0.00316241
+Guam: 0.00316581
+Hong Kong: 0.00316697
+Northern Cyprus: 0.00317985
+Malta: 0.00319124
+Jamaica: 0.00321241
+Chile: 0.00321992
+Dominica: 0.00324972
+Falkland Islands: 0.00325511
+Jersey: 0.00325605
+British Indian Ocean Territory: 0.00326938
+Dominican Republic: 0.00331661
+Azerbaijan: 0.00336054
+Isle of Man: 0.00339418
+Mauritius: 0.00339714
+Georgia (country): 0.00340409
+Lebanon: 0.00340698
+Iran: 0.00340955
+Venezuela: 0.00341161
+Syria: 0.00344338
+Kazakhstan: 0.00346063
+South Africa: 0.00347601
+Gibraltar: 0.00348242
+Mexico: 0.00348299
+Puerto Rico: 0.00349139
+Guyana: 0.00352554
+Bosnia and Herzegovina: 0.00357314
+Armenia: 0.00361087
+Malaysia: 0.0036221
+Philippines: 0.00364688
+Singapore: 0.00367092
+JSTOR: 0.00370588
+Taiwan: 0.0037461
+Thailand: 0.00381857
+American Samoa: 0.00389984
+Akrotiri and Dhekelia: 0.00390239
+Israel: 0.00394089
+South Korea: 0.0039512
+Argentina: 0.00395198
+Egypt: 0.00395574
+Germany: 0.00401461
+Morocco: 0.00404224
+New Zealand: 0.00411586
+Pakistan: 0.00435162
+Turkey: 0.00440856
+Italy: 0.0044505
+Portugal: 0.00446431
+Cyprus: 0.00455813
+Japan: 0.00459501
+Russia: 0.00473204
+Indonesia: 0.00479111
+European Union: 0.00486666
+Australia: 0.00494401
+China: 0.00495507
+Canada: 0.00508329
+India: 0.00518837
+Spain: 0.00529783
+OCLC: 0.00626263
+France: 0.00654001
+United Nations: 0.00669456
+United States: 0.00761338
+finished row 0
+finished row 1
+finished row 2
+finished row 3
+finished row 4
+finished row 5
+finished row 6
+finished row 7
+finished row 8
+finished row 9
+finished row 10
+finished row 11
+finished row 12
+finished row 13
+finished row 14
+finished row 15
+finished row 16
+finished row 17
+finished row 18
+finished row 19
+finished row 20
+finished row 21
+finished row 22
+finished row 23
+finished row 24
+finished row 25
+finished row 26
+finished row 27
+finished row 28
+finished row 29
+finished row 30
+finished row 31
+finished row 32
+finished row 33
+finished row 34
+finished row 35
+finished row 36
+finished row 37
+finished row 38
+finished row 39
+finished row 40
+finished row 41
+finished row 42
+finished row 43
+finished row 44
+finished row 45
+finished row 46
+finished row 47
+finished row 48
+finished row 49
+finished row 50
+finished row 51
+finished row 52
+finished row 53
+finished row 54
+finished row 55
+finished row 56
+finished row 57
+finished row 58
+finished row 59
+finished row 60
+finished row 61
+finished row 62
+finished row 63
+finished row 64
+finished row 65
+finished row 66
+finished row 67
+finished row 68
+finished row 69
+finished row 70
+finished row 71
+finished row 72
+finished row 73
+finished row 74
+finished row 75
+finished row 76
+finished row 77
+finished row 78
+finished row 79
+finished row 80
+finished row 81
+finished row 82
+finished row 83
+finished row 84
+finished row 85
+finished row 86
+finished row 87
+finished row 88
+finished row 89
+finished row 90
+finished row 91
+finished row 92
+finished row 93
+finished row 94
+finished row 95
+finished row 96
+finished row 97
+finished row 98
+finished row 99
+finished row 100
+finished row 101
+finished row 102
+finished row 103
+finished row 104
+finished row 105
+finished row 106
+finished row 107
+finished row 108
+finished row 109
+finished row 110
+finished row 111
+finished row 112
+finished row 113
+finished row 114
+finished row 115
+finished row 116
+finished row 117
+finished row 118
+finished row 119
+finished row 120
+finished row 121
+finished row 122
+finished row 123
+finished row 124
+finished row 125
+finished row 126
+finished row 127
+finished row 128
+finished row 129
+finished row 130
+finished row 131
+finished row 132
+finished row 133
+finished row 134
+finished row 135
+finished row 136
+finished row 137
+finished row 138
+finished row 139
+finished row 140
+finished row 141
+finished row 142
+finished row 143
+finished row 144
+finished row 145
+finished row 146
+finished row 147
+finished row 148
+finished row 149
+finished row 150
+finished row 151
+finished row 152
+finished row 153
+finished row 154
+finished row 155
+finished row 156
+finished row 157
+finished row 158
+finished row 159
+finished row 160
+finished row 161
+finished row 162
+finished row 163
+finished row 164
+finished row 165
+finished row 166
+finished row 167
+finished row 168
+finished row 169
+finished row 170
+finished row 171
+finished row 172
+finished row 173
+finished row 174
+finished row 175
+finished row 176
+finished row 177
+finished row 178
+finished row 179
+finished row 180
+finished row 181
+finished row 182
+finished row 183
+finished row 184
+finished row 185
+finished row 186
+finished row 187
+finished row 188
+finished row 189
+finished row 190
+finished row 191
+finished row 192
+finished row 193
+finished row 194
+finished row 195
+finished row 196
+finished row 197
+finished row 198
+finished row 199
+finished row 200
+finished row 201
+finished row 202
+finished row 203
+finished row 204
+finished row 205
+finished row 206
+finished row 207
+finished row 208
+finished row 209
+finished row 210
+finished row 211
+finished row 212
+finished row 213
+finished row 214
+finished row 215
+finished row 216
+finished row 217
+finished row 218
+finished row 219
+finished row 220
+finished row 221
+finished row 222
+finished row 223
+finished row 224
+finished row 225
+finished row 226
+finished row 227
+finished row 228
+finished row 229
+finished row 230
+finished row 231
+finished row 232
+finished row 233
+finished row 234
+finished row 235
+finished row 236
+finished row 237
+finished row 238
+finished row 239
+finished row 240
+finished row 241
+finished row 242
+finished row 243
+finished row 244
+finished row 245
+finished row 246
+finished row 247
+finished row 248
+finished row 249
+finished row 250
+finished row 251
+finished row 252
+finished row 253
+finished row 254
+finished row 255
+finished row 256
+finished row 257
+finished row 258
+finished row 259
+finished row 260
+finished row 261
+finished row 262
+finished row 263
+finished row 264
+finished row 265
+finished row 266
+finished row 267
+finished row 268
+finished row 269
+finished row 270
+finished row 271
+finished row 272
+finished row 273
+finished row 274
+finished row 275
+finished row 276
+finished row 277
+finished row 278
+finished row 279
+finished row 280
+finished row 281
+finished row 282
+finished row 283
+finished row 284
+finished row 285
+finished row 286
+finished row 287
+finished row 288
+finished row 289
+finished row 290
+finished row 291
+finished row 292
+finished row 293
+finished row 294
+finished row 295
+finished row 296
+finished row 297
+finished row 298
+finished row 299
+finished row 300
+finished row 301
+finished row 302
+finished row 303
+finished row 304
+finished row 305
+finished row 306
+finished row 307
+finished row 308
+finished row 309
+finished row 310
+finished row 311
+finished row 312
+finished row 313
+finished row 314
+finished row 315
+finished row 316
+finished row 317
+finished row 318
+finished row 319
+finished row 320
+finished row 321
+finished row 322
+finished row 323
+finished row 324
+finished row 325
+finished row 326
+finished row 327
+finished row 328
+finished row 329
+finished row 330
+finished row 331
+finished row 332
+finished row 333
+finished row 334
+finished row 335
+finished row 336
+finished row 337
+finished row 338
+finished row 339
+finished row 340
+finished row 341
+finished row 342
+finished row 343
+finished row 344
+finished row 345
+finished row 346
+finished row 347
+finished row 348
+finished row 349
+finished row 350
+finished row 351
+finished row 352
+finished row 353
+finished row 354
+finished row 355
+finished row 356
+finished row 357
+finished row 358
+finished row 359
+finished row 360
+finished row 361
+finished row 362
+finished row 363
+finished row 364
+finished row 365
+finished row 366
+finished row 367
+finished row 368
+finished row 369
+finished row 370
+finished row 371
+finished row 372
+finished row 373
+finished row 374
+finished row 375
+finished row 376
+finished row 377
+finished row 378
+finished row 379
+finished row 380
+finished row 381
+finished row 382
+finished row 383
+finished row 384
+finished row 385
+finished row 386
+finished row 387
+finished row 388
+finished row 389
+finished row 390
+finished row 391
+finished row 392
+finished row 393
+finished row 394
+finished row 395
+finished row 396
+finished row 397
+finished row 398
+finished row 399
+finished row 400
+finished row 401
+finished row 402
+finished row 403
+finished row 404
+finished row 405
+finished row 406
+finished row 407
+finished row 408
+finished row 409
+finished row 410
+finished row 411
+finished row 412
+finished row 413
+finished row 414
+finished row 415
+finished row 416
+finished row 417
+finished row 418
+finished row 419
+finished row 420
+finished row 421
+finished row 422
+finished row 423
+finished row 424
+finished row 425
+finished row 426
+finished row 427
+finished row 428
+finished row 429
+finished row 430
+finished row 431
+finished row 432
+finished row 433
+finished row 434
+finished row 435
+finished row 436
+finished row 437
+finished row 438
+finished row 439
+finished row 440
+finished row 441
+finished row 442
+finished row 443
+finished row 444
+finished row 445
+finished row 446
+finished row 447
+finished row 448
+finished row 449
+finished row 450
+finished row 451
+finished row 452
+finished row 453
+finished row 454
+finished row 455
+finished row 456
+finished row 457
+finished row 458
+finished row 459
+finished row 460
+finished row 461
+finished row 462
+finished row 463
+finished row 464
+finished row 465
+finished row 466
+finished row 467
+finished row 468
+finished row 469
+finished row 470
+finished row 471
+finished row 472
+finished row 473
+finished row 474
+finished row 475
+finished row 476
+finished row 477
+finished row 478
+finished row 479
+finished row 480
+finished row 481
+finished row 482
+finished row 483
+finished row 484
+finished row 485
+finished row 486
+finished row 487
+finished row 488
+finished row 489
+finished row 490
+finished row 491
+finished row 492
+finished row 493
+finished row 494
+finished row 495
+finished row 496
+finished row 497
+finished row 498
+finished row 499
+finished row 500
+finished row 501
+finished row 502
+finished row 503
+finished row 504
+finished row 505
+finished row 506
+finished row 507
+finished row 508
+finished row 509
+finished row 510
+finished row 511
+finished row 512
+finished row 513
+finished row 514
+finished row 515
+finished row 516
+finished row 517
+finished row 518
+finished row 519
+finished row 520
+finished row 521
+finished row 522
+finished row 523
+finished row 524
+finished row 525
+finished row 526
+finished row 527
+finished row 528
+finished row 529
+finished row 530
+finished row 531
+finished row 532
+finished row 533
+finished row 534
+finished row 535
+finished row 536
+finished row 537
+finished row 538
+finished row 539
+finished row 540
+finished row 541
+finished row 542
+finished row 543
+finished row 544
+finished row 545
+finished row 546
+finished row 547
+finished row 548
+finished row 549
+finished row 550
+finished row 551
+finished row 552
+finished row 553
+finished row 554
+finished row 555
+finished row 556
+finished row 557
+finished row 558
+finished row 559
+finished row 560
+finished row 561
+finished row 562
+finished row 563
+finished row 564
+finished row 565
+finished row 566
+finished row 567
+finished row 568
+finished row 569
+finished row 570
+finished row 571
+finished row 572
+finished row 573
+finished row 574
+finished row 575
+finished row 576
+finished row 577
+finished row 578
+finished row 579
+finished row 580
+finished row 581
+finished row 582
+finished row 583
+finished row 584
+finished row 585
+finished row 586
+finished row 587
+finished row 588
+finished row 589
+finished row 590
+finished row 591
+finished row 592
+finished row 593
+finished row 594
+finished row 595
+finished row 596
+finished row 597
+finished row 598
+finished row 599
+finished row 600
+finished row 601
+finished row 602
+finished row 603
+finished row 604
+finished row 605
+finished row 606
+finished row 607
+finished row 608
+finished row 609
+finished row 610
+finished row 611
+finished row 612
+finished row 613
+finished row 614
+finished row 615
+finished row 616
+finished row 617
+finished row 618
+finished row 619
+finished row 620
+finished row 621
+4 - 0.000601923
+South Ossetia: 0.00262151
+Jordan: 0.00264927
+Cayman Islands: 0.0026533
+Kenya: 0.00266247
+United Arab Emirates: 0.00266279
+State of Palestine: 0.00266775
+Abkhazia: 0.00267286
+Cuba: 0.00268214
+Qatar: 0.00268781
+Bangladesh: 0.00270627
+Nicaragua: 0.00270884
+Sierra Leone: 0.00271085
+Montserrat: 0.00271137
+Trinidad and Tobago: 0.0027156
+Tunisia: 0.0027289
+Christmas Island: 0.00272906
+Mozambique: 0.00273656
+Antigua and Barbuda: 0.0027371
+Afghanistan: 0.0027388
+Republic of Ireland: 0.00274584
+Sri Lanka: 0.00275766
+Brunei: 0.00278559
+Brazil: 0.00278712
+Switzerland: 0.00279628
+Seychelles: 0.00280921
+Cameroon: 0.00282356
+Anguilla: 0.00282644
+Oman: 0.0028287
+Iraq: 0.00283535
+Cocos (Keeling) Islands: 0.00285513
+Sudan: 0.002859
+Ghana: 0.00288179
+Vanuatu: 0.00288585
+Saudi Arabia: 0.00289284
+Saint Lucia: 0.00293425
+Algeria: 0.00294242
+Papua New Guinea: 0.00295924
+Northern Cyprus: 0.00298628
+Hong Kong: 0.00299016
+Nigeria: 0.00300344
+Malta: 0.00302897
+Bermuda: 0.0030385
+Guam: 0.00307595
+Jamaica: 0.00309006
+Jersey: 0.00309122
+Chile: 0.00309703
+Dominica: 0.00310682
+British Indian Ocean Territory: 0.00310752
+Falkland Islands: 0.00312487
+Azerbaijan: 0.00315527
+Dominican Republic: 0.00317472
+Georgia (country): 0.0032051
+Iran: 0.00321416
+Lebanon: 0.00321507
+Isle of Man: 0.00322125
+Mauritius: 0.00323512
+Kazakhstan: 0.00324912
+Syria: 0.00326774
+Venezuela: 0.00327777
+South Africa: 0.00329741
+Gibraltar: 0.00330698
+Mexico: 0.00332687
+Guyana: 0.00335855
+Bosnia and Herzegovina: 0.0033623
+Armenia: 0.00339546
+Puerto Rico: 0.00339909
+Malaysia: 0.00343698
+Philippines: 0.00346711
+Singapore: 0.00348031
+JSTOR: 0.00352462
+Taiwan: 0.00353564
+Thailand: 0.00361695
+Akrotiri and Dhekelia: 0.00369432
+Israel: 0.00370864
+Egypt: 0.00373113
+South Korea: 0.0037437
+Argentina: 0.00375807
+Germany: 0.00381938
+American Samoa: 0.0038235
+Morocco: 0.0038263
+New Zealand: 0.00394034
+Pakistan: 0.00411914
+Turkey: 0.00416373
+Italy: 0.00422531
+Portugal: 0.0042374
+Cyprus: 0.00430875
+Japan: 0.00436846
+Russia: 0.00446053
+Indonesia: 0.00457291
+European Union: 0.00461908
+China: 0.00469556
+Australia: 0.00472216
+Canada: 0.00485559
+India: 0.00493164
+Spain: 0.0050434
+OCLC: 0.00597216
+France: 0.00622688
+United Nations: 0.00636478
+United States: 0.00726809
+finished row 0
+finished row 1
+finished row 2
+finished row 3
+finished row 4
+finished row 5
+finished row 6
+finished row 7
+finished row 8
+finished row 9
+finished row 10
+finished row 11
+finished row 12
+finished row 13
+finished row 14
+finished row 15
+finished row 16
+finished row 17
+finished row 18
+finished row 19
+finished row 20
+finished row 21
+finished row 22
+finished row 23
+finished row 24
+finished row 25
+finished row 26
+finished row 27
+finished row 28
+finished row 29
+finished row 30
+finished row 31
+finished row 32
+finished row 33
+finished row 34
+finished row 35
+finished row 36
+finished row 37
+finished row 38
+finished row 39
+finished row 40
+finished row 41
+finished row 42
+finished row 43
+finished row 44
+finished row 45
+finished row 46
+finished row 47
+finished row 48
+finished row 49
+finished row 50
+finished row 51
+finished row 52
+finished row 53
+finished row 54
+finished row 55
+finished row 56
+finished row 57
+finished row 58
+finished row 59
+finished row 60
+finished row 61
+finished row 62
+finished row 63
+finished row 64
+finished row 65
+finished row 66
+finished row 67
+finished row 68
+finished row 69
+finished row 70
+finished row 71
+finished row 72
+finished row 73
+finished row 74
+finished row 75
+finished row 76
+finished row 77
+finished row 78
+finished row 79
+finished row 80
+finished row 81
+finished row 82
+finished row 83
+finished row 84
+finished row 85
+finished row 86
+finished row 87
+finished row 88
+finished row 89
+finished row 90
+finished row 91
+finished row 92
+finished row 93
+finished row 94
+finished row 95
+finished row 96
+finished row 97
+finished row 98
+finished row 99
+finished row 100
+finished row 101
+finished row 102
+finished row 103
+finished row 104
+finished row 105
+finished row 106
+finished row 107
+finished row 108
+finished row 109
+finished row 110
+finished row 111
+finished row 112
+finished row 113
+finished row 114
+finished row 115
+finished row 116
+finished row 117
+finished row 118
+finished row 119
+finished row 120
+finished row 121
+finished row 122
+finished row 123
+finished row 124
+finished row 125
+finished row 126
+finished row 127
+finished row 128
+finished row 129
+finished row 130
+finished row 131
+finished row 132
+finished row 133
+finished row 134
+finished row 135
+finished row 136
+finished row 137
+finished row 138
+finished row 139
+finished row 140
+finished row 141
+finished row 142
+finished row 143
+finished row 144
+finished row 145
+finished row 146
+finished row 147
+finished row 148
+finished row 149
+finished row 150
+finished row 151
+finished row 152
+finished row 153
+finished row 154
+finished row 155
+finished row 156
+finished row 157
+finished row 158
+finished row 159
+finished row 160
+finished row 161
+finished row 162
+finished row 163
+finished row 164
+finished row 165
+finished row 166
+finished row 167
+finished row 168
+finished row 169
+finished row 170
+finished row 171
+finished row 172
+finished row 173
+finished row 174
+finished row 175
+finished row 176
+finished row 177
+finished row 178
+finished row 179
+finished row 180
+finished row 181
+finished row 182
+finished row 183
+finished row 184
+finished row 185
+finished row 186
+finished row 187
+finished row 188
+finished row 189
+finished row 190
+finished row 191
+finished row 192
+finished row 193
+finished row 194
+finished row 195
+finished row 196
+finished row 197
+finished row 198
+finished row 199
+finished row 200
+finished row 201
+finished row 202
+finished row 203
+finished row 204
+finished row 205
+finished row 206
+finished row 207
+finished row 208
+finished row 209
+finished row 210
+finished row 211
+finished row 212
+finished row 213
+finished row 214
+finished row 215
+finished row 216
+finished row 217
+finished row 218
+finished row 219
+finished row 220
+finished row 221
+finished row 222
+finished row 223
+finished row 224
+finished row 225
+finished row 226
+finished row 227
+finished row 228
+finished row 229
+finished row 230
+finished row 231
+finished row 232
+finished row 233
+finished row 234
+finished row 235
+finished row 236
+finished row 237
+finished row 238
+finished row 239
+finished row 240
+finished row 241
+finished row 242
+finished row 243
+finished row 244
+finished row 245
+finished row 246
+finished row 247
+finished row 248
+finished row 249
+finished row 250
+finished row 251
+finished row 252
+finished row 253
+finished row 254
+finished row 255
+finished row 256
+finished row 257
+finished row 258
+finished row 259
+finished row 260
+finished row 261
+finished row 262
+finished row 263
+finished row 264
+finished row 265
+finished row 266
+finished row 267
+finished row 268
+finished row 269
+finished row 270
+finished row 271
+finished row 272
+finished row 273
+finished row 274
+finished row 275
+finished row 276
+finished row 277
+finished row 278
+finished row 279
+finished row 280
+finished row 281
+finished row 282
+finished row 283
+finished row 284
+finished row 285
+finished row 286
+finished row 287
+finished row 288
+finished row 289
+finished row 290
+finished row 291
+finished row 292
+finished row 293
+finished row 294
+finished row 295
+finished row 296
+finished row 297
+finished row 298
+finished row 299
+finished row 300
+finished row 301
+finished row 302
+finished row 303
+finished row 304
+finished row 305
+finished row 306
+finished row 307
+finished row 308
+finished row 309
+finished row 310
+finished row 311
+finished row 312
+finished row 313
+finished row 314
+finished row 315
+finished row 316
+finished row 317
+finished row 318
+finished row 319
+finished row 320
+finished row 321
+finished row 322
+finished row 323
+finished row 324
+finished row 325
+finished row 326
+finished row 327
+finished row 328
+finished row 329
+finished row 330
+finished row 331
+finished row 332
+finished row 333
+finished row 334
+finished row 335
+finished row 336
+finished row 337
+finished row 338
+finished row 339
+finished row 340
+finished row 341
+finished row 342
+finished row 343
+finished row 344
+finished row 345
+finished row 346
+finished row 347
+finished row 348
+finished row 349
+finished row 350
+finished row 351
+finished row 352
+finished row 353
+finished row 354
+finished row 355
+finished row 356
+finished row 357
+finished row 358
+finished row 359
+finished row 360
+finished row 361
+finished row 362
+finished row 363
+finished row 364
+finished row 365
+finished row 366
+finished row 367
+finished row 368
+finished row 369
+finished row 370
+finished row 371
+finished row 372
+finished row 373
+finished row 374
+finished row 375
+finished row 376
+finished row 377
+finished row 378
+finished row 379
+finished row 380
+finished row 381
+finished row 382
+finished row 383
+finished row 384
+finished row 385
+finished row 386
+finished row 387
+finished row 388
+finished row 389
+finished row 390
+finished row 391
+finished row 392
+finished row 393
+finished row 394
+finished row 395
+finished row 396
+finished row 397
+finished row 398
+finished row 399
+finished row 400
+finished row 401
+finished row 402
+finished row 403
+finished row 404
+finished row 405
+finished row 406
+finished row 407
+finished row 408
+finished row 409
+finished row 410
+finished row 411
+finished row 412
+finished row 413
+finished row 414
+finished row 415
+finished row 416
+finished row 417
+finished row 418
+finished row 419
+finished row 420
+finished row 421
+finished row 422
+finished row 423
+finished row 424
+finished row 425
+finished row 426
+finished row 427
+finished row 428
+finished row 429
+finished row 430
+finished row 431
+finished row 432
+finished row 433
+finished row 434
+finished row 435
+finished row 436
+finished row 437
+finished row 438
+finished row 439
+finished row 440
+finished row 441
+finished row 442
+finished row 443
+finished row 444
+finished row 445
+finished row 446
+finished row 447
+finished row 448
+finished row 449
+finished row 450
+finished row 451
+finished row 452
+finished row 453
+finished row 454
+finished row 455
+finished row 456
+finished row 457
+finished row 458
+finished row 459
+finished row 460
+finished row 461
+finished row 462
+finished row 463
+finished row 464
+finished row 465
+finished row 466
+finished row 467
+finished row 468
+finished row 469
+finished row 470
+finished row 471
+finished row 472
+finished row 473
+finished row 474
+finished row 475
+finished row 476
+finished row 477
+finished row 478
+finished row 479
+finished row 480
+finished row 481
+finished row 482
+finished row 483
+finished row 484
+finished row 485
+finished row 486
+finished row 487
+finished row 488
+finished row 489
+finished row 490
+finished row 491
+finished row 492
+finished row 493
+finished row 494
+finished row 495
+finished row 496
+finished row 497
+finished row 498
+finished row 499
+finished row 500
+finished row 501
+finished row 502
+finished row 503
+finished row 504
+finished row 505
+finished row 506
+finished row 507
+finished row 508
+finished row 509
+finished row 510
+finished row 511
+finished row 512
+finished row 513
+finished row 514
+finished row 515
+finished row 516
+finished row 517
+finished row 518
+finished row 519
+finished row 520
+finished row 521
+finished row 522
+finished row 523
+finished row 524
+finished row 525
+finished row 526
+finished row 527
+finished row 528
+finished row 529
+finished row 530
+finished row 531
+finished row 532
+finished row 533
+finished row 534
+finished row 535
+finished row 536
+finished row 537
+finished row 538
+finished row 539
+finished row 540
+finished row 541
+finished row 542
+finished row 543
+finished row 544
+finished row 545
+finished row 546
+finished row 547
+finished row 548
+finished row 549
+finished row 550
+finished row 551
+finished row 552
+finished row 553
+finished row 554
+finished row 555
+finished row 556
+finished row 557
+finished row 558
+finished row 559
+finished row 560
+finished row 561
+finished row 562
+finished row 563
+finished row 564
+finished row 565
+finished row 566
+finished row 567
+finished row 568
+finished row 569
+finished row 570
+finished row 571
+finished row 572
+finished row 573
+finished row 574
+finished row 575
+finished row 576
+finished row 577
+finished row 578
+finished row 579
+finished row 580
+finished row 581
+finished row 582
+finished row 583
+finished row 584
+finished row 585
+finished row 586
+finished row 587
+finished row 588
+finished row 589
+finished row 590
+finished row 591
+finished row 592
+finished row 593
+finished row 594
+finished row 595
+finished row 596
+finished row 597
+finished row 598
+finished row 599
+finished row 600
+finished row 601
+finished row 602
+finished row 603
+finished row 604
+finished row 605
+finished row 606
+finished row 607
+finished row 608
+finished row 609
+finished row 610
+finished row 611
+finished row 612
+finished row 613
+finished row 614
+finished row 615
+finished row 616
+finished row 617
+finished row 618
+finished row 619
+finished row 620
+finished row 621
+5 - 0.000545621
+South Ossetia: 0.00237624
+Jordan: 0.00240143
+Cayman Islands: 0.0024054
+Kenya: 0.00241352
+United Arab Emirates: 0.00241366
+State of Palestine: 0.00241815
+Abkhazia: 0.00242279
+Cuba: 0.00243174
+Qatar: 0.00243636
+Bangladesh: 0.00245312
+Nicaragua: 0.00245609
+Sierra Leone: 0.00245731
+Montserrat: 0.00245806
+Trinidad and Tobago: 0.00246222
+Tunisia: 0.00247363
+Christmas Island: 0.00247388
+Mozambique: 0.00248059
+Antigua and Barbuda: 0.00248148
+Afghanistan: 0.00248256
+Republic of Ireland: 0.00248906
+Sri Lanka: 0.00249977
+Brunei: 0.00252513
+Brazil: 0.00252662
+Switzerland: 0.0025349
+Seychelles: 0.00254654
+Cameroon: 0.00255947
+Anguilla: 0.00256237
+Oman: 0.00256407
+Iraq: 0.00257013
+Cocos (Keeling) Islands: 0.00258816
+Sudan: 0.00259162
+Ghana: 0.00261232
+Vanuatu: 0.00261618
+Saudi Arabia: 0.00262224
+Saint Lucia: 0.00266006
+Algeria: 0.00266721
+Papua New Guinea: 0.0026828
+Northern Cyprus: 0.00270685
+Hong Kong: 0.00271047
+Nigeria: 0.00272263
+Malta: 0.0027458
+Bermuda: 0.00275466
+Guam: 0.00278904
+Jamaica: 0.0028015
+Jersey: 0.0028022
+Chile: 0.00280795
+Dominica: 0.00281651
+British Indian Ocean Territory: 0.00281695
+Falkland Islands: 0.0028329
+Azerbaijan: 0.00286004
+Dominican Republic: 0.00287822
+Georgia (country): 0.00290527
+Iran: 0.00291347
+Lebanon: 0.00291439
+Isle of Man: 0.00292006
+Mauritius: 0.0029327
+Kazakhstan: 0.00294509
+Syria: 0.00296269
+Venezuela: 0.00297184
+South Africa: 0.00298906
+Gibraltar: 0.00299779
+Mexico: 0.00301615
+Guyana: 0.00304459
+Bosnia and Herzegovina: 0.00304775
+Armenia: 0.00307779
+Puerto Rico: 0.00308211
+Malaysia: 0.00311562
+Philippines: 0.00314303
+Singapore: 0.00315486
+JSTOR: 0.00319521
+Taiwan: 0.00320499
+Thailand: 0.0032788
+Akrotiri and Dhekelia: 0.00334881
+Israel: 0.0033617
+Egypt: 0.00338213
+South Korea: 0.00339366
+Argentina: 0.00340691
+Germany: 0.00346261
+American Samoa: 0.00346725
+Morocco: 0.00346855
+New Zealand: 0.00357222
+Pakistan: 0.00373394
+Turkey: 0.00377432
+Italy: 0.00383038
+Portugal: 0.00384158
+Cyprus: 0.00390575
+Japan: 0.00396032
+Russia: 0.00404342
+Indonesia: 0.00414564
+European Union: 0.00418726
+China: 0.00425665
+Australia: 0.00428092
+Canada: 0.00440192
+India: 0.00447064
+Spain: 0.00457212
+OCLC: 0.00541427
+France: 0.00564493
+United Nations: 0.00576999
+United States: 0.00658914
+finished row 0
+finished row 1
+finished row 2
+finished row 3
+finished row 4
+finished row 5
+finished row 6
+finished row 7
+finished row 8
+finished row 9
+finished row 10
+finished row 11
+finished row 12
+finished row 13
+finished row 14
+finished row 15
+finished row 16
+finished row 17
+finished row 18
+finished row 19
+finished row 20
+finished row 21
+finished row 22
+finished row 23
+finished row 24
+finished row 25
+finished row 26
+finished row 27
+finished row 28
+finished row 29
+finished row 30
+finished row 31
+finished row 32
+finished row 33
+finished row 34
+finished row 35
+finished row 36
+finished row 37
+finished row 38
+finished row 39
+finished row 40
+finished row 41
+finished row 42
+finished row 43
+finished row 44
+finished row 45
+finished row 46
+finished row 47
+finished row 48
+finished row 49
+finished row 50
+finished row 51
+finished row 52
+finished row 53
+finished row 54
+finished row 55
+finished row 56
+finished row 57
+finished row 58
+finished row 59
+finished row 60
+finished row 61
+finished row 62
+finished row 63
+finished row 64
+finished row 65
+finished row 66
+finished row 67
+finished row 68
+finished row 69
+finished row 70
+finished row 71
+finished row 72
+finished row 73
+finished row 74
+finished row 75
+finished row 76
+finished row 77
+finished row 78
+finished row 79
+finished row 80
+finished row 81
+finished row 82
+finished row 83
+finished row 84
+finished row 85
+finished row 86
+finished row 87
+finished row 88
+finished row 89
+finished row 90
+finished row 91
+finished row 92
+finished row 93
+finished row 94
+finished row 95
+finished row 96
+finished row 97
+finished row 98
+finished row 99
+finished row 100
+finished row 101
+finished row 102
+finished row 103
+finished row 104
+finished row 105
+finished row 106
+finished row 107
+finished row 108
+finished row 109
+finished row 110
+finished row 111
+finished row 112
+finished row 113
+finished row 114
+finished row 115
+finished row 116
+finished row 117
+finished row 118
+finished row 119
+finished row 120
+finished row 121
+finished row 122
+finished row 123
+finished row 124
+finished row 125
+finished row 126
+finished row 127
+finished row 128
+finished row 129
+finished row 130
+finished row 131
+finished row 132
+finished row 133
+finished row 134
+finished row 135
+finished row 136
+finished row 137
+finished row 138
+finished row 139
+finished row 140
+finished row 141
+finished row 142
+finished row 143
+finished row 144
+finished row 145
+finished row 146
+finished row 147
+finished row 148
+finished row 149
+finished row 150
+finished row 151
+finished row 152
+finished row 153
+finished row 154
+finished row 155
+finished row 156
+finished row 157
+finished row 158
+finished row 159
+finished row 160
+finished row 161
+finished row 162
+finished row 163
+finished row 164
+finished row 165
+finished row 166
+finished row 167
+finished row 168
+finished row 169
+finished row 170
+finished row 171
+finished row 172
+finished row 173
+finished row 174
+finished row 175
+finished row 176
+finished row 177
+finished row 178
+finished row 179
+finished row 180
+finished row 181
+finished row 182
+finished row 183
+finished row 184
+finished row 185
+finished row 186
+finished row 187
+finished row 188
+finished row 189
+finished row 190
+finished row 191
+finished row 192
+finished row 193
+finished row 194
+finished row 195
+finished row 196
+finished row 197
+finished row 198
+finished row 199
+finished row 200
+finished row 201
+finished row 202
+finished row 203
+finished row 204
+finished row 205
+finished row 206
+finished row 207
+finished row 208
+finished row 209
+finished row 210
+finished row 211
+finished row 212
+finished row 213
+finished row 214
+finished row 215
+finished row 216
+finished row 217
+finished row 218
+finished row 219
+finished row 220
+finished row 221
+finished row 222
+finished row 223
+finished row 224
+finished row 225
+finished row 226
+finished row 227
+finished row 228
+finished row 229
+finished row 230
+finished row 231
+finished row 232
+finished row 233
+finished row 234
+finished row 235
+finished row 236
+finished row 237
+finished row 238
+finished row 239
+finished row 240
+finished row 241
+finished row 242
+finished row 243
+finished row 244
+finished row 245
+finished row 246
+finished row 247
+finished row 248
+finished row 249
+finished row 250
+finished row 251
+finished row 252
+finished row 253
+finished row 254
+finished row 255
+finished row 256
+finished row 257
+finished row 258
+finished row 259
+finished row 260
+finished row 261
+finished row 262
+finished row 263
+finished row 264
+finished row 265
+finished row 266
+finished row 267
+finished row 268
+finished row 269
+finished row 270
+finished row 271
+finished row 272
+finished row 273
+finished row 274
+finished row 275
+finished row 276
+finished row 277
+finished row 278
+finished row 279
+finished row 280
+finished row 281
+finished row 282
+finished row 283
+finished row 284
+finished row 285
+finished row 286
+finished row 287
+finished row 288
+finished row 289
+finished row 290
+finished row 291
+finished row 292
+finished row 293
+finished row 294
+finished row 295
+finished row 296
+finished row 297
+finished row 298
+finished row 299
+finished row 300
+finished row 301
+finished row 302
+finished row 303
+finished row 304
+finished row 305
+finished row 306
+finished row 307
+finished row 308
+finished row 309
+finished row 310
+finished row 311
+finished row 312
+finished row 313
+finished row 314
+finished row 315
+finished row 316
+finished row 317
+finished row 318
+finished row 319
+finished row 320
+finished row 321
+finished row 322
+finished row 323
+finished row 324
+finished row 325
+finished row 326
+finished row 327
+finished row 328
+finished row 329
+finished row 330
+finished row 331
+finished row 332
+finished row 333
+finished row 334
+finished row 335
+finished row 336
+finished row 337
+finished row 338
+finished row 339
+finished row 340
+finished row 341
+finished row 342
+finished row 343
+finished row 344
+finished row 345
+finished row 346
+finished row 347
+finished row 348
+finished row 349
+finished row 350
+finished row 351
+finished row 352
+finished row 353
+finished row 354
+finished row 355
+finished row 356
+finished row 357
+finished row 358
+finished row 359
+finished row 360
+finished row 361
+finished row 362
+finished row 363
+finished row 364
+finished row 365
+finished row 366
+finished row 367
+finished row 368
+finished row 369
+finished row 370
+finished row 371
+finished row 372
+finished row 373
+finished row 374
+finished row 375
+finished row 376
+finished row 377
+finished row 378
+finished row 379
+finished row 380
+finished row 381
+finished row 382
+finished row 383
+finished row 384
+finished row 385
+finished row 386
+finished row 387
+finished row 388
+finished row 389
+finished row 390
+finished row 391
+finished row 392
+finished row 393
+finished row 394
+finished row 395
+finished row 396
+finished row 397
+finished row 398
+finished row 399
+finished row 400
+finished row 401
+finished row 402
+finished row 403
+finished row 404
+finished row 405
+finished row 406
+finished row 407
+finished row 408
+finished row 409
+finished row 410
+finished row 411
+finished row 412
+finished row 413
+finished row 414
+finished row 415
+finished row 416
+finished row 417
+finished row 418
+finished row 419
+finished row 420
+finished row 421
+finished row 422
+finished row 423
+finished row 424
+finished row 425
+finished row 426
+finished row 427
+finished row 428
+finished row 429
+finished row 430
+finished row 431
+finished row 432
+finished row 433
+finished row 434
+finished row 435
+finished row 436
+finished row 437
+finished row 438
+finished row 439
+finished row 440
+finished row 441
+finished row 442
+finished row 443
+finished row 444
+finished row 445
+finished row 446
+finished row 447
+finished row 448
+finished row 449
+finished row 450
+finished row 451
+finished row 452
+finished row 453
+finished row 454
+finished row 455
+finished row 456
+finished row 457
+finished row 458
+finished row 459
+finished row 460
+finished row 461
+finished row 462
+finished row 463
+finished row 464
+finished row 465
+finished row 466
+finished row 467
+finished row 468
+finished row 469
+finished row 470
+finished row 471
+finished row 472
+finished row 473
+finished row 474
+finished row 475
+finished row 476
+finished row 477
+finished row 478
+finished row 479
+finished row 480
+finished row 481
+finished row 482
+finished row 483
+finished row 484
+finished row 485
+finished row 486
+finished row 487
+finished row 488
+finished row 489
+finished row 490
+finished row 491
+finished row 492
+finished row 493
+finished row 494
+finished row 495
+finished row 496
+finished row 497
+finished row 498
+finished row 499
+finished row 500
+finished row 501
+finished row 502
+finished row 503
+finished row 504
+finished row 505
+finished row 506
+finished row 507
+finished row 508
+finished row 509
+finished row 510
+finished row 511
+finished row 512
+finished row 513
+finished row 514
+finished row 515
+finished row 516
+finished row 517
+finished row 518
+finished row 519
+finished row 520
+finished row 521
+finished row 522
+finished row 523
+finished row 524
+finished row 525
+finished row 526
+finished row 527
+finished row 528
+finished row 529
+finished row 530
+finished row 531
+finished row 532
+finished row 533
+finished row 534
+finished row 535
+finished row 536
+finished row 537
+finished row 538
+finished row 539
+finished row 540
+finished row 541
+finished row 542
+finished row 543
+finished row 544
+finished row 545
+finished row 546
+finished row 547
+finished row 548
+finished row 549
+finished row 550
+finished row 551
+finished row 552
+finished row 553
+finished row 554
+finished row 555
+finished row 556
+finished row 557
+finished row 558
+finished row 559
+finished row 560
+finished row 561
+finished row 562
+finished row 563
+finished row 564
+finished row 565
+finished row 566
+finished row 567
+finished row 568
+finished row 569
+finished row 570
+finished row 571
+finished row 572
+finished row 573
+finished row 574
+finished row 575
+finished row 576
+finished row 577
+finished row 578
+finished row 579
+finished row 580
+finished row 581
+finished row 582
+finished row 583
+finished row 584
+finished row 585
+finished row 586
+finished row 587
+finished row 588
+finished row 589
+finished row 590
+finished row 591
+finished row 592
+finished row 593
+finished row 594
+finished row 595
+finished row 596
+finished row 597
+finished row 598
+finished row 599
+finished row 600
+finished row 601
+finished row 602
+finished row 603
+finished row 604
+finished row 605
+finished row 606
+finished row 607
+finished row 608
+finished row 609
+finished row 610
+finished row 611
+finished row 612
+finished row 613
+finished row 614
+finished row 615
+finished row 616
+finished row 617
+finished row 618
+finished row 619
+finished row 620
+finished row 621
+6 - 0.000448437
+South Ossetia: 0.00195299
+Jordan: 0.00197369
+Cayman Islands: 0.00197696
+Kenya: 0.00198363
+United Arab Emirates: 0.00198375
+State of Palestine: 0.00198744
+Abkhazia: 0.00199125
+Cuba: 0.00199861
+Qatar: 0.0020024
+Bangladesh: 0.00201618
+Nicaragua: 0.00201862
+Sierra Leone: 0.00201962
+Montserrat: 0.00202024
+Trinidad and Tobago: 0.00202365
+Tunisia: 0.00203303
+Christmas Island: 0.00203324
+Mozambique: 0.00203876
+Antigua and Barbuda: 0.00203949
+Afghanistan: 0.00204038
+Republic of Ireland: 0.00204572
+Sri Lanka: 0.00205452
+Brunei: 0.00207536
+Brazil: 0.00207659
+Switzerland: 0.00208339
+Seychelles: 0.00209296
+Cameroon: 0.00210359
+Anguilla: 0.00210597
+Oman: 0.00210737
+Iraq: 0.00211234
+Cocos (Keeling) Islands: 0.00212716
+Sudan: 0.00213001
+Ghana: 0.00214702
+Vanuatu: 0.00215019
+Saudi Arabia: 0.00215517
+Saint Lucia: 0.00218626
+Algeria: 0.00219214
+Papua New Guinea: 0.00220495
+Northern Cyprus: 0.00222471
+Hong Kong: 0.00222769
+Nigeria: 0.00223768
+Malta: 0.00225673
+Bermuda: 0.00226401
+Guam: 0.00229226
+Jamaica: 0.0023025
+Jersey: 0.00230308
+Chile: 0.00230781
+Dominica: 0.00231484
+British Indian Ocean Territory: 0.0023152
+Falkland Islands: 0.00232832
+Azerbaijan: 0.00235061
+Dominican Republic: 0.00236556
+Georgia (country): 0.00238779
+Iran: 0.00239453
+Lebanon: 0.00239529
+Isle of Man: 0.00239995
+Mauritius: 0.00241034
+Kazakhstan: 0.00242052
+Syria: 0.00243499
+Venezuela: 0.00244251
+South Africa: 0.00245666
+Gibraltar: 0.00246384
+Mexico: 0.00247892
+Guyana: 0.00250229
+Bosnia and Herzegovina: 0.00250489
+Armenia: 0.00252958
+Puerto Rico: 0.00253313
+Malaysia: 0.00256068
+Philippines: 0.00258321
+Singapore: 0.00259293
+JSTOR: 0.00262609
+Taiwan: 0.00263412
+Thailand: 0.00269479
+Akrotiri and Dhekelia: 0.00275233
+Israel: 0.00276293
+Egypt: 0.00277972
+South Korea: 0.00278919
+Argentina: 0.00280008
+Germany: 0.00284586
+American Samoa: 0.00284967
+Morocco: 0.00285074
+New Zealand: 0.00293595
+Pakistan: 0.00306886
+Turkey: 0.00310205
+Italy: 0.00314813
+Portugal: 0.00315733
+Cyprus: 0.00321007
+Japan: 0.00325492
+Russia: 0.00332322
+Indonesia: 0.00340723
+European Union: 0.00344144
+China: 0.00349847
+Australia: 0.00351842
+Canada: 0.00361787
+India: 0.00367435
+Spain: 0.00375775
+OCLC: 0.00444989
+France: 0.00463947
+United Nations: 0.00474226
+United States: 0.0054155
+finished row 0
+finished row 1
+finished row 2
+finished row 3
+finished row 4
+finished row 5
+finished row 6
+finished row 7
+finished row 8
+finished row 9
+finished row 10
+finished row 11
+finished row 12
+finished row 13
+finished row 14
+finished row 15
+finished row 16
+finished row 17
+finished row 18
+finished row 19
+finished row 20
+finished row 21
+finished row 22
+finished row 23
+finished row 24
+finished row 25
+finished row 26
+finished row 27
+finished row 28
+finished row 29
+finished row 30
+finished row 31
+finished row 32
+finished row 33
+finished row 34
+finished row 35
+finished row 36
+finished row 37
+finished row 38
+finished row 39
+finished row 40
+finished row 41
+finished row 42
+finished row 43
+finished row 44
+finished row 45
+finished row 46
+finished row 47
+finished row 48
+finished row 49
+finished row 50
+finished row 51
+finished row 52
+finished row 53
+finished row 54
+finished row 55
+finished row 56
+finished row 57
+finished row 58
+finished row 59
+finished row 60
+finished row 61
+finished row 62
+finished row 63
+finished row 64
+finished row 65
+finished row 66
+finished row 67
+finished row 68
+finished row 69
+finished row 70
+finished row 71
+finished row 72
+finished row 73
+finished row 74
+finished row 75
+finished row 76
+finished row 77
+finished row 78
+finished row 79
+finished row 80
+finished row 81
+finished row 82
+finished row 83
+finished row 84
+finished row 85
+finished row 86
+finished row 87
+finished row 88
+finished row 89
+finished row 90
+finished row 91
+finished row 92
+finished row 93
+finished row 94
+finished row 95
+finished row 96
+finished row 97
+finished row 98
+finished row 99
+finished row 100
+finished row 101
+finished row 102
+finished row 103
+finished row 104
+finished row 105
+finished row 106
+finished row 107
+finished row 108
+finished row 109
+finished row 110
+finished row 111
+finished row 112
+finished row 113
+finished row 114
+finished row 115
+finished row 116
+finished row 117
+finished row 118
+finished row 119
+finished row 120
+finished row 121
+finished row 122
+finished row 123
+finished row 124
+finished row 125
+finished row 126
+finished row 127
+finished row 128
+finished row 129
+finished row 130
+finished row 131
+finished row 132
+finished row 133
+finished row 134
+finished row 135
+finished row 136
+finished row 137
+finished row 138
+finished row 139
+finished row 140
+finished row 141
+finished row 142
+finished row 143
+finished row 144
+finished row 145
+finished row 146
+finished row 147
+finished row 148
+finished row 149
+finished row 150
+finished row 151
+finished row 152
+finished row 153
+finished row 154
+finished row 155
+finished row 156
+finished row 157
+finished row 158
+finished row 159
+finished row 160
+finished row 161
+finished row 162
+finished row 163
+finished row 164
+finished row 165
+finished row 166
+finished row 167
+finished row 168
+finished row 169
+finished row 170
+finished row 171
+finished row 172
+finished row 173
+finished row 174
+finished row 175
+finished row 176
+finished row 177
+finished row 178
+finished row 179
+finished row 180
+finished row 181
+finished row 182
+finished row 183
+finished row 184
+finished row 185
+finished row 186
+finished row 187
+finished row 188
+finished row 189
+finished row 190
+finished row 191
+finished row 192
+finished row 193
+finished row 194
+finished row 195
+finished row 196
+finished row 197
+finished row 198
+finished row 199
+finished row 200
+finished row 201
+finished row 202
+finished row 203
+finished row 204
+finished row 205
+finished row 206
+finished row 207
+finished row 208
+finished row 209
+finished row 210
+finished row 211
+finished row 212
+finished row 213
+finished row 214
+finished row 215
+finished row 216
+finished row 217
+finished row 218
+finished row 219
+finished row 220
+finished row 221
+finished row 222
+finished row 223
+finished row 224
+finished row 225
+finished row 226
+finished row 227
+finished row 228
+finished row 229
+finished row 230
+finished row 231
+finished row 232
+finished row 233
+finished row 234
+finished row 235
+finished row 236
+finished row 237
+finished row 238
+finished row 239
+finished row 240
+finished row 241
+finished row 242
+finished row 243
+finished row 244
+finished row 245
+finished row 246
+finished row 247
+finished row 248
+finished row 249
+finished row 250
+finished row 251
+finished row 252
+finished row 253
+finished row 254
+finished row 255
+finished row 256
+finished row 257
+finished row 258
+finished row 259
+finished row 260
+finished row 261
+finished row 262
+finished row 263
+finished row 264
+finished row 265
+finished row 266
+finished row 267
+finished row 268
+finished row 269
+finished row 270
+finished row 271
+finished row 272
+finished row 273
+finished row 274
+finished row 275
+finished row 276
+finished row 277
+finished row 278
+finished row 279
+finished row 280
+finished row 281
+finished row 282
+finished row 283
+finished row 284
+finished row 285
+finished row 286
+finished row 287
+finished row 288
+finished row 289
+finished row 290
+finished row 291
+finished row 292
+finished row 293
+finished row 294
+finished row 295
+finished row 296
+finished row 297
+finished row 298
+finished row 299
+finished row 300
+finished row 301
+finished row 302
+finished row 303
+finished row 304
+finished row 305
+finished row 306
+finished row 307
+finished row 308
+finished row 309
+finished row 310
+finished row 311
+finished row 312
+finished row 313
+finished row 314
+finished row 315
+finished row 316
+finished row 317
+finished row 318
+finished row 319
+finished row 320
+finished row 321
+finished row 322
+finished row 323
+finished row 324
+finished row 325
+finished row 326
+finished row 327
+finished row 328
+finished row 329
+finished row 330
+finished row 331
+finished row 332
+finished row 333
+finished row 334
+finished row 335
+finished row 336
+finished row 337
+finished row 338
+finished row 339
+finished row 340
+finished row 341
+finished row 342
+finished row 343
+finished row 344
+finished row 345
+finished row 346
+finished row 347
+finished row 348
+finished row 349
+finished row 350
+finished row 351
+finished row 352
+finished row 353
+finished row 354
+finished row 355
+finished row 356
+finished row 357
+finished row 358
+finished row 359
+finished row 360
+finished row 361
+finished row 362
+finished row 363
+finished row 364
+finished row 365
+finished row 366
+finished row 367
+finished row 368
+finished row 369
+finished row 370
+finished row 371
+finished row 372
+finished row 373
+finished row 374
+finished row 375
+finished row 376
+finished row 377
+finished row 378
+finished row 379
+finished row 380
+finished row 381
+finished row 382
+finished row 383
+finished row 384
+finished row 385
+finished row 386
+finished row 387
+finished row 388
+finished row 389
+finished row 390
+finished row 391
+finished row 392
+finished row 393
+finished row 394
+finished row 395
+finished row 396
+finished row 397
+finished row 398
+finished row 399
+finished row 400
+finished row 401
+finished row 402
+finished row 403
+finished row 404
+finished row 405
+finished row 406
+finished row 407
+finished row 408
+finished row 409
+finished row 410
+finished row 411
+finished row 412
+finished row 413
+finished row 414
+finished row 415
+finished row 416
+finished row 417
+finished row 418
+finished row 419
+finished row 420
+finished row 421
+finished row 422
+finished row 423
+finished row 424
+finished row 425
+finished row 426
+finished row 427
+finished row 428
+finished row 429
+finished row 430
+finished row 431
+finished row 432
+finished row 433
+finished row 434
+finished row 435
+finished row 436
+finished row 437
+finished row 438
+finished row 439
+finished row 440
+finished row 441
+finished row 442
+finished row 443
+finished row 444
+finished row 445
+finished row 446
+finished row 447
+finished row 448
+finished row 449
+finished row 450
+finished row 451
+finished row 452
+finished row 453
+finished row 454
+finished row 455
+finished row 456
+finished row 457
+finished row 458
+finished row 459
+finished row 460
+finished row 461
+finished row 462
+finished row 463
+finished row 464
+finished row 465
+finished row 466
+finished row 467
+finished row 468
+finished row 469
+finished row 470
+finished row 471
+finished row 472
+finished row 473
+finished row 474
+finished row 475
+finished row 476
+finished row 477
+finished row 478
+finished row 479
+finished row 480
+finished row 481
+finished row 482
+finished row 483
+finished row 484
+finished row 485
+finished row 486
+finished row 487
+finished row 488
+finished row 489
+finished row 490
+finished row 491
+finished row 492
+finished row 493
+finished row 494
+finished row 495
+finished row 496
+finished row 497
+finished row 498
+finished row 499
+finished row 500
+finished row 501
+finished row 502
+finished row 503
+finished row 504
+finished row 505
+finished row 506
+finished row 507
+finished row 508
+finished row 509
+finished row 510
+finished row 511
+finished row 512
+finished row 513
+finished row 514
+finished row 515
+finished row 516
+finished row 517
+finished row 518
+finished row 519
+finished row 520
+finished row 521
+finished row 522
+finished row 523
+finished row 524
+finished row 525
+finished row 526
+finished row 527
+finished row 528
+finished row 529
+finished row 530
+finished row 531
+finished row 532
+finished row 533
+finished row 534
+finished row 535
+finished row 536
+finished row 537
+finished row 538
+finished row 539
+finished row 540
+finished row 541
+finished row 542
+finished row 543
+finished row 544
+finished row 545
+finished row 546
+finished row 547
+finished row 548
+finished row 549
+finished row 550
+finished row 551
+finished row 552
+finished row 553
+finished row 554
+finished row 555
+finished row 556
+finished row 557
+finished row 558
+finished row 559
+finished row 560
+finished row 561
+finished row 562
+finished row 563
+finished row 564
+finished row 565
+finished row 566
+finished row 567
+finished row 568
+finished row 569
+finished row 570
+finished row 571
+finished row 572
+finished row 573
+finished row 574
+finished row 575
+finished row 576
+finished row 577
+finished row 578
+finished row 579
+finished row 580
+finished row 581
+finished row 582
+finished row 583
+finished row 584
+finished row 585
+finished row 586
+finished row 587
+finished row 588
+finished row 589
+finished row 590
+finished row 591
+finished row 592
+finished row 593
+finished row 594
+finished row 595
+finished row 596
+finished row 597
+finished row 598
+finished row 599
+finished row 600
+finished row 601
+finished row 602
+finished row 603
+finished row 604
+finished row 605
+finished row 606
+finished row 607
+finished row 608
+finished row 609
+finished row 610
+finished row 611
+finished row 612
+finished row 613
+finished row 614
+finished row 615
+finished row 616
+finished row 617
+finished row 618
+finished row 619
+finished row 620
+finished row 621
+7 - 0.000302915
+South Ossetia: 0.00131923
+Jordan: 0.00133321
+Cayman Islands: 0.00133542
+Kenya: 0.00133993
+United Arab Emirates: 0.00134001
+State of Palestine: 0.0013425
+Abkhazia: 0.00134507
+Cuba: 0.00135004
+Qatar: 0.00135261
+Bangladesh: 0.00136191
+Nicaragua: 0.00136356
+Sierra Leone: 0.00136424
+Montserrat: 0.00136466
+Trinidad and Tobago: 0.00136696
+Tunisia: 0.0013733
+Christmas Island: 0.00137343
+Mozambique: 0.00137716
+Antigua and Barbuda: 0.00137766
+Afghanistan: 0.00137826
+Republic of Ireland: 0.00138187
+Sri Lanka: 0.00138781
+Brunei: 0.00140189
+Brazil: 0.00140272
+Switzerland: 0.00140731
+Seychelles: 0.00141378
+Cameroon: 0.00142096
+Anguilla: 0.00142257
+Oman: 0.00142351
+Iraq: 0.00142687
+Cocos (Keeling) Islands: 0.00143688
+Sudan: 0.00143881
+Ghana: 0.0014503
+Vanuatu: 0.00145244
+Saudi Arabia: 0.0014558
+Saint Lucia: 0.0014768
+Algeria: 0.00148077
+Papua New Guinea: 0.00148942
+Northern Cyprus: 0.00150278
+Hong Kong: 0.00150479
+Nigeria: 0.00151154
+Malta: 0.0015244
+Bermuda: 0.00152932
+Guam: 0.0015484
+Jamaica: 0.00155532
+Jersey: 0.00155571
+Chile: 0.00155891
+Dominica: 0.00156365
+British Indian Ocean Territory: 0.0015639
+Falkland Islands: 0.00157276
+Azerbaijan: 0.00158782
+Dominican Republic: 0.00159792
+Georgia (country): 0.00161293
+Iran: 0.00161749
+Lebanon: 0.001618
+Isle of Man: 0.00162115
+Mauritius: 0.00162817
+Kazakhstan: 0.00163504
+Syria: 0.00164482
+Venezuela: 0.00164989
+South Africa: 0.00165945
+Gibraltar: 0.0016643
+Mexico: 0.00167449
+Guyana: 0.00169028
+Bosnia and Herzegovina: 0.00169204
+Armenia: 0.00170871
+Puerto Rico: 0.00171111
+Malaysia: 0.00172972
+Philippines: 0.00174493
+Singapore: 0.0017515
+JSTOR: 0.0017739
+Taiwan: 0.00177933
+Thailand: 0.00182031
+Akrotiri and Dhekelia: 0.00185918
+Israel: 0.00186633
+Egypt: 0.00187768
+South Korea: 0.00188408
+Argentina: 0.00189143
+Germany: 0.00192236
+American Samoa: 0.00192493
+Morocco: 0.00192565
+New Zealand: 0.00198321
+Pakistan: 0.00207299
+Turkey: 0.00209541
+Italy: 0.00212653
+Portugal: 0.00213275
+Cyprus: 0.00216838
+Japan: 0.00219867
+Russia: 0.00224481
+Indonesia: 0.00230156
+European Union: 0.00232467
+China: 0.00236319
+Australia: 0.00237666
+Canada: 0.00244384
+India: 0.00248199
+Spain: 0.00253833
+OCLC: 0.00300587
+France: 0.00313393
+United Nations: 0.00320336
+United States: 0.00365813
+finished row 0
+finished row 1
+finished row 2
+finished row 3
+finished row 4
+finished row 5
+finished row 6
+finished row 7
+finished row 8
+finished row 9
+finished row 10
+finished row 11
+finished row 12
+finished row 13
+finished row 14
+finished row 15
+finished row 16
+finished row 17
+finished row 18
+finished row 19
+finished row 20
+finished row 21
+finished row 22
+finished row 23
+finished row 24
+finished row 25
+finished row 26
+finished row 27
+finished row 28
+finished row 29
+finished row 30
+finished row 31
+finished row 32
+finished row 33
+finished row 34
+finished row 35
+finished row 36
+finished row 37
+finished row 38
+finished row 39
+finished row 40
+finished row 41
+finished row 42
+finished row 43
+finished row 44
+finished row 45
+finished row 46
+finished row 47
+finished row 48
+finished row 49
+finished row 50
+finished row 51
+finished row 52
+finished row 53
+finished row 54
+finished row 55
+finished row 56
+finished row 57
+finished row 58
+finished row 59
+finished row 60
+finished row 61
+finished row 62
+finished row 63
+finished row 64
+finished row 65
+finished row 66
+finished row 67
+finished row 68
+finished row 69
+finished row 70
+finished row 71
+finished row 72
+finished row 73
+finished row 74
+finished row 75
+finished row 76
+finished row 77
+finished row 78
+finished row 79
+finished row 80
+finished row 81
+finished row 82
+finished row 83
+finished row 84
+finished row 85
+finished row 86
+finished row 87
+finished row 88
+finished row 89
+finished row 90
+finished row 91
+finished row 92
+finished row 93
+finished row 94
+finished row 95
+finished row 96
+finished row 97
+finished row 98
+finished row 99
+finished row 100
+finished row 101
+finished row 102
+finished row 103
+finished row 104
+finished row 105
+finished row 106
+finished row 107
+finished row 108
+finished row 109
+finished row 110
+finished row 111
+finished row 112
+finished row 113
+finished row 114
+finished row 115
+finished row 116
+finished row 117
+finished row 118
+finished row 119
+finished row 120
+finished row 121
+finished row 122
+finished row 123
+finished row 124
+finished row 125
+finished row 126
+finished row 127
+finished row 128
+finished row 129
+finished row 130
+finished row 131
+finished row 132
+finished row 133
+finished row 134
+finished row 135
+finished row 136
+finished row 137
+finished row 138
+finished row 139
+finished row 140
+finished row 141
+finished row 142
+finished row 143
+finished row 144
+finished row 145
+finished row 146
+finished row 147
+finished row 148
+finished row 149
+finished row 150
+finished row 151
+finished row 152
+finished row 153
+finished row 154
+finished row 155
+finished row 156
+finished row 157
+finished row 158
+finished row 159
+finished row 160
+finished row 161
+finished row 162
+finished row 163
+finished row 164
+finished row 165
+finished row 166
+finished row 167
+finished row 168
+finished row 169
+finished row 170
+finished row 171
+finished row 172
+finished row 173
+finished row 174
+finished row 175
+finished row 176
+finished row 177
+finished row 178
+finished row 179
+finished row 180
+finished row 181
+finished row 182
+finished row 183
+finished row 184
+finished row 185
+finished row 186
+finished row 187
+finished row 188
+finished row 189
+finished row 190
+finished row 191
+finished row 192
+finished row 193
+finished row 194
+finished row 195
+finished row 196
+finished row 197
+finished row 198
+finished row 199
+finished row 200
+finished row 201
+finished row 202
+finished row 203
+finished row 204
+finished row 205
+finished row 206
+finished row 207
+finished row 208
+finished row 209
+finished row 210
+finished row 211
+finished row 212
+finished row 213
+finished row 214
+finished row 215
+finished row 216
+finished row 217
+finished row 218
+finished row 219
+finished row 220
+finished row 221
+finished row 222
+finished row 223
+finished row 224
+finished row 225
+finished row 226
+finished row 227
+finished row 228
+finished row 229
+finished row 230
+finished row 231
+finished row 232
+finished row 233
+finished row 234
+finished row 235
+finished row 236
+finished row 237
+finished row 238
+finished row 239
+finished row 240
+finished row 241
+finished row 242
+finished row 243
+finished row 244
+finished row 245
+finished row 246
+finished row 247
+finished row 248
+finished row 249
+finished row 250
+finished row 251
+finished row 252
+finished row 253
+finished row 254
+finished row 255
+finished row 256
+finished row 257
+finished row 258
+finished row 259
+finished row 260
+finished row 261
+finished row 262
+finished row 263
+finished row 264
+finished row 265
+finished row 266
+finished row 267
+finished row 268
+finished row 269
+finished row 270
+finished row 271
+finished row 272
+finished row 273
+finished row 274
+finished row 275
+finished row 276
+finished row 277
+finished row 278
+finished row 279
+finished row 280
+finished row 281
+finished row 282
+finished row 283
+finished row 284
+finished row 285
+finished row 286
+finished row 287
+finished row 288
+finished row 289
+finished row 290
+finished row 291
+finished row 292
+finished row 293
+finished row 294
+finished row 295
+finished row 296
+finished row 297
+finished row 298
+finished row 299
+finished row 300
+finished row 301
+finished row 302
+finished row 303
+finished row 304
+finished row 305
+finished row 306
+finished row 307
+finished row 308
+finished row 309
+finished row 310
+finished row 311
+finished row 312
+finished row 313
+finished row 314
+finished row 315
+finished row 316
+finished row 317
+finished row 318
+finished row 319
+finished row 320
+finished row 321
+finished row 322
+finished row 323
+finished row 324
+finished row 325
+finished row 326
+finished row 327
+finished row 328
+finished row 329
+finished row 330
+finished row 331
+finished row 332
+finished row 333
+finished row 334
+finished row 335
+finished row 336
+finished row 337
+finished row 338
+finished row 339
+finished row 340
+finished row 341
+finished row 342
+finished row 343
+finished row 344
+finished row 345
+finished row 346
+finished row 347
+finished row 348
+finished row 349
+finished row 350
+finished row 351
+finished row 352
+finished row 353
+finished row 354
+finished row 355
+finished row 356
+finished row 357
+finished row 358
+finished row 359
+finished row 360
+finished row 361
+finished row 362
+finished row 363
+finished row 364
+finished row 365
+finished row 366
+finished row 367
+finished row 368
+finished row 369
+finished row 370
+finished row 371
+finished row 372
+finished row 373
+finished row 374
+finished row 375
+finished row 376
+finished row 377
+finished row 378
+finished row 379
+finished row 380
+finished row 381
+finished row 382
+finished row 383
+finished row 384
+finished row 385
+finished row 386
+finished row 387
+finished row 388
+finished row 389
+finished row 390
+finished row 391
+finished row 392
+finished row 393
+finished row 394
+finished row 395
+finished row 396
+finished row 397
+finished row 398
+finished row 399
+finished row 400
+finished row 401
+finished row 402
+finished row 403
+finished row 404
+finished row 405
+finished row 406
+finished row 407
+finished row 408
+finished row 409
+finished row 410
+finished row 411
+finished row 412
+finished row 413
+finished row 414
+finished row 415
+finished row 416
+finished row 417
+finished row 418
+finished row 419
+finished row 420
+finished row 421
+finished row 422
+finished row 423
+finished row 424
+finished row 425
+finished row 426
+finished row 427
+finished row 428
+finished row 429
+finished row 430
+finished row 431
+finished row 432
+finished row 433
+finished row 434
+finished row 435
+finished row 436
+finished row 437
+finished row 438
+finished row 439
+finished row 440
+finished row 441
+finished row 442
+finished row 443
+finished row 444
+finished row 445
+finished row 446
+finished row 447
+finished row 448
+finished row 449
+finished row 450
+finished row 451
+finished row 452
+finished row 453
+finished row 454
+finished row 455
+finished row 456
+finished row 457
+finished row 458
+finished row 459
+finished row 460
+finished row 461
+finished row 462
+finished row 463
+finished row 464
+finished row 465
+finished row 466
+finished row 467
+finished row 468
+finished row 469
+finished row 470
+finished row 471
+finished row 472
+finished row 473
+finished row 474
+finished row 475
+finished row 476
+finished row 477
+finished row 478
+finished row 479
+finished row 480
+finished row 481
+finished row 482
+finished row 483
+finished row 484
+finished row 485
+finished row 486
+finished row 487
+finished row 488
+finished row 489
+finished row 490
+finished row 491
+finished row 492
+finished row 493
+finished row 494
+finished row 495
+finished row 496
+finished row 497
+finished row 498
+finished row 499
+finished row 500
+finished row 501
+finished row 502
+finished row 503
+finished row 504
+finished row 505
+finished row 506
+finished row 507
+finished row 508
+finished row 509
+finished row 510
+finished row 511
+finished row 512
+finished row 513
+finished row 514
+finished row 515
+finished row 516
+finished row 517
+finished row 518
+finished row 519
+finished row 520
+finished row 521
+finished row 522
+finished row 523
+finished row 524
+finished row 525
+finished row 526
+finished row 527
+finished row 528
+finished row 529
+finished row 530
+finished row 531
+finished row 532
+finished row 533
+finished row 534
+finished row 535
+finished row 536
+finished row 537
+finished row 538
+finished row 539
+finished row 540
+finished row 541
+finished row 542
+finished row 543
+finished row 544
+finished row 545
+finished row 546
+finished row 547
+finished row 548
+finished row 549
+finished row 550
+finished row 551
+finished row 552
+finished row 553
+finished row 554
+finished row 555
+finished row 556
+finished row 557
+finished row 558
+finished row 559
+finished row 560
+finished row 561
+finished row 562
+finished row 563
+finished row 564
+finished row 565
+finished row 566
+finished row 567
+finished row 568
+finished row 569
+finished row 570
+finished row 571
+finished row 572
+finished row 573
+finished row 574
+finished row 575
+finished row 576
+finished row 577
+finished row 578
+finished row 579
+finished row 580
+finished row 581
+finished row 582
+finished row 583
+finished row 584
+finished row 585
+finished row 586
+finished row 587
+finished row 588
+finished row 589
+finished row 590
+finished row 591
+finished row 592
+finished row 593
+finished row 594
+finished row 595
+finished row 596
+finished row 597
+finished row 598
+finished row 599
+finished row 600
+finished row 601
+finished row 602
+finished row 603
+finished row 604
+finished row 605
+finished row 606
+finished row 607
+finished row 608
+finished row 609
+finished row 610
+finished row 611
+finished row 612
+finished row 613
+finished row 614
+finished row 615
+finished row 616
+finished row 617
+finished row 618
+finished row 619
+finished row 620
+finished row 621
+8 - 0.000138217
+South Ossetia: 0.00060195
+Jordan: 0.000608331
+Cayman Islands: 0.000609338
+Kenya: 0.000611394
+United Arab Emirates: 0.00061143
+State of Palestine: 0.000612567
+Abkhazia: 0.000613743
+Cuba: 0.000616011
+Qatar: 0.000617179
+Bangladesh: 0.000621427
+Nicaragua: 0.000622179
+Sierra Leone: 0.000622488
+Montserrat: 0.000622678
+Trinidad and Tobago: 0.00062373
+Tunisia: 0.00062662
+Christmas Island: 0.000626684
+Mozambique: 0.000628385
+Antigua and Barbuda: 0.000628611
+Afghanistan: 0.000628884
+Republic of Ireland: 0.000630531
+Sri Lanka: 0.000633242
+Brunei: 0.000639667
+Brazil: 0.000640045
+Switzerland: 0.000642142
+Seychelles: 0.000645091
+Cameroon: 0.000648368
+Anguilla: 0.000649102
+Oman: 0.000649533
+Iraq: 0.000651066
+Cocos (Keeling) Islands: 0.000655634
+Sudan: 0.000656512
+Ghana: 0.000661755
+Vanuatu: 0.000662731
+Saudi Arabia: 0.000664268
+Saint Lucia: 0.000673848
+Algeria: 0.00067566
+Papua New Guinea: 0.000679608
+Northern Cyprus: 0.000685701
+Hong Kong: 0.000686619
+Nigeria: 0.000689698
+Malta: 0.000695568
+Bermuda: 0.000697812
+Guam: 0.00070652
+Jamaica: 0.000709677
+Jersey: 0.000709854
+Chile: 0.000711312
+Dominica: 0.000713479
+British Indian Ocean Territory: 0.000713591
+Falkland Islands: 0.000717633
+Azerbaijan: 0.000724506
+Dominican Republic: 0.000729113
+Georgia (country): 0.000735965
+Iran: 0.000738042
+Lebanon: 0.000738275
+Isle of Man: 0.000739713
+Mauritius: 0.000742915
+Kazakhstan: 0.000746053
+Syria: 0.000750512
+Venezuela: 0.000752829
+South Africa: 0.000757191
+Gibraltar: 0.000759403
+Mexico: 0.000764052
+Guyana: 0.000771257
+Bosnia and Herzegovina: 0.000772058
+Armenia: 0.000779667
+Puerto Rico: 0.000780762
+Malaysia: 0.000789252
+Philippines: 0.000796195
+Singapore: 0.000799192
+JSTOR: 0.000809413
+Taiwan: 0.000811889
+Thailand: 0.000830587
+Akrotiri and Dhekelia: 0.000848323
+Israel: 0.000851589
+Egypt: 0.000856764
+South Korea: 0.000859685
+Argentina: 0.000863041
+Germany: 0.000877151
+American Samoa: 0.000878326
+Morocco: 0.000878655
+New Zealand: 0.000904918
+Pakistan: 0.000945885
+Turkey: 0.000956114
+Italy: 0.000970315
+Portugal: 0.000973152
+Cyprus: 0.000989408
+Japan: 0.00100323
+Russia: 0.00102428
+Indonesia: 0.00105018
+European Union: 0.00106072
+China: 0.0010783
+Australia: 0.00108445
+Canada: 0.0011151
+India: 0.00113251
+Spain: 0.00115821
+OCLC: 0.00137155
+France: 0.00142998
+United Nations: 0.00146166
+United States: 0.00166916
+finished iteration!!
